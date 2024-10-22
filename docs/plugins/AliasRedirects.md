@@ -1,5 +1,4 @@
 ---
-title: AliasRedirects
 tags:
   - plugin/emitter
 ---
@@ -10,7 +9,6 @@ For example, A `foo.md` has the following frontmatter
 
 ```md title="foo.md"
 ---
-title: "Foo"
 alias:
   - "bar"
 ---

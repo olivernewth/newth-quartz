@@ -1,5 +1,4 @@
 ---
-title: RemoveDrafts
 tags:
   - plugin/filter
 ---

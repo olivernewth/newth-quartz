@@ -1,5 +1,4 @@
 ---
-title: "Explorer"
 tags:
   - component
 ---

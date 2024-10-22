@@ -1,5 +1,4 @@
 ---
-title: FolderPage
 tags:
   - plugin/emitter
 ---

@@ -1,5 +1,4 @@
 ---
-title: Private Pages
 tags:
   - feature/filter
 ---

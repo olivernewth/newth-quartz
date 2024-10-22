@@ -1,5 +1,4 @@
 ---
-title: Comments
 tags:
   - component
 ---

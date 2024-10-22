@@ -1,5 +1,4 @@
 ---
-title: Architecture
 ---
 
 Quartz is a static site generator. How does it work?

@@ -1,5 +1,4 @@
 ---
-title: "Upgrading Quartz"
 ---
 
 > [!note]

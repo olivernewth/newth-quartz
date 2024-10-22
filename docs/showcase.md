@@ -1,5 +1,4 @@
 ---
-title: "Quartz Showcase"
 ---
 
 Want to see what Quartz can do? Here are some cool community gardens:

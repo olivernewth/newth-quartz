@@ -1,5 +1,4 @@
 ---
-title: Recent Notes
 tags: component
 ---
 

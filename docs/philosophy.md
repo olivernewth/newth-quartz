@@ -1,5 +1,4 @@
 ---
-title: Philosophy of Quartz
 ---
 
 ## A garden should be a true hypertext

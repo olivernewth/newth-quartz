@@ -1,5 +1,4 @@
 ---
-title: Description
 tags:
   - plugin/transformer
 ---

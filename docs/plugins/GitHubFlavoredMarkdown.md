@@ -1,5 +1,4 @@
 ---
-title: GitHubFlavoredMarkdown
 tags:
   - plugin/transformer
 ---

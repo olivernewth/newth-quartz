@@ -1,5 +1,4 @@
 ---
-title: RoamFlavoredMarkdown
 tags:
   - plugin/transformer
 ---

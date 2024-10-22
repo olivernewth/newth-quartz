@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
+# Notes
 
-This is a blank Quartz installation. HI
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This folder contains all my notes.

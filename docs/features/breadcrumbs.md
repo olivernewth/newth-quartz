@@ -1,5 +1,4 @@
 ---
-title: "Breadcrumbs"
 tags:
   - component
 ---

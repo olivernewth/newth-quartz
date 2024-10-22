@@ -1,5 +1,4 @@
 ---
-title: "Darkmode"
 tags:
   - component
 ---

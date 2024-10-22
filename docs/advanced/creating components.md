@@ -1,5 +1,4 @@
 ---
-title: Creating your own Quartz components
 ---
 
 > [!warning]

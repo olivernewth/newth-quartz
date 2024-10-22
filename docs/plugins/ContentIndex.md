@@ -1,5 +1,4 @@
 ---
-title: ContentIndex
 tags:
   - plugin/emitter
 ---

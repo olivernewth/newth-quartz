@@ -1,5 +1,4 @@
 ---
-title: Static
 tags:
   - plugin/emitter
 ---

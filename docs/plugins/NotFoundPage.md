@@ -1,5 +1,4 @@
 ---
-title: NotFoundPage
 tags:
   - plugin/emitter
 ---
