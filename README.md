@@ -24,4 +24,29 @@ Feel free to start your journey from the homepage and follow the links that inte
 
 If you'd like to connect or have any questions, feel free to reach out. You can find my contact information on the site.
 
+## Building and Deploying Quartz
+
+To build and deploy this Quartz site, use the following commands:
+
+### Local Development
+1. Build and serve the site locally: `npx quartz build --serve`
+2. Open a web browser and visit `http://localhost:8080/` to view it
+
+### Setting up GitHub Repository
+1. Create a new repository on GitHub.com (without initializing it)
+2. Copy the remote repository URL
+3. In your terminal, navigate to the root of your Quartz folder
+4. Run the following commands (replace REMOTE-URL with your repository URL):
+   ```
+   git remote -v
+   git remote set-url origin REMOTE-URL
+   git remote add upstream https://github.com/jackyzha0/quartz.git
+   ```
+5. Sync your content: `npx quartz sync --no-pull`
+
+### Deployment
+For production deployment, refer to the Quartz documentation on hosting options.
+
+Note: The `--serve` mode is intended for local previews only and should not be used for production.
+
 Happy exploring!
