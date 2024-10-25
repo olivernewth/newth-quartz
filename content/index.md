@@ -25,3 +25,4 @@ Remember: This is a [[Meta/Living Documents|living document]]. Keep exploring an
 
 - [[Professional Development]] - Continuous learning and skill development
 - [[Interview Preparation]] - Questions, answers, and frameworks
+- [[Projects/Technology Trends]] - Current trends in technology
