@@ -1,17 +1,27 @@
+# Welcome to Oliver's Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is my digital garden, a space where I cultivate and share my thoughts, ideas, and knowledge. Here, you'll find a collection of interconnected notes and articles on various topics that interest me.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## About This Site
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Oliver's Garden is built using Quartz, a powerful tool for publishing digital gardens. It's designed to be:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- **Interconnected**: Ideas are linked together, allowing for exploration and discovery.
+- **Ever-growing**: Like a real garden, this space is constantly evolving and expanding.
+- **Open**: Feel free to explore and draw inspiration from the content here.
 
-## Sponsors
+## What You'll Find Here
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- **Notes**: Bite-sized thoughts and observations on various subjects.
+- **Articles**: More in-depth explorations of topics I'm passionate about.
+- **Projects**: Showcases of my work and ongoing endeavors.
+
+## Navigation
+
+Feel free to start your journey from the homepage and follow the links that interest you. You can also use the search function to find specific topics.
+
+## Stay Connected
+
+If you'd like to connect or have any questions, feel free to reach out. You can find my contact information on the site.
+
+Happy exploring!
