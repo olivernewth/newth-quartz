@@ -1,5 +1,5 @@
 ---
-title: Approach to personal knowledge management
+title: Learning
 description: A comprehensive guide to personal knowledge management and learning strategies
 icon: 🧠
 createdAt: 2024-03-22T06:28:41.803Z
