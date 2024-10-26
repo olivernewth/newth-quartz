@@ -1,0 +1,1 @@
+Act like you're in private and any of those barriers, which might hold you back can be gone. There are many examples of way the fear of others seeing your work is a restrictive action. 

@@ -1,2 +1,3 @@
 # Presence
 
+This book left a mark with me because it reminded me about how I need to be more in the moment. I am often absorbed in my fears of the future and in the end, this can hold me back

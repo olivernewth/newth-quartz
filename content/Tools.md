@@ -1,7 +1,7 @@
 ## Productivity
 - [Raycast](https://www.raycast.com/) - Mac Spotlight replacement
 - [Obsidian](https://obsidian.md/) - Note taking
-- [Notion](https://www.notion.so/) - Note taking
+- [Notion](https://www.notion.so/) - Note taking for my digital garden
 - [Things](https://culturedcode.com/things/) - Task management app
 - [Hookmark](https://hookproductivity.com/) - Linking and automation tool
 
@@ -25,7 +25,6 @@
 - [Arc](https://arc.net/) - Innovative web browser
 - [Reeder](https://reederapp.com/) - RSS feed reader
 - [Mimestream](https://mimestream.com/) - Native Gmail client for macOS
-- [Zoom](https://zoom.us/) - Video conferencing software
 
 ## Design and Media
 - [Figma](https://www.figma.com/) - Collaborative design tool

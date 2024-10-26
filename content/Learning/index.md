@@ -48,7 +48,7 @@ Areas needing development are tagged with #Focus.
 - **Engaging with the Community**: Share your garden and collaborate with others for feedback
 
 ### Incorporating [[Zettelkasten]] for Improved Understanding
-The Zettelkasten method can be a valuable tool when combined with a [[Digital Garden]], creating a comprehensive knowledge management system through interconnected notes.
+The Zettelkasten method can be a valuable tool when combined with a [[Digital Garden]], creating a comprehensive [[Knowledge Management Systems|knowledge management system]] through interconnected notes.
 
 ## Knowledge Management Systems
 

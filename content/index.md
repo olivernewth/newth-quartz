@@ -4,8 +4,10 @@ title: Welcome to Oliver's Garden 🪴
 This is my place where I share all aspects of my life. It's a [[Living document]], so don't expect it to be perfect :) 
 
 - [[Create]] - My creative projects and ideas
-- [[Efforts]] - Current focus and ongoing projects
-- [[Reading List]] - My book list with things I took away from them
+- [[Interview Preparation]] - Approaches to preparing for interviews
+- [[Learning/Knowledge Management Systems|Knowledge Management]]
+- [[Career/Career Map|Career Development]]
+- [[Personal/Personal Map|Personal Growth]]
 
 ## Active Areas
 
