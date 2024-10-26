@@ -1,5 +1,6 @@
 ---
-title: Welcome to Oliver's  Garden 🌱
+type: Page
+title: Welcome to Oliver's Garden
 --- 
 
 This is my place where I share all aspects of my life. It's a living document, so don't expect it to be perfect :) 
