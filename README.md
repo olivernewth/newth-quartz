@@ -2,6 +2,8 @@
 
 This is my digital garden, a space where I cultivate and share my thoughts, ideas, and knowledge. Here, you'll find a collection of interconnected notes and articles on various topics that interest me.
 
+Quartz documentation: https://quartz.jzhao.xyz/
+
 ## About This Site
 
 Oliver's Garden is built using Quartz, a powerful tool for publishing digital gardens. It's designed to be:
