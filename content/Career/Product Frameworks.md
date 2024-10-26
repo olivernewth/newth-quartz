@@ -1,15 +1,16 @@
 
-This page outlines various product frameworks that are useful for product managers, designers, and strategists. Each framework is explained with its purpose, key components, and an example question to illustrate its application.
+There are a number of product frameworks that are useful for product managers. I have listed the main ones below that I regularly use.
 
 ## STAR (Situation, Task, Action, Result)
 
-**Purpose**: Structured method for answering behavioral interview questions.
+This is a structured approach for answering behavioral interview questions.
 
 **Components**:
-- Situation: Set the context
-- Task: Describe your responsibility
-- Action: Explain what you did
-- Result: Share the outcome
+
+- **Situation:** Set the context
+- **Task:** Describe your responsibility
+- **Action:** Explain what you did
+- **Result:** Share the outcome
 
 **Example Question**: "Tell me about a time when you had to make a difficult decision."
 
