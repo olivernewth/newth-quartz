@@ -2,9 +2,6 @@
 - [Raycast](https://www.raycast.com/) - Mac Spotlight replacement
 - [Obsidian](https://obsidian.md/) - Note taking
 - [Notion](https://www.notion.so/) - Note taking
-- [Google Calendar](https://calendar.google.com/) - Calendar
-- [Google Keep](https://keep.google.com/) - Notes
-- [Google Tasks](https://tasks.google.com/) - Tasks
 - [Things](https://culturedcode.com/things/) - Task management app
 - [Hookmark](https://hookproductivity.com/) - Linking and automation tool
 
