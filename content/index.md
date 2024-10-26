@@ -1,12 +1,11 @@
 ---
-type: Page
-title: Welcome to Oliver's Garden
---- 
-
-This is my place where I share all aspects of my life. It's a living document, so don't expect it to be perfect :) 
+title: Welcome to Oliver's Garden 🪴
+---
+This is my place where I share all aspects of my life. It's a [[living document]], so don't expect it to be perfect :) 
 
 - [[Create]] - My creative projects and ideas
 - [[Efforts]] - Current focus and ongoing projects
+- [[Books I've read]] - My book list with things I took away from them
 
 ## Active Areas
 
@@ -25,9 +24,7 @@ This is my place where I share all aspects of my life. It's a living document, s
 
 ---
 
-Remember: This is a [[Meta/Living Documents|living document]]. Keep exploring and growing!
+
 
 - [[Professional Development]] - Continuous learning and skill development
 - [[Projects/Technology Trends]] - Current trends in technology
-
-[[content/Maps/Health/Skincare]]

@@ -1,17 +1,14 @@
 ---
-type: Page
+title: Approach to personal knowledge management
 description: A comprehensive guide to personal knowledge management and learning strategies
 icon: 🧠
-createdAt: '2024-03-22T06:28:41.803Z'
+createdAt: 2024-03-22T06:28:41.803Z
 creationDate: 2024-03-21 23:28
 modificationDate: 2024-03-26 12:13
-tags: [Budding]
-coverImage: null
+tags:
+  - Budding
+coverImage:
 ---
-
-# Learning Map: A Guide to Personal Knowledge Management
-
-## Introduction
 I'm exploring how my likely [[Autism]] affects my learning and productivity. My goal is to achieve a state of [[Flow]] more often, enabling deep task engagement.
 
 ## Core Concepts
@@ -84,7 +81,3 @@ Always ask yourself: [[What might future me like to see?]]
 - [[Overcoming Brain Fog]]
 - [[Continuous Learning]]
 - [[Personal Productivity]]
-
----
-
-Remember: This is a [[Living Document]]. Keep exploring, updating, and growing your knowledge!
