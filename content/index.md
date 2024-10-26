@@ -5,7 +5,7 @@ This is my place where I share all aspects of my life. It's a [[Living document]
 
 - [[Create]] - My creative projects and ideas
 - [[Efforts]] - Current focus and ongoing projects
-- [[Books I've read]] - My book list with things I took away from them
+- [[Reading List]] - My book list with things I took away from them
 
 ## Active Areas
 
