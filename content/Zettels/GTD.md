@@ -1,1 +1,1 @@
-Getting Things Done (GTD) is a framework by which you can organize all aspects of your life. People have on average around a thousand unfinished things floating around in their minds. This system is about getting it out of their heads and onto paper.
+Getting Things Done (GTD) is a [[Framework]] by which you can organize all aspects of your life. People have on average around a thousand unfinished things floating around in their minds. This system is about getting it out of their heads and onto paper.
