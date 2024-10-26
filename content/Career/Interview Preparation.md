@@ -8,7 +8,7 @@
 
 **Improve** - Think about ways to improve the solution you present. It's worthwhile to think out loud about your initial thoughts on a question. In many cases, your first answer may need some refining and further explanation. If necessary, start with the brute force solution and improve on it — just let the interviewer know that's what you're doing and why.
 
-**Practice** - Stay current with tech trends and innovations by reading relevant news articles and blogs. Understand who your users are. Become comfortable working with frameworks. Integrate these topics in mock interviews.
+**Practice** - Stay current with tech trends and innovations by reading relevant news articles and blogs. Understand who your users are. Become comfortable working with [[Product Frameworks]]. Integrate these topics in mock interviews.
 
 Don't forget:
 
