@@ -10,6 +10,8 @@
 
 **Practice** - Stay current with tech trends and innovations by reading relevant news articles and blogs. Understand who your users are. Become comfortable working with [[Product Frameworks]]. Integrate these topics in mock interviews.
 
+Go through the [[Interview Prep Checklist]] to make sure you're well prepared!
+
 Don't forget:
 
 - Apply a user-centric approach
