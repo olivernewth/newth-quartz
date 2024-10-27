@@ -1,3 +1,109 @@
 @use "./base.scss";
 
+.page>#quartz-body .sidebar {
+    gap: 1.5rem;
+}
 // put your custom CSS here!
+.darkmode {
+    margin:0;
+}
+
+.page > #quartz-body {
+  .sidebar.left {
+    background-color: var(--light);
+    border-right: 1px solid var(--lightgray);
+    gap: 2rem;
+    top: 0;
+    box-sizing: border-box;
+    padding: 2rem 2rem 2rem 2rem;
+    margin-right: 2rem;
+    display: flex;
+    height: 100vh;
+    position: sticky;
+    z-index: 1;
+    grid-area: grid-sidebar-left;
+    flex-direction: column;
+    
+    .page-title {
+      font-size: 1.3rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--dark);
+
+      &:after {
+        content: ".garden";
+        display: inline;
+        font-size: 1.3rem;
+        color: var(--tertiary);
+        font-weight: 400;
+      }
+    }
+
+    a {
+      color: var(--secondary);
+      font-weight: 400;
+      
+      &:hover {
+        color: var(--dark);
+      }
+    }
+
+    .search {
+      
+      .search-button {
+      }
+    }
+
+    .darkmode {
+    }
+
+    .explorer {
+
+      button {
+      }
+
+      .folder-outer {
+        
+        ul {
+        }
+        
+        a {
+        }
+      }
+    }
+
+    @media all and (max-width: 960px) {
+      gap: 1rem;
+      padding: 1rem;
+      
+      .page-title {
+        margin-bottom: 0;
+      }
+      
+      .search {
+        margin: 0 1rem;
+      }
+    }
+  }
+}
+
+[saved-theme="dark"] .page > #quartz-body .sidebar.left {
+  background-color: var(--light);
+  border-right: 1px solid var(--lightgray);
+}
+
+.article-title {
+    margin-bottom: 1rem;
+}
+
+button#explorer {
+    display: none;
+}
+
+.graph h3 {
+    display: none;
+}
+
+.tags {
+    justify-self: start;
+}

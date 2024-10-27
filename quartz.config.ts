@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "newth.garden",
+    pageTitle: "newth",
     pageTitleSuffix: " - newth.garden",
     enableSPA: true,
     enablePopovers: true,
@@ -38,26 +38,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#e0e0e0",
-          gray: "#808080",
-          darkgray: "#404040",
-          dark: "#000000",
-          secondary: "#000000",
-          tertiary: "#808080",
-          highlight: "rgba(0, 0, 0, 0.1)",
-          textHighlight: "rgba(0, 0, 0, 0.2)",
+          light: "#FAF4F2", // Monokai Pro Light background
+          lightgray: "#e5e5e5", // Light border color
+          gray: "#939293", // Monokai muted
+          darkgray: "#403e41", // Monokai Pro medium
+          dark: "#221f22", // Monokai Pro dark
+          secondary: "#696769", // Subtle but visible links
+          tertiary: "#939293", // Muted text
+          highlight: "rgba(34, 31, 34, 0.08)", // Subtle highlight
+          textHighlight: "rgba(34, 31, 34, 0.15)",
         },
         darkMode: {
-          light: "#000000",
-          lightgray: "#404040",
-          gray: "#808080",
-          darkgray: "#e0e0e0",
-          dark: "#ffffff",
-          secondary: "#ffffff",
-          tertiary: "#808080",
-          highlight: "rgba(255, 255, 255, 0.1)",
-          textHighlight: "rgba(255, 255, 255, 0.2)",
+          light: "#2d2a2e", // Monokai Pro background
+          lightgray: "#403e41", // Monokai Pro border
+          gray: "#939293", // Monokai muted
+          darkgray: "#e5e5e5", // Light text
+          dark: "#fdfdf6", // Brightest text
+          secondary: "#c1c0c0", // Visible but gentle links
+          tertiary: "#939293", // Muted text
+          highlight: "rgba(253, 253, 246, 0.08)", // Subtle highlight
+          textHighlight: "rgba(253, 253, 246, 0.15)",
         },
       },
       cdnCaching: false,
