@@ -8,5 +8,8 @@ tags:
   - learning
 ---
 
+Personal book library and reading notes. This vault contains:
 
-Personal book library and reading notes.
+- [[Reading List]] - Current and completed books
+- Book reviews and detailed notes
+- Reading insights and reflections
