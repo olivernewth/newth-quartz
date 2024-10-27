@@ -71,4 +71,7 @@ Last updated: [[2024-10-27]]
 
 Feel free to wander, and remember - the best path through a garden is the one that catches your curiosity. 🌿
 
-Want to know more about how this garden grows? Check out my [[Zettels/Gardening Principles]] and [[Living document]] philosophy.
+
+> [!tip] Want to know more about how this garden grows?
+> 
+> Check out my [[Zettels/Gardening Principles]] and [[Living document]] philosophy.
