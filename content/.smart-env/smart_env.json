@@ -5,8 +5,14 @@
   },
   "smart_sources": {
     "embed_model": {
-      "model_key": "TaylorAI/bge-micro-v2",
-      "legacy_transformers": true
+      "model_key": "nomic-ai/nomic-embed-text-v1",
+      "legacy_transformers": true,
+      "text-embedding-3-large": {
+        "api_key": "sk-bl-SPzB88XV3hV074mqrRsKc9R16ZcH_Bzq1iFDCneT3BlbkFJkP15gKsXO0DihCsj3ulWnZH2Eq6I-F4qJDt7YvAlwA"
+      }
+    },
+    "smart_change": {
+      "active": true
     }
   },
   "file_exclusions": "Untitled",
@@ -18,5 +24,6 @@
     "exclude_inlinks": false,
     "exclude_outlinks": false
   },
-  "show_full_path": false
+  "show_full_path": false,
+  "expanded_view": false
 }
