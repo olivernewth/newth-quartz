@@ -44,7 +44,7 @@ Progressive overload is a key principle in exercise and fitness training where t
 
 ## Related Areas
 - [[Health/Exercise|Exercise]] programming
-- [[Health/Stress Management|Stress Management]] for recovery
+- [[Stress|Stress Management]] for recovery
 - [[Health/Sleep|Sleep]] for adaptation
 - [[Health Metrics]] tracking
 

@@ -15,5 +15,5 @@ Autism is a developmental condition characterized by unique patterns in social i
 - **Sensory Processing**: Environmental sensitivities may require thoughtful adjustments to create comfortable spaces for work and learning.
 - **Change Management**: Transitions and unexpected changes can be challenging, often requiring clear communication and structured support.
 - **Executive Function**: Organization, time management, and project planning may need additional support systems and tools.
-- **Emotional Processing**: Managing emotional responses might require developing specific [[Health/Stress Management|stress management]] strategies.
+- **Emotional Processing**: Managing emotional responses might require developing specific [[Stress|stress management]] strategies.
 - **Social Connection**: Building and maintaining relationships may benefit from structured social opportunities and support networks.

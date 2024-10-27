@@ -52,10 +52,10 @@ tags:
 - User experience analysis
 - Metrics definition
 - Framework application:
-  - [[CIRCLES Method]]
-  - [[RICE Prioritization]]
+  - [[CIRCLES]]
+  - [[RICE]]
   - [[User Journey Mapping]]
-  - [[Jobs To Be Done]]
+  - [[JTBD]]
 
 ### Case Interviews (30-45 min)
 - Business problem solving

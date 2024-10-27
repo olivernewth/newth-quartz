@@ -29,7 +29,7 @@ Your negotiating position strengthens with clear evidence of your value. Documen
 
 ## Negotiation Strategy
 
-The [[GROW Framework]] provides a structured approach to negotiation:
+The [[GROW]] provides a structured approach to negotiation:
 - **G**oals - Define your targets
 - **R**eality - Assess current situation
 - **O**ptions - Explore possibilities

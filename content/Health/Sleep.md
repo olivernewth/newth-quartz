@@ -34,7 +34,7 @@ Essential for physical and mental recovery, quality sleep is a cornerstone of ov
 - Incorporate sleep data into your overall [[Health/Health Metrics|Health Metrics]]
 
 ## Related Areas
-- Effective [[Stress Management]] can improve sleep quality
+- Effective [[Stress]] can improve sleep quality
 - Regular [[Health/Exercise|Exercise]] can promote better sleep
 - Your [[Health/Nutrition|Nutrition]] choices can impact sleep patterns
 - Apply [[Atomic Habits|Habit Formation]] techniques to establish better sleep routines

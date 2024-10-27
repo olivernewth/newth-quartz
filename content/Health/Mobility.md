@@ -33,7 +33,7 @@ Mobility - the ability to move freely and easily - is fundamental to overall [[H
 
 ## Related Areas
 - Regular [[Health/Exercise|Exercise]] builds and maintains mobility
-- Proper mobility supports effective [[Health/Stress Management|stress management]]
+- Proper mobility supports effective [[Stress|stress management]]
 - Good mobility habits complement [[Learning/Flow|flow state]] activities
 
 > [!tip] Daily Practice

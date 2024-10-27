@@ -33,7 +33,7 @@ A key component of overall health and wellness.
 ## Related Areas
 - [[Nutrition]]
 - [[Sleep]]
-- [[Stress Management]]
+- [[Stress]]
 - [[Atomic Habits|Habit Formation]]
 
 > [!tip] Consistency is Key
