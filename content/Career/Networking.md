@@ -1,5 +1,5 @@
 ---
-title: Professional Networking
+title: Networking
 description: Building and maintaining professional relationships
 tags:
   - networking

@@ -79,7 +79,7 @@ tags:
 - Digital footprint
 
 ## Resources
-- [[Professional Networking]]
+- [[Networking]]
 - [[Content Strategy]]
 - [[Personal Website]]
 - [[Social Media Management]]

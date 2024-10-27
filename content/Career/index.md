@@ -15,7 +15,7 @@ A comprehensive guide to professional growth and career management.
 - [[Career Planning]] 🎯 - Long-term career strategy and goals
 - [[Skills Development]] 📈 - Technical and soft skill improvement
 - [[Interview Preparation]] 🤝 - Interview readiness and practice
-- [[Professional Networking]] 🌐 - Building meaningful connections
+- [[Networking]] 🌐 - Building meaningful connections
 - [[Personal Brand]] ⭐ - Online presence and reputation
 
 ## Frameworks & Tools

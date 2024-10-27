@@ -52,4 +52,4 @@ tags:
 ## Resources
 - [[Career Planning]]
 - [[Skills Development]]
-- [[Professional Networking]]
+- [[Networking]]
