@@ -1,4 +1,4 @@
-## 🌅 Morning Review
+## Morning Review
 ### How am I feeling? (1-10)
 - Physical: 
 - Mental: 
@@ -10,6 +10,7 @@
 3. 
 
 ### Today's Primary Goals
+
 1. [ ] Most important task:
 2. [ ] Second priority:
 3. [ ] Third priority:
@@ -18,29 +19,12 @@
 - [ ] 🗓️ Appointments
 	- 
 
-## 📝 Notes & Thoughts
+## Notes & Thoughts
 ### Quick Capture
 
-Principles by which I live my life
-- Currently 
-	- Not overly focused
-	- Depends what I've been most interested in lately 
-- Desired 
-	- Look forward to spending time on things 
-		- [[Zettels/Energy]] 
-	- Spend time cooking again?
-		- What would make it easier?
 
-Partly watched [[Helvetica]]
 ### Meeting Notes
 
-
-## 🎯 Tasks
-### New Tasks
-- [ ] 
-
-### Ongoing Projects
-- [ ] 
 
 ### Habits
 - [ ] 💧 Drink 8 glasses of water
@@ -67,10 +51,13 @@ Partly watched [[Helvetica]]
 
 
 ### Tomorrow's Top 3 Priorities
+
 1. 
 2. 
 3. 
 
 ---
 ## References
-- Related to: [[Daily]] [[Weekly Review]]
+
+- [[Reviews/Monthly/{{date:MMM YYYY}} Review]]
+- [[Reviews/Yearly/{{date:YYYY}} Review]]
