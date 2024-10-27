@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { EmojiReplacer } from "./quartz/plugins/transformers/emoji-replacer"
 
 /**
  * Quartz 4.0 Configuration
@@ -92,6 +93,9 @@ const config: QuartzConfig = {
       //     include: "**/components/*.{mtsx,mjsx,tsx,jsx}",
       //   },
       // }),
+      EmojiReplacer({
+        style: "gemoji", // or "native"
+      }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

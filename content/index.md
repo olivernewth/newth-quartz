@@ -1,7 +1,7 @@
 ---
 title: Welcome
 ---
-Hey there! This is my personal knowledge space - a digital garden where I grow and share ideas. It's always evolving, just like our thoughts should.
+Hey there! This is my personal knowledge space - a digital garden where I grow and share ideas. It's always evolving, just like our thoughts should. :heart:
 
 ## What I'm Into Right Now
 
