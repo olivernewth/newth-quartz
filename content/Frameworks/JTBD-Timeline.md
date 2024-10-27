@@ -1,5 +1,6 @@
 ---
 title: Jobs-to-be-Done Timeline
+tags: Product
 ---
 
 An extension of JTBD that focuses on the complete customer journey.
