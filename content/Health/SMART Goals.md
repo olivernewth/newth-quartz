@@ -1,7 +1,4 @@
----
-title: SMART Health Goals
-tag: Health
----
+# SMART Goals
 
 
 A framework for setting effective health and fitness goals.
