@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Oliver's Garden",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " - Oliver's Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "garden.newth.ai",
-    ignorePatterns: ["private", "Private", "templates", ".obsidian", "smart-chats"],
+    ignorePatterns: ["private", "Private", "templates", ".obsidian", "smart-chats", "Resources"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "local",

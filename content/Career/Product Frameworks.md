@@ -3,7 +3,7 @@ There are a number of product frameworks that are useful for product managers. I
 
 ## STAR (Situation, Task, Action, Result)
 
-This is a structured approach for answering behavioral interview questions.
+This is a structured approach for answering behavioral interview questions. Interview
 
 **Components**:
 
