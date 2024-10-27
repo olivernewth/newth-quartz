@@ -1,57 +1,55 @@
 ---
 title: Reading List
-description: A curated list of books for personal and professional growth
+description: My personal reading journey and book recommendations
 tags:
   - books
   - reading
   - learning
 ---
 
-A Reading List is a collection of books selected for their potential to enhance knowledge, skills, and personal development.
+# My Reading Journey
 
-## Categories
+This is where I track my reading progress, reflect on books that have impacted me, and plan my future reads. I use this space to capture insights and maintain momentum in my reading practice.
 
-### Personal Development
-- Self-help
-- Mindfulness
-- Motivation
+## Currently Reading
+- [[Never Let Me Go]] by Kazuo Ishiguro
+  - Started: March 2024
+  - Notes: Exploring themes of memory and what makes us human
 
-### Professional Growth
-- Leadership
-- Strategy
-- Innovation
+## Reading Goals 2024
+- Read 24 books this year
+- Focus on mix of:
+  - Literary fiction for pleasure
+  - Professional development
+  - Psychology/behavioral science
+  - One classic per quarter
 
+## Recently Completed
 ### Fiction
-- Classics
-- Contemporary
-- Genre-specific
+- [[None of This Is True]] by Lisa Jewell ⭐️⭐️⭐️⭐️⭐️
+  - Brilliant meta-commentary on true crime podcasts
+  - Loved the unreliable narrator technique
+- [[Yellowface]] by R.F. Huang ⭐️⭐️⭐️⭐️⭐️
+  - Sharp critique of publishing industry
+  - Couldn't put it down
+- [[The Housemaid's Secret]] by Freida McFadden ⭐️⭐️⭐️⭐️
+- [[First Lie Wins]] by Ashley Easton ⭐️⭐️⭐️⭐️
+- [[The Winner]] by Teddy Wayne ⭐️⭐️⭐️
 
-## Application
+### Non-Fiction
+- [[Presence]] by Amy Cuddy ⭐️⭐️⭐️⭐️⭐️
+  - Key takeaways:
+    - Power posing research
+    - Authentic leadership presence
+    - Managing impostor syndrome
 
-1. **Learning Goals**
-   - Skill acquisition
-   - Knowledge expansion
-   - Perspective broadening
+## Reading Practice
+- Take notes while reading using [[Progressive Summarization]]
+- Review highlights monthly
+- Share key insights in [[Book Reviews]]
+- Connect concepts across books using [[MOC Best Practices]]
 
-2. **Reading Habits**
-   - Regular reading schedule
-   - Note-taking
-   - Reflection
-
-## Best Practices
-- Diversify genres
-- Set reading goals
-- Share insights
-
-### Current Reads
-- [[Never Let Me Go]] by Kazuo Ishiguro - A haunting sci-fi meditation on humanity
-
-### Completed Books
-- [[The Housemaid's Secret]] by Freida McFadden ⭐️⭐️⭐️⭐️ - Gripping domestic thriller
-- [[First Lie Wins]] by Ashley Easton ⭐️⭐️⭐️⭐️ - Taut psychological suspense 
-- [[The Remains of the Day]] by Kazuo Ishiguro ⭐️⭐️⭐️⭐️⭐️ - Masterful exploration of duty
-- [[The Winner]] by Teddy Wayne ⭐️⭐️⭐️ - Social commentary
-- [[Presence]] by Amy Cudd ⭐️⭐️⭐️⭐️⭐️ - Insights on personal power
-- [[Something in the Water]] by Catherine Steedman ⭐️⭐️⭐️⭐️ - Moral thriller
-- [[None of This Is True]] by Lisa Jewell ⭐️⭐️⭐️⭐️⭐️ - Meta-mystery
-- [[Yellowface]] by R.F. Huang ⭐️⭐️⭐️⭐️⭐️ - Literary satire
+## To Read Next
+1. Deep Work by Cal Newport
+2. Atomic Habits by James Clear
+3. The Psychology of Money by Morgan Housel

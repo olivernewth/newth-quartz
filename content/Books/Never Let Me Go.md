@@ -19,4 +19,4 @@ A masterful exploration of humanity, memory, and what it means to truly live.
 - Emotional depth
 - Complex character relationships
 
-![[Pasted image 20241026001359.png]]
+![Book Cover](https://cdn.newth.ai/Pasted-image-20241026001359.png)
