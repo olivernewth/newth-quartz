@@ -1,6 +1,6 @@
 ---
 title: MECE Framework
-tags: [analysis, problem-solving, frameworks]
+tag: Strategy
 ---
 
 MECE (Mutually Exclusive, Collectively Exhaustive) is a framework for breaking down complex problems into manageable components.

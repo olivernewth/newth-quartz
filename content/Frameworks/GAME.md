@@ -1,6 +1,6 @@
 ---
 title: GAME
-tags: [product, metrics, strategy, frameworks]
+tag: Product
 ---
 
 GAME (Goals, Actions, Metrics, Experiments) is a framework for developing and tracking product initiatives.

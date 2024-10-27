@@ -1,6 +1,6 @@
 ---
 title: SCQA Framework
-tags: [communication, presentation, frameworks]
+tag: Communication
 ---
 
 A framework for structured communication.

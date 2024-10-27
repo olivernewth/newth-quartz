@@ -1,6 +1,6 @@
 ---
 title: SWOT Framework
-tags: [strategy, analysis, business, frameworks]
+tag: Strategy
 ---
 
 SWOT (Strengths, Weaknesses, Opportunities, Threats) is a framework for analyzing a product's market position.

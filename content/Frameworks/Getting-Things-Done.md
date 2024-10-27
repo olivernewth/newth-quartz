@@ -1,7 +1,7 @@
 ---
 title: Getting Things Done
+tag: Life
 description: A comprehensive productivity system for organizing work and life
-tags: [productivity, organization, time-management, frameworks]
 ---
 
 A systematic approach to organizing tasks, projects, and commitments.

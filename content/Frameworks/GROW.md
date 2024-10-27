@@ -1,6 +1,6 @@
 ---
 title: GROW Model
-tags: [coaching, personal-development, goals, frameworks]
+tag: Life
 ---
 
 A framework for goal setting and problem solving.

@@ -1,6 +1,6 @@
 ---
 title: Jobs to Be Done
-tags: [product, customer, strategy, frameworks]
+tag: Product
 ---
 
 Jobs to Be Done (JTBD) is a framework for understanding underlying customer motivations.

@@ -1,6 +1,6 @@
 ---
 title: Kano Model
-tags: [product, features, prioritization, frameworks]
+tag: Product
 ---
 
 A framework for feature prioritization based on customer satisfaction.

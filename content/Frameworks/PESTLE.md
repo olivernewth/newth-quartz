@@ -1,6 +1,6 @@
 ---
 title: PESTLE Analysis
-tags: [strategy, analysis, business, frameworks]
+tag: Strategy
 ---
 
 A framework for analyzing macro-environmental factors.

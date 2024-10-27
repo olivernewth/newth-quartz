@@ -1,6 +1,6 @@
 ---
 title: HEART
-tags: [product, metrics, ux, frameworks]
+tag: Product
 ---
 
 HEART is a user-centered metrics framework developed by Google.
