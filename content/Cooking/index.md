@@ -1,0 +1,34 @@
+---
+title: Cooking
+description: Recipes, techniques, and culinary experiments
+icon: 🍳
+tags:
+  - cooking
+  - food
+  - recipes
+---
+
+# Cooking Notes
+
+Personal recipe collection and cooking knowledge.
+
+## Recipe Collections
+- [[Quick Meals]]
+- [[Healthy Recipes]]
+- [[Special Occasions]]
+- [[Meal Prep]]
+
+## Techniques
+- [[Cooking Methods]]
+- [[Kitchen Skills]]
+- [[Food Preservation]]
+
+## Planning
+- [[Meal Planning]]
+- [[Shopping Lists]]
+- [[Pantry Management]]
+
+## Related Areas
+- [[Health]]
+- [[Gardening]]
+- [[Sustainability]]
