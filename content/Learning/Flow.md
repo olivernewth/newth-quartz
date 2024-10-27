@@ -1,0 +1,1 @@
+Flow is a mental state of deep immersion and focus, characterized by a sense of effortless action and heightened enjoyment during task engagement, often leading to peak productivity and creativity.
