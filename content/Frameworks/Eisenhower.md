@@ -14,4 +14,3 @@ A framework for prioritizing tasks based on urgency and importance.
 ## Usage
 Used for time management and task prioritization.
 
-**Related Pages**: [[Productivity]], [[Time Management]]

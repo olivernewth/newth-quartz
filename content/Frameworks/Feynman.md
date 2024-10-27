@@ -14,4 +14,3 @@ A framework for learning and understanding complex concepts.
 ## Usage
 Used for deep learning and knowledge retention.
 
-**Related Pages**: [[Learning]], [[Note-taking]]

@@ -14,4 +14,3 @@ A framework for goal setting and problem solving.
 ## Usage
 Used for personal coaching and goal achievement.
 
-**Related Pages**: [[Goal Setting]], [[Personal Development]]

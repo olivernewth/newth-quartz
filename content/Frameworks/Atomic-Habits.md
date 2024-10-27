@@ -14,4 +14,3 @@ A framework for building better habits.
 ## Usage
 Used for personal habit development.
 
-**Related Pages**: [[Habits]], [[Personal Development]]

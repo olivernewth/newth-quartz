@@ -14,4 +14,3 @@ A framework for structured communication.
 ## Usage
 Used for clear and effective communication.
 
-**Related Pages**: [[Communication]], [[Presentations]]

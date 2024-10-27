@@ -15,4 +15,3 @@ A framework for managing personal and organizational change.
 ## Usage
 Used for personal development and change management.
 
-**Related Pages**: [[Personal Development]], [[Career Growth]]

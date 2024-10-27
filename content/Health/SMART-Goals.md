@@ -16,4 +16,3 @@ A framework for setting effective health and fitness goals.
 ## Usage
 Used for setting health goals that are more likely to be achieved.
 
-**Related Pages**: [[Goal Setting]], [[Health Metrics]], [[Habit Tracking]]

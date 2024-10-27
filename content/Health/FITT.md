@@ -15,4 +15,3 @@ A framework for exercise program design.
 ## Usage
 Used for designing balanced workout programs.
 
-**Related Pages**: [[Exercise]], [[Workout Planning]], [[RPE]]
