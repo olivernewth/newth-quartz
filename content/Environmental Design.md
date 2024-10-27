@@ -10,11 +10,11 @@ Below you can see an example showing a todo list and a timestamp.
 
 ## Todo List
 
-1. ${1:First tabstop}
-2. ${2:A second tabstop}
-3. ${3:A third tabstop}
+1. First tabstop
+2. A second tabstop
+3. A third tabstop
 
-Note Created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
+Note Created: 2024-10-27
 
 ---
 
