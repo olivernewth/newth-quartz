@@ -6,7 +6,7 @@
   "smart_sources": {
     "embed_model": {
       "model_key": "TaylorAI/bge-micro-v2",
-      "legacy_transformers": false,
+      "legacy_transformers": true,
       "text-embedding-3-large": {
         "api_key": "sk-bl-SPzB88XV3hV074mqrRsKc9R16ZcH_Bzq1iFDCneT3BlbkFJkP15gKsXO0DihCsj3ulWnZH2Eq6I-F4qJDt7YvAlwA"
       },
