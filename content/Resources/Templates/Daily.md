@@ -65,6 +65,4 @@
 
 ---
 ## References
-- Related to: [[Daily Notes]], [[Weekly Review]]
-- Previous: [[{{date-1d:YYYY-MM-DD}}]]
-- Next: [[{{date+1d:YYYY-MM-DD}}]]
+- [[{{date:MM YYYY}} Review]]
