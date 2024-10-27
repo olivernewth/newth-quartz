@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "umami",
       host: "https://cloud.umami.is",
-      websiteId: "op://Private/unami-garden-id/Section_fv2djphmsozgnkzeb46fziz6hy/websiteId",
+      websiteId: "64dbf6c0-0dac-4cb6-aade-a8a73d073d74",
     },
     locale: "en-US",
     baseUrl: "garden.newth.ai",
