@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       websiteId: "64dbf6c0-0dac-4cb6-aade-a8a73d073d74",
     },
     locale: "en-US",
-    baseUrl: "garden.newth.ai",
+    baseUrl: "newth.garden",
     ignorePatterns: ["private", "Private", "templates", ".obsidian", "smart-chats", "Resources"],
     defaultDateType: "created",
     theme: {
