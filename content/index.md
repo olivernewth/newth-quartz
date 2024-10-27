@@ -1,29 +1,27 @@
 ---
-title: Welcome to Oliver's Garden 🪴
+title: 🌱 Welcome to My Digital Garden
 ---
-# 🌱 Welcome to My Digital Garden
-
 This is my place where I share all aspects of my life. It's a [[Living document]], so expect to see thoughts growing, evolving, and occasionally being pruned. Like any garden, it's always a work in progress 🌿
 
 ## 🎯 Active Growth Areas
 
 ### 🌱 Currently Nurturing
 - [[Interview Preparation]] - Strategies and frameworks for successful interviews
-- [[Gardening Principles]] - Learning the art of growing things
+- [[Gardening techniques]] - Learning the art of growing things
 - [[Reading List]] - Adventures through books, both fictional and real
 - [[Tools]] - Digital and analog tools that shape my work and life
 
 ### 💭 Recent Thoughts
 - [[Daily Notes|What's on my mind]]
-- [[TILs|Things I've Learned]]
+- [[TIL/index|Things I've Learned]]
 - [[Questions]] - What I'm curious about
 
 ## 🌿 Evergreen Collections
 
 ### 📚 Knowledge Base
-- [[Books]] - Readings and reflections
-- [[Zettels]] - Permanent notes on various topics
-- [[Frameworks]] - Mental models and approaches
+- [[Books/index|Books]] - Readings and reflections
+- [[Zettels/index|Zettles]] - Permanent notes on various topics
+- [[Frameworks/index|Frameworks]] - Mental models and approaches
 
 ### 💡 Projects & Learning
 - [[Career]] - Professional growth and insights
@@ -43,19 +41,19 @@ This is my place where I share all aspects of my life. It's a [[Living document]
 - [[Recent Changes]] - Latest additions and updates
 
 ### 🌱 Garden Notes
-- [[Garden Principles]] - How I tend this space
+- [[Zettels/Gardening Principles]] - How I tend this space
 - [[Writing Principles]] - Inspired by [[Nobody is watching]]
 - [[Getting Things Done (GTD)]] - Personal productivity system
 
 ---
 
 ## Currently Growing 🌱
-*Last updated: {{date:YYYY-MM-DD}}*
+Last updated: [[2024-10-27]]
 
 ### Active Projects
 - 🎯 [[Interview Preparation]] - Deep diving into product frameworks
-- 📚 Working through [[Reading List]] - Currently reading "[[Never Let Me Go]]"
-- 🌱 Experimenting with [[Gardening]] techniques
+- 📚 Working through [[Reading List]] - Currently reading [[Never Let Me Go]]
+- 🌱 Experimenting with [[Gardening techniques|Gardening techniques]] 
 
 ### Recent Additions
 - 💡 [[Technology Trends]] - Emerging patterns in tech
@@ -69,8 +67,8 @@ This is my place where I share all aspects of my life. It's a [[Living document]
 
 ---
 
-> "The garden is not a place for perfect things. It's a place for growth." - [[Garden Principles]]
+> "The garden is not a place for perfect things. It's a place for growth." - [[Zettels/Gardening Principles]]
 
 Feel free to wander, and remember - the best path through a garden is the one that catches your curiosity. 🌿
 
-*Want to know more about how this garden grows? Check out my [[Garden Principles]] and [[Living document]] philosophy.*
+*Want to know more about how this garden grows? Check out my [[Zettels/Gardening Principles]] and [[Living document]] philosophy.*
