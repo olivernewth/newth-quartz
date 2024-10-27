@@ -20,7 +20,7 @@ Essential for physical and mental recovery, [[Health/Sleep|quality sleep]] is a 
 - Immune support
 
 ## Sleep Hygiene
-- Establish a consistent [[Health/Bedtime Routine|Bedtime Routine]] to signal your body it's time to wind down
+- Establish a consistent [[Bedtime-Routine]] to signal your body it's time to wind down
 - Optimize your [[Health/Sleep Environment|Sleep Environment]] for comfort and relaxation
 - Understand and work with your natural [[Health/Circadian Rhythm|Circadian Rhythm]]
 
