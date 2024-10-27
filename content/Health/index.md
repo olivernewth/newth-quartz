@@ -24,6 +24,7 @@ A holistic approach to physical and mental wellbeing.
 - [[SMART Goals]] - Health goal setting
 - [[FITT]] - Exercise planning
 - [[RPE]] - Effort tracking
+- [[Frameworks/Eisenhower|Eisenhower Matrix]] - Prioritizing health tasks
 - [[Health/RICE|RICE]] - Injury management
 - [[Health/Adult Immunization Schedule|Adult Immunization Schedule]]: Recommended vaccinations for adults based on age and risk factors.
 - [[Health/Aging Well|Aging Well]]: Strategies for maintaining health and vitality as we age.
@@ -36,8 +37,8 @@ A holistic approach to physical and mental wellbeing.
 - [[Health Dashboard]]
 
 ## Related Areas
-- [[Frameworks/Atomic-Habits|Atomic Habits]]
-- [[Frameworks/Getting-Things-Done|GTD]]
+- [[Atomic Habits|Atomic Habits]]
+- [[GTD|GTD]]
 - [[Cooking]]
 - [[Personal Development]]
 

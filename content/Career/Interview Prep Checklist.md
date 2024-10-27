@@ -1,4 +1,4 @@
-- [ ] Read up on the latest [Technology Trends]
+- [ ] Read up on the latest [Technology Trends] (eg through [[Favorite blogs]])
 - [ ] Complete at least 10 mock interviews (eg through [Exponent](https://tryexponent.com))
 
 ### PM specific checklist

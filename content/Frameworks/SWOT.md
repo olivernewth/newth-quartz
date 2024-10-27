@@ -1,5 +1,5 @@
 ---
-title: SWOT Framework
+title: SWOT
 tag: Strategy
 ---
 

@@ -37,7 +37,7 @@ Essential for physical and mental recovery, quality sleep is a cornerstone of ov
 - Effective [[Stress Management]] can improve sleep quality
 - Regular [[Health/Exercise|Exercise]] can promote better sleep
 - Your [[Health/Nutrition|Nutrition]] choices can impact sleep patterns
-- Apply [[Frameworks/Atomic-Habits|Habit Formation]] techniques to establish better sleep routines
+- Apply [[Atomic Habits|Habit Formation]] techniques to establish better sleep routines
 
 > [!tip] Consistency
 > Maintain a consistent sleep schedule, even on weekends, for optimal sleep quality.

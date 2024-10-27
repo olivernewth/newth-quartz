@@ -23,7 +23,7 @@ Proactive strategies to maintain health and prevent illness.
 ## Vaccinations
 - [[Flu Shot]]
 - [[Travel Vaccines]]
-- [[Adult Immunization Schedule]]
+- [[Health/Immunization|Immunization Guide]]
 
 ## Lifestyle Factors
 - [[Nutrition]]

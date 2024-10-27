@@ -34,7 +34,7 @@ A key component of overall health and wellness.
 - [[Nutrition]]
 - [[Sleep]]
 - [[Stress Management]]
-- [[Frameworks/Atomic-Habits|Habit Formation]]
+- [[Atomic Habits|Habit Formation]]
 
 > [!tip] Consistency is Key
 > Regular, moderate exercise is often more beneficial than infrequent, intense workouts.

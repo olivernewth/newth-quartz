@@ -5,7 +5,7 @@ icon: 🩺
 tags: [health, prevention, check-up]
 ---
 
-Regular check-ups are crucial for preventive care and early detection of health issues, as well as ensure you are [[Aging-Well]]
+Regular check-ups are crucial for preventive care and early detection of health issues, as well as ensure you are [[Health/Aging Well|Aging well]]
 
 ## What to Expect
 - Review of medical history

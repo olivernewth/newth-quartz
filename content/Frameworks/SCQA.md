@@ -1,5 +1,5 @@
 ---
-title: SCQA Framework
+title: SCQA
 tag: Communication
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Adult Immunization Schedule
+title: Immunization
 description: Recommended vaccinations for adults based on age and risk factors
 icon: 💉
 tags: [health, prevention, vaccines]

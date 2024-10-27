@@ -30,6 +30,7 @@ A tool for self-reflection and tracking overall wellbeing, the [[Health/Wellness
 
 ## Implementation
 - [[Health/Journal Templates|Journal Templates]] can help establish a consistent practice
+- [[Zettels/Helvetica|Typography for Journaling]]
 - Consider the pros and cons of [[Health/Digital vs. Physical Journaling|Digital vs. Physical Journaling]]
 - Explore various [[Tech/Tools#Productivity|Journaling Apps]] to find one that suits your needs
 

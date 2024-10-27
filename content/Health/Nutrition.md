@@ -29,9 +29,9 @@ Fueling your body for optimal health and performance.
 - [[Intermittent Fasting]]
 
 ## Meal Planning
+- [[Cooking/Rice with Instapot|Rice with Instapot]] - Basic grain preparation
 - [[Meal Prep]]
-- [[Grocery Shopping]]
-- [[Recipe Collection]]
+- [[Portion Control]]
 
 ## Tracking
 - [[Food Journal]]
@@ -42,7 +42,8 @@ Fueling your body for optimal health and performance.
 - [[Exercise]]
 - [[Cooking]]
 - [[Gut Health]]
-- [[Frameworks/Atomic-Habits|Habit Formation]]
+- [[Atomic Habits|Habit Formation]]
+- [[Career/Types of interview|Nutrition Consultation]] - When to seek professional advice
 
 > [!note] Personalization
 > Nutrition needs vary based on individual factors. Consult a professional for personalized advice.

@@ -1,5 +1,5 @@
 ---
-title: STAR Framework
+title: STAR
 tag: Career
 ---
 

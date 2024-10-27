@@ -1,5 +1,5 @@
 ---
-title: MECE Framework
+title: MECE
 tag: Strategy
 ---
 
