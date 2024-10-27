@@ -1,5 +1,34 @@
 @use "./base.scss";
 
+// Style Phosphor icons
+.ph {
+  display: inline-block;
+  vertical-align: -0.125em;
+  width: 1em;
+  height: 1em;
+  
+  // Customize icon colors using your theme variables
+  &.ph-heart { color: var(--tertiary); }
+  &.ph-star { color: var(--secondary); }
+  &.ph-sparkle { color: var(--tertiary); }
+  &.ph-fire { color: var(--secondary); }
+  &.ph-thumbs-up { color: var(--tertiary); }
+  &.ph-party { color: var(--secondary); }
+  &.ph-note { color: var(--darkgray); }
+  &.ph-magnifying-glass { color: var(--darkgray); }
+  &.ph-books { color: var(--darkgray); }
+  &.ph-lightbulb { color: var(--tertiary); }
+}
+
+// Optional: Add hover effects
+.ph {
+  transition: transform 0.2s ease;
+  
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+
 .page>#quartz-body .sidebar {
     gap: 1.5rem;
 }

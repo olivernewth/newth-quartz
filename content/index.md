@@ -1,7 +1,15 @@
 ---
 title: Welcome
 ---
-Hey there! This is my personal knowledge space - a digital garden where I grow and share ideas. It's always evolving, just like our thoughts should. :heart:
+Hey there! This is my personal knowledge space - a digital garden where I grow and share ideas. It's always evolving, just like our thoughts should. :heart: heart❤️
+
+:heart: → ❤️ → ph-heart
+:star: → ⭐ → ph-star
+:sparkles: → ✨ → ph-sparkle
+:fire: → 🔥 → ph-fire
+:thumbsup: → 👍 → ph-thumbs-up
+:tada: → 🎉 → ph-party
+:memo: → 📝 → ph-note
 
 ## What I'm Into Right Now
 
@@ -73,3 +81,4 @@ Explore whatever interests you. That's how the best discoveries happen.
 
 > [!tip] Want to know more?
 > Check out my [[Zettels/Gardening Principles|Gardening Principles]] or [[Living document]] philosophy.
+

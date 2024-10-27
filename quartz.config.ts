@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { EmojiReplacer } from "./quartz/plugins/transformers/emoji-replacer"
+import { EmojiToPhosphor } from "./quartz/plugins/transformers/emoji-to-phosphor"
 
 /**
  * Quartz 4.0 Configuration
@@ -96,6 +97,7 @@ const config: QuartzConfig = {
       EmojiReplacer({
         style: "gemoji", // or "native"
       }),
+      EmojiToPhosphor(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
