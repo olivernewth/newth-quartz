@@ -32,6 +32,6 @@ Best practices for creating and maintaining effective Maps of Content (MOCs) to 
 - Maintain consistent formatting
 
 ## Related Resources
-- [[MOCs-How to Use MOCs|How to Use MOCs]]
-- [[MOCs-Knowledge Organization|Knowledge Organization]]
+- [[How to Use MOCs|How to Use MOCs]]
+- [[Knowledge Organization|Knowledge Organization]]
 - [[MOCs/index|Main MOC Hub]]

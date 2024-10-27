@@ -15,7 +15,7 @@ A guide to organizing and structuring knowledge effectively within your [[Learni
 
 ## Implementation Strategies
 - Start with broad topic areas like [[Health/index|Health]] and [[Learning/index|Learning]]
-- Create focused [[MOCs-MOC Best Practices|MOCs]] for key knowledge domains
+- Create focused [[MOC Best Practices|MOCs]] for key knowledge domains
 - Build clear navigation paths between related content
 - Regularly review and refine organizational structure
 
@@ -29,9 +29,4 @@ A guide to organizing and structuring knowledge effectively within your [[Learni
 - Begin at the [[MOCs/index|main MOC hub]]
 - Follow thematic connections
 - Utilize tag-based discovery
-- Reference [[MOCs-How to Use MOCs|MOC usage guidelines]]
-
-## Related Resources
-- [[MOCs-MOC Best Practices|MOC Best Practices]]
-- [[MOCs-How to Use MOCs|How to Use MOCs]]
-- [[MOCs/index|Main MOC Hub]]
+- Reference [[How to Use MOCs|MOC usage guidelines]]
