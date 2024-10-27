@@ -119,8 +119,8 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
   const log = new QuartzLogger(argv.verbose)
 
   // rough heuristics: 128 gives enough time for v8 to JIT and optimize parsing code paths
-  const CHUNK_SIZE = 128
-  const concurrency = ctx.argv.concurrency ?? clamp(fps.length / CHUNK_SIZE, 1, 4)
+  const CHUNK_SIZE = 64
+  const concurrency = ctx.argv.concurrency ?? clamp(fps.length / CHUNK_SIZE, 2, 8)
 
   let res: ProcessedContent[] = []
   log.start(`Parsing input files using ${concurrency} threads`)

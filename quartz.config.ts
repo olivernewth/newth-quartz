@@ -77,6 +77,13 @@ const config: QuartzConfig = {
       }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      // Remove or comment out this part:
+      // Plugin.MillionLint({
+      //   rsc: true,
+      //   filter: {
+      //     include: "**/components/*.{mtsx,mjsx,tsx,jsx}",
+      //   },
+      // }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

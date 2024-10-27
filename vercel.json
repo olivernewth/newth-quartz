@@ -1,3 +1,7 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "buildCache": {
+    "enabled": true,
+    "patterns": ["public/**", ".quartz-cache/**"]
+  }
 }
