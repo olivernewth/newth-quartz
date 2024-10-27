@@ -1,96 +1,130 @@
+---
+title: Product Frameworks
+description: Essential frameworks for product management
+tags:
+  - product-management
+  - frameworks
+  - strategy
+---
 
-There are a number of product frameworks that are useful for product managers. Below are the main frameworks I regularly use, with links to detailed explanations of each.
+## Strategic Frameworks
 
-## [[Frameworks/STAR|STAR]] (Situation, Task, Action, Result)
+### [[CIRCLES]] Method
+**Purpose**: Product design and improvement
+- **Comprehend** the situation
+- **Identify** the users
+- **Report** user needs
+- **Cut** through prioritization
+- **List** solutions
+- **Evaluate** trade-offs
+- **Summarize** recommendation
 
-**Purpose**: Structured approach for answering behavioral interview questions.
+### [[RICE]] Prioritization
+**Purpose**: Feature prioritization
+- **Reach**: User impact
+- **Impact**: Effect per user
+- **Confidence**: Certainty level
+- **Effort**: Resource cost
 
-**Example Question**: "Tell me about a time when you had to make a difficult decision."
+### [[Kano Model]]
+**Purpose**: Feature satisfaction analysis
+- Basic needs
+- Performance needs
+- Delighters
+- Indifferent features
+- Reverse features
 
-## [[Frameworks/CIRCLES|CIRCLES]] (Comprehend, Identify, Report, Cut, List, Evaluate, Summarize)
+## Analysis Frameworks
 
-**Purpose**: Structured approach for product design questions.
+### [[SWOT]] Analysis
+**Purpose**: Strategic positioning
+- **Strengths**: Internal advantages
+- **Weaknesses**: Internal limitations
+- **Opportunities**: External possibilities
+- **Threats**: External challenges
 
-**Example Question**: "How would you improve the user experience of our mobile app?"
+### [[PESTLE]] Analysis
+**Purpose**: Market environment analysis
+- Political factors
+- Economic conditions
+- Social trends
+- Technological advances
+- Legal requirements
+- Environmental concerns
 
-## [[Frameworks/AARM|AARM]] (Acquire, Activate, Retain, Monetize)
+## Growth Frameworks
 
-**Purpose**: Framework for product strategy and growth.
+### [[AARRR]] (Pirate Metrics)
+**Purpose**: Growth funnel analysis
+- **Acquisition**: User discovery
+- **Activation**: First value delivery
+- **Retention**: Ongoing engagement
+- **Referral**: Viral growth
+- **Revenue**: Monetization
 
-**Example Question**: "How would you grow our user base and increase revenue?"
+### [[North Star Metric]]
+**Purpose**: Key success indicator
+- Define core value metric
+- Align team efforts
+- Track progress
+- Guide decisions
 
-## [[Frameworks/SWOT|SWOT]] (Strengths, Weaknesses, Opportunities, Threats)
+## User-Centric Frameworks
 
-**Purpose**: Analyze a product's market position.
+### [[Jobs To Be Done]]
+**Purpose**: User motivation analysis
+- Functional jobs
+- Emotional jobs
+- Social jobs
+- Supporting jobs
 
-**Example Question**: "How would you assess our product's competitive position in the market?"
+### [[User Journey Mapping]]
+**Purpose**: Experience analysis
+- Awareness stage
+- Consideration phase
+- Decision point
+- Onboarding
+- Ongoing usage
 
-## [[Frameworks/RICE|RICE]] (Reach, Impact, Confidence, Effort)
+## Execution Frameworks
 
-**Purpose**: Prioritize tasks or initiatives.
+### [[OKRs]] (Objectives and Key Results)
+**Purpose**: Goal setting and tracking
+- Objective setting
+- Key result definition
+- Progress tracking
+- Achievement measurement
 
-**Example Question**: "How would you prioritize the items on our product roadmap?"
+### [[Agile Product Development]]
+**Purpose**: Iterative development
+- Sprint planning
+- Daily standups
+- Sprint reviews
+- Retrospectives
 
-## [[Frameworks/GAME|GAME]] (Goals, Actions, Metrics, Experiments)
+## Application Guidelines
 
-**Purpose**: Develop and track product initiatives.
+1. **Choose Wisely**
+   - Match framework to problem
+   - Consider context
+   - Adapt as needed
 
-**Example Question**: "How would you improve the engagement of our mobile app?"
+2. **Combine Frameworks**
+   - Layer complementary tools
+   - Address multiple aspects
+   - Create comprehensive view
 
-## [[Frameworks/MECE|MECE]] (Mutually Exclusive, Collectively Exhaustive)
+3. **Iterate and Refine**
+   - Start simple
+   - Add complexity as needed
+   - Adjust based on feedback
 
-**Purpose**: Break down complex problems into manageable components.
+4. **Communicate Clearly**
+   - Explain framework choice
+   - Share key insights
+   - Drive action items
 
-**Example Question**: "How would you analyze the decline in our e-commerce sales?"
-
-## [[Frameworks/Hook-Model|Hook Model]] (Trigger, Action, Variable Reward, Investment)
-
-**Purpose**: Build habit-forming products.
-
-**Example Question**: "How would you increase user retention for our subscription service?"
-
-## [[Frameworks/JTBD|JTBD]] (Jobs to Be Done)
-
-**Purpose**: Understand underlying customer motivations.
-
-**Example Question**: "How would you improve our customer onboarding process?"
-
-## [[Frameworks/5-Whys|5 Whys]]
-
-**Purpose**: Identify root causes of problems.
-
-**Example Question**: "Our user retention rates have been declining. How would you diagnose and address this issue?"
-
-## [[Frameworks/HEART|HEART]] (Happiness, Engagement, Adoption, Retention, Task Success)
-
-**Purpose**: Measure and improve user experience metrics.
-
-**Example Question**: "How would you measure the success of our new feature?"
-
-## [[Frameworks/JTBD-Timeline|JTBD Timeline]]
-
-**Purpose**: Map the complete customer journey in Jobs-to-be-Done framework.
-
-**Example Question**: "How do customers discover and decide to use our product?"
-
-## [[Frameworks/Kano|Kano Model]]
-
-**Purpose**: Prioritize features based on customer satisfaction impact.
-
-**Example Question**: "Which features should we focus on for our next release?"
-
-## [[Frameworks/ICE|ICE]] (Impact, Confidence, Ease)
-
-**Purpose**: Quick prioritization of ideas and features.
-
-**Example Question**: "How should we prioritize our backlog of feature requests?"
-
-## [[Frameworks/PESTLE|PESTLE]] (Political, Economic, Social, Technological, Legal, Environmental)
-
-**Purpose**: Analyze macro-environmental factors affecting the product.
-
-**Example Question**: "What external factors might affect our product's success in a new market?"
-
-## Related Links
-- [[Connect frameworks to feedback]]
-- [[Frameworks/index|All Frameworks]]
+## Related Resources
+- [[Product Strategy]]
+- [[Product Analytics]]
+- [[User Research Methods]]

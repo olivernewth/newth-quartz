@@ -1,25 +1,71 @@
+---
+title: Interview Preparation
+description: Comprehensive guide to interview success
+tags:
+  - interviews
+  - career
+  - preparation
+---
 
-### General Guidance
+## Core Principles
 
+### Preparation Framework
+1. **Research** - Company, role, industry, interviewer
+2. **Practice** - Mock interviews, behavioral stories, technical skills
+3. **Present** - Communication, body language, professional presence
+4. **Follow-up** - Thank you notes, next steps, feedback
 
-**Explain** - We want to understand how you think, so describe your thought process and decision making throughout the interview. Remember, we're not only evaluating your technical ability, but also how you solve problems. Explicitly state and check assumptions with your interviewer to ensure they are reasonable.
+### Interview Mindset
+- **Be authentic** - Show your genuine self while maintaining professionalism
+- **Stay curious** - Ask thoughtful questions throughout
+- **Think aloud** - Share your reasoning process
+- **Listen actively** - Engage fully with the interviewer
 
-**Clarify** - Many questions will be intentionally open-ended to provide insight into what categories and information you value within the technological puzzle. We're looking to see how you engage with the problem and your primary method for solving it. Be sure to talk through your thought process and feel free to ask specific questions if you need clarification.
+## Interview Types
+- [[Behavioral Interviews]] - Past experience and situations
+- [[Technical Interviews]] - Skills and problem-solving
+- [[Case Interviews]] - Business problem analysis
+- [[System Design Interviews]] - Architecture and scaling
+- [[Product Design Interviews]] - Product thinking and creativity
 
-**Improve** - Think about ways to improve the solution you present. It's worthwhile to think out loud about your initial thoughts on a question. In many cases, your first answer may need some refining and further explanation. If necessary, start with the brute force solution and improve on it — just let the interviewer know that's what you're doing and why.
+## Preparation Checklist
+See detailed [[Interview Prep Checklist]]
 
-**Practice** - Stay current with tech trends and innovations by reading relevant news articles and blogs. Understand who your users are. Become comfortable working with [[Product Frameworks]]. Integrate these topics in mock interviews.
+## Key Strategies
 
-Go through the [[Interview Prep Checklist]] to make sure you're well prepared!
+### Research
+- Study company mission, values, products
+- Understand industry trends and challenges
+- Review recent news and announcements
+- Research your interviewers on LinkedIn
 
-Don't forget:
+### Practice
+- Conduct mock interviews regularly
+- Record and review your responses
+- Time your answers (STAR format)
+- Get feedback from peers/mentors
 
-- Apply a user-centric approach
-- Ask clarifying questions before proceeding
-- Seek out hints if needed
-- Check or validate assumptions
-- Aim to find multiple solutions before choosing the best one
-- Consider new ideas and methods before tackling a problem
-- Remain inventive and flexible in your solutions
-- Be yourself
+### Communication
+- Use the [[STAR Method]] for behavioral questions
+- Practice [[Product Frameworks]] for design questions
+- Develop clear, structured responses
+- Prepare relevant examples and metrics
 
+### Questions to Ask
+- Role expectations and success metrics
+- Team structure and collaboration
+- Product strategy and roadmap
+- Career growth opportunities
+
+## Common Pitfalls
+- Lack of specific examples
+- Not showing enthusiasm
+- Missing key company research
+- Poor question preparation
+- Weak follow-up
+
+## Resources
+- [[Interview Question Bank]]
+- [[Company Research Template]]
+- [[Mock Interview Guide]]
+- [[Interview Success Stories]]
