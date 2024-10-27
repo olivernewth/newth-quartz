@@ -1,5 +1,5 @@
 ---
-title: Jobs to Be Done Framework
+title: Jobs to Be Done
 ---
 
 Jobs to Be Done (JTBD) is a framework for understanding underlying customer motivations.

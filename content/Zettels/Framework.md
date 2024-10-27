@@ -1,4 +1,4 @@
 A way of approaching a problem. Examples include: 
 
-- [[Getting Things Done (GTD)]]
+- [[Getting Things Done]]
 - [[Product Frameworks]] 

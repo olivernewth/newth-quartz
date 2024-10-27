@@ -1,5 +1,5 @@
 ---
-title: AARM Framework
+title: AARM
 ---
 
 AARM (Acquire, Activate, Retain, Monetize) is a framework for product strategy and growth.

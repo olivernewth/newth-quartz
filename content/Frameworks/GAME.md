@@ -1,5 +1,5 @@
 ---
-title: GAME Framework
+title: GAME
 ---
 
 GAME (Goals, Actions, Metrics, Experiments) is a framework for developing and tracking product initiatives.

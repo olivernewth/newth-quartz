@@ -1,5 +1,5 @@
 ---
-title: ADKAR Framework
+title: ADKAR
 ---
 
 A framework for managing personal and organizational change.

@@ -1,5 +1,5 @@
 ---
-title: Atomic Habits Framework
+title: Atomic Habits
 ---
 
 A framework for building better habits.

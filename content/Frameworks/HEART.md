@@ -1,5 +1,5 @@
 ---
-title: HEART Framework
+title: HEART
 ---
 
 HEART is a user-centered metrics framework developed by Google.

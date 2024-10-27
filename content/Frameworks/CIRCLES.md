@@ -1,5 +1,5 @@
 ---
-title: CIRCLES Framework
+title: CIRCLES
 ---
 
 CIRCLES (Comprehend, Identify, Report, Cut, List, Evaluate, Summarize) is a structured approach for product design questions.

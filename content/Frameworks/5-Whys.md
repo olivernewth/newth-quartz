@@ -1,5 +1,5 @@
 ---
-title: 5 Whys Framework
+title: 5 Whys
 ---
 
 The 5 Whys is a framework for identifying root causes of problems.

@@ -43,7 +43,7 @@ This is my place where I share all aspects of my life. It's a [[Living document]
 ### 🌱 Garden Notes
 - [[Zettels/Gardening Principles]] - How I tend this space
 - [[Writing Principles]] - Inspired by [[Nobody is watching]]
-- [[Getting Things Done (GTD)]] - Personal productivity system
+- [[Getting Things Done]] - Personal productivity system
 
 ---
 

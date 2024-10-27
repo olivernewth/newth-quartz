@@ -1,5 +1,5 @@
 ---
-title: Eisenhower Matrix
+title: Eisenhower
 ---
 
 A framework for prioritizing tasks based on urgency and importance.

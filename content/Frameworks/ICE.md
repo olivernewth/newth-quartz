@@ -1,5 +1,5 @@
 ---
-title: ICE Framework
+title: ICE
 ---
 
 A simpler alternative to RICE for quick prioritization.
