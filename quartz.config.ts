@@ -19,7 +19,15 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "newth.garden",
-    ignorePatterns: ["private", "Private", "templates", ".obsidian", "smart-chats", "Resources"],
+    ignorePatterns: [
+      "private",
+      "Private",
+      "templates",
+      ".obsidian",
+      "smart-chats",
+      "Resources",
+      ".foam",
+    ],
     defaultDateType: "created",
     theme: {
       fontOrigin: "local",
