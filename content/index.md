@@ -7,7 +7,7 @@ This is my place where I share all aspects of my life. It's a [[Living document]
 
 ### 🌱 Currently Nurturing
 - [[Interview Preparation]] - Strategies and frameworks for successful interviews
-- [[Gardening/Gardening techniques|Gardening techniques]] - Learning the art of growing things
+- [[Gardening Tips|Gardening techniques]] - Learning the art of growing things
 - [[Books/Reading List]] - Adventures through books, both fictional and real
 - [[Tech/Tools]] - Digital and analog tools that shape my work and life
 
@@ -53,7 +53,7 @@ Last updated: [[2024-10-27]]
 ### Active Projects
 - 🎯 [[Interview Preparation]] - Deep diving into product frameworks
 - 📚 Working through [[Reading List]] - Currently reading [[Never Let Me Go]]
-- 🌱 Experimenting with [[Gardening techniques|Gardening techniques]] 
+- 🌱 Experimenting with [[Gardening Tips|Gardening techniques]] 
 
 ### Recent Additions
 - 💡 [[Technology Trends]] - Emerging patterns in tech
