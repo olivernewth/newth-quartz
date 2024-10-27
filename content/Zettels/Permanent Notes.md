@@ -1,0 +1,4 @@
+---
+title: Permanent Notes
+---
+
