@@ -13,7 +13,7 @@ Personal book library and reading notes.
 
 ## Categories
 - [[Product Books]]
-- [[Technical Books]]
+- [[./Technical Books]]
 - [[Personal Development Books]]
 - [[Fiction Books]]
 
