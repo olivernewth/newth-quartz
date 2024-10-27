@@ -43,7 +43,6 @@ Fueling your body for optimal health and performance.
 - [[Cooking]]
 - [[Gut Health]]
 - [[Atomic Habits|Habit Formation]]
-- [[Career/Types of interview|Nutrition Consultation]] - When to seek professional advice
 
 > [!note] Personalization
 > Nutrition needs vary based on individual factors. Consult a professional for personalized advice.

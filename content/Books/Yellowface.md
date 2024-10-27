@@ -1,1 +1,0 @@
-Yellowface is a book about power and insecurity. It's written first person about someone who is given a choice. 

@@ -41,7 +41,7 @@ A comprehensive overview of key measurements and indicators for monitoring healt
 - [[Health|Preventive Health]]
 - [[Atomic Habits|Habit Building]]
 - [[Cooking|Nutrition]]
-- [[Frameworks/SMART Goals|SMART Health Goals]]
+- [[SMART Goals]]
 
 > [!note] Holistic Perspective
 > Individual metrics provide the most value when evaluated together as part of a complete picture of health, considering lifestyle factors and personal wellness objectives.

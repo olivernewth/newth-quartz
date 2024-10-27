@@ -30,7 +30,7 @@ tags:
 **Purpose**: Feature satisfaction analysis
 - Basic needs
 - Performance needs
-- Delighters
+- Delight features
 - Indifferent features
 - Reverse features
 
@@ -98,7 +98,7 @@ tags:
 ### [[Agile Product Development]]
 **Purpose**: Iterative development
 - Sprint planning
-- Daily standups
+- Daily stand-ups
 - Sprint reviews
 - Retrospectives
 

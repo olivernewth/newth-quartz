@@ -2,23 +2,25 @@
 title: Interview Prep Checklist
 description: Comprehensive preparation guide for product management interviews
 tags:
-  - career
   - interviews
+  - career
+  - preparation
   - product-management
 ---
 
-- [ ] Review current [[Technology Trends]] and industry updates through [[Favorite blogs]]
-- [ ] Complete 10+ mock interviews via platforms like [Exponent](https://tryexponent.com)
+## Core Preparation
 
-### Product Management Interview Preparation
+### Daily Tasks
+- [ ] Review current [[Technology Trends]] and industry updates through [[Favorite Blogs]]
+- [ ] Complete mock interviews via platforms like [Exponent](https://tryexponent.com)
 
-#### Core Learning (5-6 hours)
+### Product Management Focus (5-6 hours)
 - [ ] Study PM interview frameworks through:
   - Books like "Cracking the PM Interview" or "Decode & Conquer"
   - Online courses like [Product Alliance's PM Interview Course](https://www.productalliance.com/courses/hacking-the-pm-interview)
-  - Supplementary reading: [[Presence]] for interview presence and confidence
+  - Supplementary reading: [[Interview Presence]] for confidence
 
-#### Behavioral Preparation (2 hours) 
+### Behavioral Preparation (2 hours) 
 - [ ] Prepare stories covering:
   - Professional strengths and weaknesses
   - Challenge resolution examples
