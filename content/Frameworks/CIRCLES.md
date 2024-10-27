@@ -1,5 +1,6 @@
 ---
 title: CIRCLES
+tags: [product, design, frameworks, problem-solving]
 ---
 
 CIRCLES (Comprehend, Identify, Report, Cut, List, Evaluate, Summarize) is a structured approach for product design questions.

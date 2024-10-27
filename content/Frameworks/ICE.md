@@ -1,5 +1,6 @@
 ---
 title: ICE
+tags: [prioritization, decision-making, frameworks]
 ---
 
 A simpler alternative to RICE for quick prioritization.

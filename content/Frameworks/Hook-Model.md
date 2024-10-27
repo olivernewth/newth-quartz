@@ -1,5 +1,6 @@
 ---
 title: Hook Model
+tags: [product, psychology, habits, frameworks]
 ---
 
 The Hook Model (Trigger, Action, Variable Reward, Investment) is a framework for building habit-forming products.

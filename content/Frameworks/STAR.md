@@ -1,5 +1,6 @@
 ---
 title: STAR Framework
+tags: [interviews, communication, career, frameworks]
 ---
 
 STAR (Situation, Task, Action, Result) is a structured approach for answering behavioral interview questions.

@@ -1,5 +1,6 @@
 ---
 title: Feynman Technique
+tags: [learning, education, communication, frameworks]
 ---
 
 A framework for learning and understanding complex concepts.

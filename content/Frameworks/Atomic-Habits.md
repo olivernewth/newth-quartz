@@ -1,5 +1,6 @@
 ---
 title: Atomic Habits
+tags: [habits, personal-development, psychology, frameworks]
 ---
 
 A framework for building better habits.

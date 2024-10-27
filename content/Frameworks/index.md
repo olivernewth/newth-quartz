@@ -1,29 +1,10 @@
 ---
 title: Frameworks
+description: A collection of mental models and frameworks for different aspects of life and work
+tags: [frameworks, mental-models, productivity]
 ---
 
-# Frameworks by Category
+A curated collection of frameworks and mental models I use for different aspects of life and work.
 
-## Product Management
-- [[STAR]] - Behavioral interviews
-- [[CIRCLES]] - Product design
-- [[AARM]] - Product strategy
-- [Additional product frameworks...]
-
-## Learning & Development
-- [[Feynman]] - Learning technique
-- [[ADKAR]] - Change management
-
-## Decision Making
-- [[Eisenhower]] - Task prioritization
-- [[GROW]] - Goal setting and coaching
-
-## Personal Development
-- [[Atomic-Habits]] - Habit formation
-- [[SCQA]] - Structured communication
-
-## Related Pages
-- [[Product Frameworks]]
-- [[Personal Development]]
-- [[Learning]]
-- [[Communication]]
+> [!note] Using This Collection
+> Each framework serves a specific purpose. Choose the right tool for your context and adapt it as needed.

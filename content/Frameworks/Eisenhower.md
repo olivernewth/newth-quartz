@@ -1,5 +1,6 @@
 ---
-title: Eisenhower
+title: Eisenhower Matrix
+tags: [productivity, time-management, decision-making, frameworks]
 ---
 
 A framework for prioritizing tasks based on urgency and importance.

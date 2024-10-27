@@ -1,5 +1,6 @@
 ---
 title: SWOT Framework
+tags: [strategy, analysis, business, frameworks]
 ---
 
 SWOT (Strengths, Weaknesses, Opportunities, Threats) is a framework for analyzing a product's market position.
@@ -12,5 +13,4 @@ SWOT (Strengths, Weaknesses, Opportunities, Threats) is a framework for analyzin
 - **Threats:** External negative factors
 
 ## Usage
-
-Used for assessing a product's competitive position in the market.
+Used for strategic planning and competitive analysis. Helps evaluate internal capabilities and external market factors.

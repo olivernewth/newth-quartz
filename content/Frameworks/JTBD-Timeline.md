@@ -1,6 +1,6 @@
 ---
 title: Jobs-to-be-Done Timeline
-tags: Product
+tags: [product, customer-journey, strategy, frameworks]
 ---
 
 An extension of JTBD that focuses on the complete customer journey.

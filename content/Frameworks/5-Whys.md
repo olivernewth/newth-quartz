@@ -1,5 +1,6 @@
 ---
 title: 5 Whys
+tags: [analysis, problem-solving, frameworks]
 ---
 
 The 5 Whys is a framework for identifying root causes of problems.

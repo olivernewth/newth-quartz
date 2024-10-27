@@ -1,5 +1,6 @@
 ---
 title: ADKAR
+tags: [change-management, personal-development, frameworks]
 ---
 
 A framework for managing personal and organizational change.
