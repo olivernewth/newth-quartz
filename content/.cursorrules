@@ -5,7 +5,9 @@ Bullet points for easy scanning
 Examples that bridge concepts
 Key terms highlighted using code or bold formatting
 Natural connection points marked with [[wiki-style links]]
-Where possible, link to existing material (or external sources) 
+Where possible, link to existing material
+Link to external content as well when possible
+Do not add related resources to the end of the page
 The page format should be as follows in markdown - if the frontmatter is not present, please add it:
 ---
 title: TITLE
