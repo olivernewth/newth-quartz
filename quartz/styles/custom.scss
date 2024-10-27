@@ -1,5 +1,6 @@
 @use "./base.scss";
 
+
 // Style Phosphor icons
 .ph {
   display: inline-block;
@@ -135,4 +136,21 @@ button#explorer {
 
 .tags {
     justify-self: start;
+}
+
+// Override internal link styles
+a.internal {
+  background-color: transparent;  // Remove background
+  border-radius: 0;  // Remove border radius
+  padding: 0;  // Remove padding
+  line-height: inherit;  // Use default line height
+  text-decoration: underline;  // Add underline
+  text-decoration-color: var(--tertiary);  // Optional: customize underline color
+  text-decoration-thickness: 1px;  // Optional: customize underline thickness
+  text-underline-offset: 2px;  // Optional: adjust underline position
+  
+  &:hover {
+    color: var(--tertiary);  // Change color on hover
+    text-decoration-thickness: 2px;  // Optional: make underline thicker on hover
+  }
 }
