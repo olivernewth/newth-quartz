@@ -20,7 +20,7 @@ Essential for physical and mental recovery, quality sleep is a cornerstone of ov
 - Immune support
 
 ## Sleep Hygiene
-- Establish a consistent [[Bedtime-Routine]] to signal your body it's time to wind down
+- Establish a consistent [[Bedtime Routine]] to signal your body it's time to wind down
 - Optimize your [[Sleep Environment]] for comfort and relaxation
 - Understand and work with your natural [[Circadian Rhythm]]
 
