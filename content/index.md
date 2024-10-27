@@ -1,79 +1,75 @@
 ---
-title: 🌱 Welcome to My Digital Garden
+title: Welcome
 ---
-This is my place where I share all aspects of my life. It's a [[Living document]], so expect to see thoughts growing, evolving, and occasionally being pruned. Like any [[Digital Garden]], it's always a work in progress 🌿
+Hey there! This is my personal knowledge space - a digital garden where I grow and share ideas. It's always evolving, just like our thoughts should.
 
-## 🎯 Active Growth Areas
-
-### 🌱 Currently Nurturing
-- [[Interview Preparation]] - Strategies and frameworks for successful interviews
-- [[Gardening Tips|Gardening techniques]] - Learning the art of growing things
-- [[Books/Reading List]] - Adventures through books, both fictional and real
-- [[Tech/Tools]] - Digital and analog tools that shape my work and life
-
-### 💭 Recent Thoughts
-- [[Daily Notes|What's on my mind]]
-- [[TIL/index|Things I've Learned]]
-- [[Questions]] - What I'm curious about
-
-## 🌿 Evergreen Collections
-
-### 📚 Knowledge Base
-- [[Books/index]] - Readings and reflections
-- [[Zettels/index|Zettles]] - Permanent notes on various topics
-- [[Frameworks/index|Frameworks]] - Mental models and approaches
-
-### 💡 Projects & Learning
-- [[Career]] - Professional growth and insights
-- [[Tech]] - Technology explorations
-- [[Learning]] - Active study areas
-
-### 🌟 Life Areas
-- [[Cooking]] - Kitchen experiments and recipes
-- [[Gardening]] - Growing adventures
-- [[Energy]] - Managing and optimizing personal energy
-
-## 🎨 Meta Garden
-
-### 🧭 Navigation
-- [[Garden Map]] - Overview of all areas
-- [[MOC]] - Maps of Content
-- [[Recent Changes]] - Latest additions and updates
-
-### 🌱 Garden Notes
-- [[Zettels/Gardening Principles]] - How I tend this space
-- [[Writing Principles]] - Inspired by [[Nobody is watching]]
-- [[Getting Things Done]] - Personal productivity system
-
----
-
-## Currently Growing 🌱
-Last updated: [[2024-10-27 (Sunday)]]
+## What I'm Into Right Now
 
 ### Active Projects
-- 🎯 [[Interview Preparation]] - Deep diving into product frameworks
-- 📚 Working through [[Reading List]] - Currently reading [[Never Let Me Go]]
-- 🌱 Experimenting with [[Gardening Tips|Gardening techniques]] 
+- Building better health habits with [[Health/Health Metrics|Health Metrics]]
+- Exploring behavior change through [[Health/Cue-Routine-Reward|Habit Loops]]
+- Reading through my [[Books/Reading List|Reading List]]
+- Documenting my [[Learning/Learning Atlas|Learning Journey]]
 
-### Recent Additions
-- 💡 [[Technology Trends]] - Emerging patterns in tech
-- 🤔 [[Flow]] - Understanding optimal performance states
-- 📝 [[Framework]] - Building blocks for structured thinking
+### Recent Thoughts
+- [[Daily Notes|Daily musings]]
+- [[TIL/index|Things I've Learned]]
+- [[Questions]] I'm wrestling with
 
-### Questions I'm Exploring
-1. How can we make digital gardens more intuitive to navigate?
-2. What makes some notes evergreen while others wither?
-3. How do we balance structure and chaos in personal knowledge management?
+## The Good Stuff
+
+### Knowledge Base
+- [[Books/index|Books]] - what I'm reading & thinking about
+- [[Zettels/index|Notes]] - ideas worth keeping
+- [[Frameworks/index|Frameworks]] - mental models that work
+
+### Growth Areas
+- [[Career]] stuff (always learning)
+- [[Tech/Tools|Tech]] explorations
+- [[Learning]] adventures
+
+### Life Things
+- [[Cooking]] experiments
+- [[Health/index|Health]] journey (currently exploring [[Health/RICE|RICE]] for recovery)
+- [[Energy]] management
+
+## Finding Your Way Around
+
+### Navigation
+- [[Garden Map]] if you're lost
+- [[MOC]] for the big picture
+- [[Recent Changes]] for what's new
+
+### Behind the Scenes
+- [[Zettels/Gardening Principles|How I organize]]
+- [[Writing Principles]] (keeping it real)
+- [[Personal Knowledge Management|PKM]] approach
 
 ---
 
-> "The garden is not a place for perfect things. It's a place for growth." - [[Zettels/Gardening Principles]]
+## Latest Updates
 
-Feel free to wander, and remember - the best path through a garden is the one that catches your curiosity. 🌿
+### Working On
+- Getting smarter about tracking [[Health/Health Metrics|Health Metrics]]
+- Deep diving into [[Health/Cue-Routine-Reward|habit formation]]
+- Building a better [[Learning/Learning Atlas|Learning Atlas]]
+
+### Just Added
+- Notes on [[Health/RICE|injury recovery]]
+- Thoughts on [[Health/Cue-Routine-Reward|behavior change]]
+- [[Health/Health Metrics|Health tracking]] system
+
+### Questions I'm Sitting With
+1. How do we make habits stick?
+2. What makes knowledge useful?
+3. How can we learn better?
+
+---
+
+> Keep it simple, make it useful.
+
+Explore whatever interests you. That's how the best discoveries happen.
 
 
-> [!tip] Want to know more about how this garden grows?
-> 
-> Check out my [[Zettels/Gardening Principles]] and [[Living document]] philosophy.
-
-
+> [!tip] Want to know more?
+> Check out my [[Zettels/Gardening Principles|Gardening Principles]] or [[Living document]] philosophy.

@@ -12,11 +12,11 @@ Central navigation for connected knowledge areas, serving as a [[Learning/Knowle
 - [[Health/index|Health MOC]] for wellness and physical well-being
 - [[Learning/index|Learning MOC]] for personal growth and skill development
 - [[Career/index|Career MOC]] for professional development and work-related topics
-- [[Projects/index|Projects MOC]] for ongoing personal and professional initiatives
+- [[Projects-index|Projects MOC]] for ongoing personal and professional initiatives
 
 ## Usage Guide
-- [[MOCs/How to Use MOCs|How to Use MOCs]] provides guidance on navigating this system
-- [[MOCs/MOC Best Practices|MOC Best Practices]] offers tips for maintaining and expanding your knowledge structure
+- [[MOCs-How to Use MOCs|How to Use MOCs]] provides guidance on navigating this system
+- [[MOCs-MOC Best Practices|MOC Best Practices]] offers tips for maintaining and expanding your knowledge structure
 - [[MOCs/Knowledge Organization|Knowledge Organization]] discusses principles of effective information management
 
 

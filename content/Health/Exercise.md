@@ -22,7 +22,7 @@ A key component of overall health and wellness.
 
 ## Exercise Planning
 - [[Health/FITT|FITT Principle]]
-- [[Health/RPE|Rate of Perceived Exertion]]
+- [[RPE|Rate of Perceived Exertion]]
 - [[Progressive Overload]]
 
 ## Tracking

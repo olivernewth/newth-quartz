@@ -1,5 +1,5 @@
 ---
-title: Health/Mental Health
+title: Mental Health
 ---
 Mental health is a crucial component of overall well-being, encompassing emotional, psychological, and social aspects of life. Good mental health enables us to cope with stress, maintain relationships, work productively, and make meaningful contributions to our communities.
 

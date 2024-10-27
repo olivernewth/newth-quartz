@@ -1,4 +1,0 @@
----
-title: Cholesterol Levels
----
-

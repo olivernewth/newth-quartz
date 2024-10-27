@@ -31,7 +31,7 @@ Monitoring and improving health-related habits.
 - [[Habit Experiments]]
 
 ## Related Areas
-- [[Frameworks/Atomic-Habits|Atomic Habits]]
+- [[Atomic Habits|Atomic Habits]]
 - [[Frameworks/SCQA|SCQA]] - For analyzing habit patterns
 - [[GTD|GTD]]
 - [[Health Metrics]]

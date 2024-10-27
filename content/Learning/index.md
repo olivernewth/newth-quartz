@@ -15,7 +15,7 @@ I'm exploring how [[Autism]] affects my learning and productivity. My goal is to
 ## Core Concepts
 
 ### The Three Spaces of Personal Knowledge Management
-1. [[Learning-Atlas|Atlas]] (Knowledge-Based): A system for organizing and accessing your knowledge base.
+1. [[Learning Atlas|Atlas]] (Knowledge-Based): A system for organizing and accessing your knowledge base.
 2. Action-based: Managing active projects and tasks
 3. Time-based: Calendar and scheduling
 

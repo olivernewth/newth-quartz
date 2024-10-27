@@ -1,7 +1,6 @@
 ---
-title: Learning/Atlas
+title: Learning Atlas
 ---
-# Learning Atlas
 
 A Learning Atlas is a systematic approach to organizing and navigating your personal knowledge base. It serves as the knowledge-based component of the three spaces in [[Personal Knowledge Management]].
 
