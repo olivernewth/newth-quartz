@@ -16,9 +16,5 @@
         }
       ]
     }
-  ],
-  "buildCache": {
-    "enabled": true,
-    "patterns": ["public/**", ".quartz-cache/**"]
-  }
+  ]
 }
