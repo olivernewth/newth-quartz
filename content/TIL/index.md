@@ -9,7 +9,6 @@ tags:
   - daily
 ---
 
-# Things I've Learned
 
 Daily captures of learning moments and insights.
 

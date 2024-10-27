@@ -5,7 +5,6 @@ icon: 😴
 tags: [health, sleep, wellness]
 ---
 
-# Sleep
 
 Essential for physical and mental recovery and overall health.
 

@@ -3,7 +3,6 @@ title: SMART Health Goals
 tag: Health
 ---
 
-# SMART Health Goals Framework
 
 A framework for setting effective health and fitness goals.
 

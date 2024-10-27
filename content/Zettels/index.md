@@ -8,7 +8,6 @@ tags:
   - knowledge-management
 ---
 
-# Zettelkasten Notes
 
 Atomic ideas and concepts following the Zettelkasten method.
 

@@ -5,7 +5,6 @@ icon: 📊
 tags: [health, habits, productivity]
 ---
 
-# Habit Tracking
 
 Monitoring and improving health-related habits.
 

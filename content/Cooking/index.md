@@ -8,7 +8,6 @@ tags:
   - recipes
 ---
 
-# Cooking Notes
 
 Personal recipe collection and cooking knowledge.
 

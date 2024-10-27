@@ -5,7 +5,6 @@ icon: 📈
 tags: [health, metrics, tracking]
 ---
 
-# Health Metrics
 
 Essential measurements for monitoring overall health and wellness.
 

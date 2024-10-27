@@ -5,7 +5,6 @@ icon: ⭐
 tags: [reviews, analysis, recommendations]
 ---
 
-# Reviews Collection
 
 Personal reviews and analyses.
 

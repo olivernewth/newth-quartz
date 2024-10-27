@@ -8,7 +8,6 @@ tags:
   - skills
 ---
 
-# Career Development
 
 Professional growth and career management.
 

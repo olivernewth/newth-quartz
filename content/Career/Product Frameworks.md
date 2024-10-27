@@ -1,4 +1,3 @@
-# Product Frameworks
 
 There are a number of product frameworks that are useful for product managers. Below are the main frameworks I regularly use, with links to detailed explanations of each.
 

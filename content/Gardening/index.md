@@ -5,7 +5,6 @@ icon: 🌱
 tags: [gardening, nature, sustainability]
 ---
 
-# Gardening Notes
 
 A personal collection of gardening knowledge and experiences.
 

@@ -5,7 +5,6 @@ icon: 🧠
 tags: [health, mental-health, wellness]
 ---
 
-# Mental Health
 
 Nurturing psychological and emotional wellbeing.
 

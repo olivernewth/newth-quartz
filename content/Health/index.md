@@ -5,7 +5,6 @@ icon: 💪
 tags: [health, wellness, fitness]
 ---
 
-# Health & Wellness
 
 A holistic approach to physical and mental wellbeing.
 

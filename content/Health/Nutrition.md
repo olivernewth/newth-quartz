@@ -5,7 +5,6 @@ icon: 🥗
 tags: [health, nutrition, diet]
 ---
 
-# Nutrition
 
 Fueling your body for optimal health and performance.
 

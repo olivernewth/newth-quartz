@@ -5,7 +5,6 @@ icon: 🧘
 tags: [health, mental-health, wellness]
 ---
 
-# Stress Management
 
 Effective strategies for coping with and reducing stress.
 

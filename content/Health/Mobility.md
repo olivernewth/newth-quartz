@@ -5,7 +5,6 @@ icon: 🤸
 tags: [health, fitness, mobility]
 ---
 
-# Mobility
 
 Enhancing flexibility, range of motion, and functional movement.
 

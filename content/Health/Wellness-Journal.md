@@ -5,7 +5,6 @@ icon: 📓
 tags: [health, journaling, self-reflection]
 ---
 
-# Wellness Journal
 
 A tool for self-reflection and tracking overall wellbeing.
 

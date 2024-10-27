@@ -5,7 +5,6 @@ description: A comprehensive productivity system for organizing work and life
 icon: ✅
 ---
 
-# Getting Things Done (GTD)
 
 A systematic approach to organizing tasks, projects, and commitments to achieve stress-free productivity.
 

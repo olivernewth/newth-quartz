@@ -5,7 +5,6 @@ icon: 🛡️
 tags: [health, prevention, wellness]
 ---
 
-# Preventive Care
 
 Proactive strategies to maintain health and prevent illness.
 

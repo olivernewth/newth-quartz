@@ -8,7 +8,6 @@ tags:
   - learning
 ---
 
-# Book Notes & Reviews
 
 Personal book library and reading notes.
 

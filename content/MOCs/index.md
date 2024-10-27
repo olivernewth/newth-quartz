@@ -5,7 +5,6 @@ icon: 🗺️
 tags: [MOC, navigation, knowledge-management]
 ---
 
-# Maps of Content
 
 Central navigation for connected knowledge areas.
 

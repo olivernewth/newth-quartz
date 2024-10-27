@@ -5,7 +5,6 @@ icon: 🏋️
 tags: [health, fitness, wellness]
 ---
 
-# Exercise
 
 A key component of overall health and wellness.
 

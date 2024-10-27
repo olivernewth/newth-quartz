@@ -3,7 +3,6 @@ title: FITT Principle
 tag: Health
 ---
 
-# FITT Framework
 
 A framework for exercise program design.
 
