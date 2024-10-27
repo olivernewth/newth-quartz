@@ -55,7 +55,7 @@ The Zettelkasten method can be a valuable tool when combined with a [[Digital Ga
 ### Building a Personal Knowledge Management (PKM) System
 1. [[PKM and Idea Emergence]]
 2. [[Growing Value in Notes]]
-3. [[Accelerating Ideas]]
+3. [[Knowledge Management Systems]]
 4. [[Customizing Your PKM System]]
 5. [[Processing New Information]]
 6. [[Sharing Knowledge]]

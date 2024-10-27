@@ -1,4 +1,0 @@
-- [[Zettels/Zettelkasten.md]]
-- [[Travel/Hawaii.md]]
-- [[Travel/Burning Man.md]]
-- [[Books/The Housemaid's Secret.md]]

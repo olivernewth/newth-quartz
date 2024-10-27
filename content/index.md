@@ -48,7 +48,7 @@ This is my place where I share all aspects of my life. It's a [[Living document]
 ---
 
 ## Currently Growing 🌱
-Last updated: [[2024-10-27]]
+Last updated: [[2024-10-27 (Sunday)]]
 
 ### Active Projects
 - 🎯 [[Interview Preparation]] - Deep diving into product frameworks
