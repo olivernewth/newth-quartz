@@ -1,8 +1,47 @@
 ---
-title: Reading List 2024
+title: Reading List
+description: A curated list of books for personal and professional growth
+tags:
+  - books
+  - reading
+  - learning
 ---
 
-I have been trying to get back into reading this year. One of the invaluable [[Tools]] I've discovered is a Kobo Reader - it enables deep immersion in books by allowing you to hide distracting elements like page counts. It offers a more focused reading experience compared to the upsell-heavy Kindle ecosystem.
+A Reading List is a collection of books selected for their potential to enhance knowledge, skills, and personal development.
+
+## Categories
+
+### Personal Development
+- Self-help
+- Mindfulness
+- Motivation
+
+### Professional Growth
+- Leadership
+- Strategy
+- Innovation
+
+### Fiction
+- Classics
+- Contemporary
+- Genre-specific
+
+## Application
+
+1. **Learning Goals**
+   - Skill acquisition
+   - Knowledge expansion
+   - Perspective broadening
+
+2. **Reading Habits**
+   - Regular reading schedule
+   - Note-taking
+   - Reflection
+
+## Best Practices
+- Diversify genres
+- Set reading goals
+- Share insights
 
 ### Current Reads
 - [[Never Let Me Go]] by Kazuo Ishiguro - A haunting sci-fi meditation on humanity
@@ -15,4 +54,4 @@ I have been trying to get back into reading this year. One of the invaluable [[T
 - [[Presence]] by Amy Cudd ⭐️⭐️⭐️⭐️⭐️ - Insights on personal power
 - [[Something in the Water]] by Catherine Steedman ⭐️⭐️⭐️⭐️ - Moral thriller
 - [[None of This Is True]] by Lisa Jewell ⭐️⭐️⭐️⭐️⭐️ - Meta-mystery
-- [[Yellow Face]] by R.F. Huang ⭐️⭐️⭐️⭐️⭐️ - Literary satire
+- [[Yellowface]] by R.F. Huang ⭐️⭐️⭐️⭐️⭐️ - Literary satire

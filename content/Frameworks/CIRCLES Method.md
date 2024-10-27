@@ -1,15 +1,15 @@
 ---
 title: CIRCLES Method
-description: A systematic approach to product design and improvement
+description: Framework for product design and problem-solving
 tags:
   - product-management
-  - frameworks
   - design
+  - strategy
 ---
 
 The CIRCLES Method is a structured framework for approaching product design challenges and improvements.
 
-## Framework Components
+## Core Components
 
 ### Comprehend
 - Understand the problem space
@@ -57,11 +57,6 @@ The CIRCLES Method is a structured framework for approaching product design chal
    - Structured approach
    - Comprehensive analysis
    - Data-driven decisions
-
-3. **Communication**
-   - Clear presentation
-   - Stakeholder alignment
-   - Decision documentation
 
 ## Best Practices
 - Start with clear problem definition
