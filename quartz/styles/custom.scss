@@ -23,6 +23,10 @@
     z-index: 1;
     grid-area: grid-sidebar-left;
     flex-direction: column;
+    // Add these properties to prevent mid-word breaks
+    word-break: normal;
+    overflow-wrap: break-word;
+    hyphens: auto;
     
     .page-title {
       font-size: 1.3rem;
@@ -106,4 +110,11 @@ button#explorer {
 
 .tags {
     justify-self: start;
+}
+
+// Add global rules to prevent mid-word breaks
+p, li, h1, h2, h3, h4, h5, h6 {
+  word-break: normal;
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
