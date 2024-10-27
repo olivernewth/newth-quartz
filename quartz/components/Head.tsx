@@ -46,6 +46,10 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        <link
+          href="https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/style.css"
+          rel="stylesheet"
+        />
       </head>
     )
   }
