@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           darkgray: "#403e41",
           dark: "#221f22",
           secondary: "#000000", // Pink for links
-          tertiary: "#6851A2", // Blue for subtle elements
+          tertiary: "#ff75a0", // Blue for subtle elements
           highlight: "rgba(169, 220, 118, 0.15)", // Green tint for highlights
           textHighlight: "rgba(255, 216, 102, 0.15)", // Yellow tint for text selection
         },
@@ -56,7 +56,7 @@ const config: QuartzConfig = {
           darkgray: "#EAF2F1",
           dark: "#EAF2F1",
           secondary: "#EAF2F1", // Pink for links
-          tertiary: "#78DCE8", // Blue for subtle elements
+          tertiary: "#ffacc7", // Blue for subtle elements
           highlight: "rgba(169, 220, 118, 0.15)", // Green tint for highlights
           textHighlight: "rgba(255, 216, 102, 0.15)", // Yellow tint for text selection
         },
