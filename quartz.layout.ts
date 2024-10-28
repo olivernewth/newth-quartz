@@ -29,6 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    Component.Darkmode(),
     Component.Graph({
       localGraph: {
         depth: 1,
@@ -38,7 +39,6 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.Backlinks(),
-    Component.Darkmode(),
   ],
 }
 
