@@ -255,12 +255,13 @@ a {
 
     & .center,
     & footer {
+      width: 100%;
       margin-left: auto;
       margin-right: auto;
       @media all and ($tablet) {
         margin-right: 0;
         padding-right: 2em;
-        width: auto;
+        width: 100%;
       }
       @media all and ($mobile) {
         padding-right: 2rem;
