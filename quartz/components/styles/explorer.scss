@@ -55,14 +55,14 @@ button#explorer {
   display: grid;
   grid-template-rows: 0fr;
   transition: grid-template-rows 0.3s ease-in-out;
-  
+
   &:not(.open) {
-    display: none;  // Add this line to completely remove from layout when closed
+    display: none; // Add this line to completely remove from layout when closed
   }
 }
 
 .folder-outer.open {
-  display: grid;  // Ensure it's displayed when open
+  display: grid; // Ensure it's displayed when open
   grid-template-rows: 1fr;
 }
 
@@ -125,7 +125,6 @@ svg {
 
   & div > a {
     color: var(--secondary);
-    font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
@@ -147,7 +146,6 @@ svg {
     padding-right: 0;
     display: flex;
     align-items: center;
-    font-family: var(--headerFont);
 
     & span {
       font-size: 0.95rem;

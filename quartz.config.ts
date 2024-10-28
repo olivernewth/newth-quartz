@@ -33,8 +33,8 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       typography: {
-        header: "Cormorant",
-        body: "Source Sans Pro",
+        header: "Cormorant Infant",
+        body: "Noto Sans",
         code: "IBM Plex Mono",
       },
       colors: {
