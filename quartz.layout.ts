@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "newth.ai": "https://newth.ai",
       "newth.art": "https://newth.art",
-      "source code"
+      "source code": "https://github.com/olivernewth/newth-quartz",
     },
   }),
 }
