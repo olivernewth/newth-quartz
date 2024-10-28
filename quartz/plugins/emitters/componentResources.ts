@@ -1,9 +1,10 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { FilePath, FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
-// @ts-ignore
+// @ts-expect-error - Import from inline script requires special handling
 import spaRouterScript from "../../components/scripts/spa.inline"
-// @ts-ignore
+// @ts-expect-error - Import from inline script requires special handling 
 import popoverScript from "../../components/scripts/popover.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
