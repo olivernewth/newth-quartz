@@ -118,3 +118,20 @@ p, li, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
   hyphens: auto;
 }
+
+@media (max-width: 960px) {
+    .page>#quartz-body .sidebar.left .search {
+        margin: 0;
+    }
+}
+
+@media (max-width: 800px) {
+  .page>#quartz-body .sidebar.left {
+    height: auto;
+    flex-direction: row;
+    padding-left: 0;
+    padding-right: 0;
+    margin-right: 0;
+    border-right: none;
+  }
+}

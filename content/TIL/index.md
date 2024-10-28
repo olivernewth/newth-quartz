@@ -1,5 +1,5 @@
 ---
-title: Things I've Learned
+title: TIL
 description: Daily learning notes and quick insights
 icon: 💡
 createdAt: 2024-03-26T12:00:00.000Z

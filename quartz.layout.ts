@@ -26,7 +26,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -48,9 +47,9 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
+    Component.Darkmode(), // Ensure Darkmode is right after PageTitle
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
