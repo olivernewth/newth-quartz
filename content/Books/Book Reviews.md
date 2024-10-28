@@ -1,49 +1,52 @@
 ---
-title: Book Reviews
-description: Critical evaluations and analyses of books
-tags:
-  - books
-  - reviews
-  - analysis
+title: Book Library
 ---
 
-Book Reviews provide critical evaluations and analyses of books, offering insights and recommendations.
+# Book Library
 
-## Core Components
+## Currently Reading
 
-### Summary
+- [[Atomic Habits]] - Chapter 4
+  - Focus: Building better systems
+  - Next Action: Document current habits
+- [[The Manager's Path]] - Tech Lead chapter
+  - Focus: Team leadership transitions
+  - Next Action: Write implementation plan
 
-- Overview of content
-- Key themes
-- Author's intent
+## Recently Completed
 
-### Analysis
+### Outstanding (⭐⭐⭐⭐⭐)
 
-- Strengths and weaknesses
-- Writing style
-- Character development
+- [[The Remains of the Day]] (Literary Fiction)
+  - Themes: Dignity, Regret, Duty
+  - Key Impact: Perspective on professional dedication
 
-### Recommendation
+### Great (⭐⭐⭐⭐)
 
-- Target audience
-- Overall rating
-- Personal insights
+- [[Something in the Water]] (Thriller)
+  - Themes: Moral Choice, Consequences
 
-## Application
+## Reading Statistics
 
-1. **Reading Selection**
+### 2024 Progress
 
-   - Informed choices
-   - Diverse genres
-   - Personal interests
+- Books Completed: 2
+- Pages Read: 487
+- Current Pace: 1 book/month
+- Goal: 24 books
 
-2. **Critical Thinking**
-   - Analytical skills
-   - Perspective broadening
-   - Discussion facilitation
+### Genre Breakdown
 
-## Best Practices
+- Fiction: 2
+- Non-Fiction: 0
+- Technical: 0
 
-- Be objective
-- Provide evidence
-- Engage with the text
+## Reading Queue
+
+1. Deep Work
+2. Project Hail Mary
+3. Staff Engineer
+
+## Tags
+
+#reading #books #fiction #non-fiction #career #psychology #leadership

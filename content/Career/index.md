@@ -1,47 +1,44 @@
 ---
-title: Career
-description: Career development, skills, and professional growth
-tags:
-  - career
-  - professional-development
-  - skills
+title: Career Journey
+description: Documenting my path in tech and leadership
+icon: 💼
+tags: [career, development, leadership]
 ---
 
-A comprehensive guide to professional growth and career management.
+## Active Focus Areas
 
-## Core Areas
+### Engineering & Architecture
 
-- [[Product Management]] - Product leadership and strategy
-- [[Career Planning]] - Long-term career strategy and goals
-- [[Skills Development]] - Technical and soft skill improvement
-- [[Interview Preparation]] - Interview readiness and practice
-- [[Networking]] - Building meaningful connections
-- [[Personal Brand]] - Online presence and reputation
+- [[System Design|System Design Notes]] - Getting better at scaling systems
+- [[Tech/Architecture Patterns|Architecture Decisions]] - Learning from past projects
+- [[Tech/API Design|API Design Principles]] - Because APIs are forever
 
-## Frameworks & Tools
+### Leadership Growth
 
-- [[Frameworks/index|Frameworks]] - Full list of fraemworks
-- [[Career Frameworks]] - Career development models
-- [[Skills Matrix]] - Skill assessment and tracking
-- [[Career Roadmap]] - Career progression planning
-- [[Learning Plan]] - Structured learning approach
+- [[Leadership/Team Building|Building Strong Teams]] - What actually works
+- [[Leadership/Communication|Tech Communication]] - Making complex things clear
+- [[Leadership/Decision Making|Decision Frameworks]] - Tools for better choices
 
-## Job Search
+### Writing & Documentation
 
-- [[Resume Building]] - CV and portfolio development
-- [[Job Search Strategy]] - Finding the right opportunities
-- [[Salary Negotiation]] - Compensation discussions
-- [[Types of Interviews]] - Interview formats and preparation
+- [[Tech/Documentation|Documentation Strategy]] - Making docs people actually read
+- [[Tech/Technical Writing|Tech Writing]] - Clear explanations of complex things
+- [[Knowledge Sharing|Teaching Others]] - Because teaching is learning twice
 
-## Growth Resources
+## Growth Tracking
 
-- [[Mentorship]] - Finding and working with mentors
-- [[Professional Development]] - Continuous improvement
-- [[Career Transitions]] - Changing roles or industries
-- [[Remote Work]] - Virtual workplace success
+- [[Career/Goals|📈 Where I'm Headed]] - Career goals and progress
+- [[Skills Matrix|💪 Skills Inventory]] - What I know (and need to know)
+- [[Learning Log|📚 Learning Journal]] - Weekly progress notes
 
-## Related Areas
+## Mentorship Notes
 
-- [[Learning/index]] - Educational resources
-- [[Personal Development]] - Self-improvement
-- [[Frameworks/index|Frameworks]] - Structured approaches
+- [[Mentorship/Lessons|🎓 Key Lessons]] - What I'm learning as a mentor
+- [[Mentorship/Frameworks|🛠️ Mentoring Tools]] - Approaches that work
+- [[Private Notes/Mentorship|Private Sessions]]
+
+## Resource Library
+
+- [[Books/The Managers Path|📚 Manager's Path Notes]] - Great book, messy reality
+- [[Tech/Papers|📑 Technical Papers]] - Research worth reading
+- [[Conference Notes|🎤 Conference Takeaways]] - Things I learned in talks

@@ -20,8 +20,7 @@
 
 ### Today's Schedule
 
-- [ ] 🗓️ Appointments
-  -
+- [ ] ## 🗓️ Appointments
 
 ## Notes & Thoughts
 
@@ -43,7 +42,7 @@
 - Focus time:
 - Energy level (1-10):
 
-## 🌙 Evening Review
+## Evening Review
 
 ### Wins for the day
 

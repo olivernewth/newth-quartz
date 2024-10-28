@@ -1,49 +1,82 @@
 ---
 title: Career Goals Framework
-description: A structured approach to setting and achieving career objectives
-tags:
-  - career
-  - goals
-  - planning
+description: A practical approach to setting and achieving meaningful career objectives
 ---
 
-The Career Goals Framework provides a structured approach to setting and achieving career objectives.
+After years of setting (and sometimes missing) career goals, I've developed this framework to make professional growth more intentional and achievable. It's based on both personal experience and research into effective goal-setting practices.
 
-## Core Components
+## Core Philosophy
+
+The best career goals are like good code - clear, maintainable, and aligned with the larger system. They should be:
+
+- **Specific** enough to guide action
+- **Flexible** enough to adapt to change
+- **Meaningful** enough to motivate
+- **Measurable** enough to track progress
+
+## Goal Structure
 
 ### Vision Setting
 
-- Define long-term aspirations
-- Align with personal values
-- Create a compelling vision
+Start with the big picture:
+
+- Define your "north star" - where do you want to be?
+- Align with your personal values
+- Create a compelling narrative
 
 ### Goal Breakdown
 
-- Short-term objectives
-- Medium-term milestones
-- Long-term targets
+Break it down into manageable pieces:
 
-### Action Steps
+- Short-term targets (3-6 months)
+- Medium-term milestones (6-18 months)
+- Long-term aspirations (2-5 years)
 
-- Specific tasks
-- Resource allocation
-- Timeline development
+### Action Planning
 
-## Application
+Make it concrete:
 
-1. **Career Planning**
+- Specific tasks and projects
+- Resource needs (time, learning, tools)
+- Timeline with clear checkpoints
 
-   - Mapping career paths
-   - Identifying opportunities
-   - Setting priorities
+## Implementation Tips
 
-2. **Performance Tracking**
-   - Monitoring progress
-   - Adjusting plans
-   - Celebrating achievements
+From my experience, these practices make a huge difference:
 
-## Best Practices
+1. **Weekly Reviews**
 
-- Be specific
-- Stay flexible
-- Regularly review
+   - Check progress against goals
+   - Adjust tasks and priorities
+   - Celebrate small wins
+
+2. **Monthly Deep Dives**
+
+   - Evaluate goal alignment
+   - Update action plans
+   - Document lessons learned
+
+3. **Quarterly Resets**
+   - Review and revise goals
+   - Update success metrics
+   - Plan next quarter's focus
+
+## Common Pitfalls
+
+Things I've learned the hard way:
+
+- Setting too many goals at once
+- Not building in flexibility
+- Forgetting to celebrate progress
+- Neglecting to adjust for changing circumstances
+
+## Tools I Use
+
+- [[Career Planning Template]] - My go-to planning doc
+- [[Goal Tracking System]] - How I monitor progress
+- [[Reflection Prompts]] - Questions for regular review
+
+Related: [[SMART Goals]], [[Career Development]], [[Professional Growth]]
+
+> [!tip] Remember
+> Goals are guides, not chains. Be willing to adjust them as you learn and grow.

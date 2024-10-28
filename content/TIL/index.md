@@ -20,9 +20,11 @@ Daily captures of learning moments and insights.
 
 ## Growth Stages
 
-#Seedling - Fresh learnings
-#Budding - Developing understanding
-#Evergreen - Proven knowledge
+# Seedling - Fresh learnings
+
+# Budding - Developing understanding
+
+# Evergreen - Proven knowledge
 
 ## Related Areas
 

@@ -1,91 +1,72 @@
 ---
-title: Learning
-description: A comprehensive guide to personal knowledge management and learning strategies
+title: Learning Journey
+description: My approach to continuous learning and growth
 icon: 🧠
-createdAt: 2024-03-22T06:28:41.803Z
-creationDate: 2024-03-21 23:28
-modificationDate: 2024-03-26 12:13
-tags:
-  - Budding
-coverImage:
+tags: [learning, knowledge-management, growth]
 ---
 
 I'm exploring how [[Autism]] affects my learning and productivity. My goal is to achieve [[Flow]] more consistently, enabling deeper task engagement.
 
-## Core Concepts
+## Core Systems
 
-### The Three Spaces of Personal Knowledge Management
+### The Three Spaces of Knowledge
 
-1. [[Learning Atlas|Atlas]] (Knowledge-Based): A system for organizing and accessing your knowledge base.
-2. Action-based: Managing active projects and tasks
-3. Time-based: Calendar and scheduling
+1. [[Learning Atlas|Atlas]] (Knowledge-Based)
 
-We aim to minimize context switching between these spaces to maintain [[Flow]].
+   - How I organize what I know
+   - Making information findable
+   - Building useful connections
 
-### Learning to Learn
+2. Action-based
 
-- Learning techniques and strategies
-- Synthesizing knowledge effectively
-- Managing distractions
-- Understanding autism's impact on learning styles and challenges
+   - Project management
+   - Task tracking
+   - Daily workflows
 
-### Ideating with the ARC Framework
+3. Time-based
+   - Calendar systems
+   - Time blocking
+   - Energy management
 
-1. **Add**: Capture ideas and thoughts, applying the #New label
-2. **Relate**: Remove the #New label from valuable ideas and connect them to existing concepts
-3. **Communicate**: Share and discuss your insights
+## Current Experiments
 
-> Note: While traditional note-taking emphasizes capturing information, true learning comes from relating and communicating ideas.
+### Learning Techniques
 
-## Digital Gardening
+- Testing different note-taking approaches
+- Exploring spaced repetition
+- Building better review systems
 
-### Growth Stages in Digital Gardens
+### Focus & Flow
 
-1. #Seedling: Initial exploration of diverse ideas
-2. #Budding: Promising concepts requiring deeper investigation
-3. #Evergreen: Well-developed content that continues to evolve
+- Managing [[ADHD]] impacts
+- Creating optimal environments
+- Reducing context switching
 
-Areas needing development are tagged with #Focus.
+### Knowledge Synthesis
 
-### Practical Tips for Cultivating Your Digital Garden
+- Connecting ideas across domains
+- Building mental models
+- Creating useful abstractions
 
-- **Starting Your Garden**: Choose appropriate tools and establish content strategies
-- **Maintaining Growth**: Regular updates and intentional concept linking
-- **Community Engagement**: Share work and embrace feedback
+## Tools & Methods
 
-### Incorporating Note-Taking Methods
+### Current Stack
 
-Structured note-taking methods can enhance your digital garden, creating a comprehensive knowledge management system through interconnected notes.
+- [[Obsidian]] for knowledge management
+- [[Todoist]] for tasks
+- [[Calendly]] for time management
 
-## Knowledge Management Systems
+### Frameworks
 
-### Building a Personal Knowledge Management (PKM) System
+- [[Progressive Summarization]] for processing
+- [[Zettelkasten]] for connections
+- [[PARA]] for organization
 
-1. Understanding idea emergence
-2. Developing valuable notes
-3. Designing your system
-4. Processing new information
-5. Sharing insights
+> [!note] Work in Progress
+> This system is always evolving. I document changes in my [[Learning Log]].
 
-## Inspiration and Resources
+## Related Areas
 
-### Notable Digital Gardens
-
-- [LYT Kit](https://notes.linkingyourthinking.com/Home)
-- [Mister Chad's Obsidian Publish](https://publish.obsidian.md/mister_chad/welcome)
-- [Maggie Appleton's Garden](https://maggieappleton.com/garden)
-- [Nikita Voloboev's Wiki](https://wiki.nikiv.dev/)
-- [Tom Critchlow's Wiki](https://tomcritchlow.com/wiki/)
-- [Ranked list of awesome digital gardens](https://github.com/lyz-code/best-of-digital-gardens)
-
-## Future Considerations
-
-Consider what information would be most valuable to your future self.
-
-## Related Concepts
-
-- Problem-solving approaches
-- Managing cognitive challenges
-- Continuous learning strategies
-- Personal productivity methods
-- [[Learning/Accelerating Ideas|Accelerating Ideas]]: Techniques for rapid concept development and implementation
+- [[Tech/Learning Tools|Learning Tools]]
+- [[Books/Learning Books|Books on Learning]]
+- [[Flow States]]

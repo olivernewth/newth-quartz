@@ -1,73 +1,43 @@
 ---
-title: Welcome
+title: Ollie's Digital Garden 🌱
+description: A growing collection of notes on tech, learning, and life
 ---
 
-Hey there! This is my personal knowledge space - a digital garden where I grow and share ideas. It's always evolving, just like our thoughts should.
+Welcome! This is my personal knowledge garden - a space where I cultivate ideas and document my learning journey.
 
-## What I'm Into Right Now
+## What I'm Excited About
 
-### Active Projects
+### 🧠 Current Deep Dives
 
-- Building better health habits with [[Health/Health Metrics|Health Metrics]]
-- Exploring behavior change through [[Health/Cue-Routine-Reward|Habit Loops]]
-- Reading through my [[Books/Reading List|Reading List]]
-- Documenting my [[Learning/Learning Atlas|Learning Journey]]
+- Building a better [[Learning Systems|learning system]] (my notes are a mess!)
+- Getting smarter about [[System Design]] (especially distributed systems)
+- Finally reading [[Books/Atomic Habits|Atomic Habits]] (and actually implementing it)
 
-### Recent Thoughts
+### 💻 Tech Adventures
 
-- [[Daily-index|Daily Notes]]
-- [[TIL/index|Things I've Learned]]
-- [[Questions]] I'm wrestling with
+- [[Tech/index|My Tech Notes]] - Trying to document everything I learn
+- [[System Design/index|System Design]] - Because I keep having to relearn this
+- [[Code Patterns/index|Code Patterns]] - Stuff I wish I knew earlier
 
-## The Good Stuff
+### 📈 Growing My Career
 
-### Knowledge Base
+- [[Career/index|Career Notes]] - The good, the bad, and the awkward
+- [[Skills Matrix|What I Know]] - And what I need to learn
+- [[Leadership/index|Leadership]] - Learning to lead (and trying not to mess it up)
 
-- [[Books/index|Books]] - what I'm reading & thinking about
-- [[Zettels/index|Notes]] - ideas worth keeping
-- [[Frameworks/index|Frameworks]] - mental models that work
-
-### Growth Areas
-
-- [[Career]] stuff (always learning)
-- [[Tech/Tools|Tech]] explorations
-- [[Learning]] adventures
-
-### Life Things
-
-- [[Cooking]] experiments
-- [[Health/index|Health]] journey (currently exploring [[Health/RICE|RICE]] for recovery)
-- [[Energy]] management
-
-## Finding Your Way Around
-
-### Navigation
-
-- [[Garden Map]] if you're lost
-- [[MOC]] for the big picture
-- [[Recent Changes]] for what's new
-
-### Behind the Scenes
-
-- [[Zettels/Gardening Principles|How I organize]]
-- [[Writing Principles]] (keeping it real)
-- [[Personal Knowledge Management|PKM]] approach
-
----
-
-## Latest Updates
+## Latest Thoughts
 
 ### Working On
 
-- Getting smarter about tracking [[Health/Health Metrics|Health Metrics]]
+- Getting smarter about tracking [[Health/Health Metrics|health metrics]]
 - Deep diving into [[Health/Cue-Routine-Reward|habit formation]]
-- Building a better [[Learning/Learning Atlas|Learning Atlas]]
+- Building a better [[Learning/Learning Atlas|learning system]]
 
 ### Just Added
 
-- Notes on [[Health/RICE|injury recovery]]
+- Notes on [[Health/RICE|injury recovery]] (because I never learn)
 - Thoughts on [[Health/Cue-Routine-Reward|behavior change]]
-- [[Health/Health Metrics|Health tracking]] system
+- [[Health/Health Metrics|Health tracking]] system (attempt #457)
 
 ### Questions I'm Sitting With
 
@@ -75,11 +45,9 @@ Hey there! This is my personal knowledge space - a digital garden where I grow a
 2. What makes knowledge useful?
 3. How can we learn better?
 
----
-
 > Keep it simple, make it useful.
 
 Explore whatever interests you. That's how the best discoveries happen.
 
 > [!tip] Want to know more?
-> Check out my [[Zettels/Gardening Principles|Gardening Principles]] or [[Living document]] philosophy.
+> Check out my [[Zettels/Gardening Principles|gardening principles]] or [[Living document]] philosophy.
