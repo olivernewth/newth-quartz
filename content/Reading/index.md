@@ -1,5 +1,5 @@
 ---
-title: Book Notes Hub
+title: Reading
 ---
 
 ## Currently Reading

@@ -1,5 +1,5 @@
-@use '../index' as *;
-@use '../mixins' as *;
+@use "../index" as *;
+@use "../mixins" as *;
 
 .article-title {
   margin-bottom: 1rem;
@@ -20,7 +20,7 @@ button#explorer {
 }
 
 .tags {
-  justify-self: start;
+  justify-self: end;
 }
 
 .search > .search-button {
