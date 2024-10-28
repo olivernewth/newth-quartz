@@ -1,4 +1,6 @@
-# Motivation Techniques
+---
+title: Motivation Techniques
+---
 
 Motivation techniques are strategies and methods used to inspire and encourage individuals to take action, maintain focus, and achieve their goals. These techniques are essential for [[Personal Development]] and successful [[Behavior Change]]. Here are some effective motivation techniques:
 

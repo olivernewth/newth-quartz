@@ -1,4 +1,6 @@
-# Personal Development
+---
+title: Personal Development
+---
 
 Personal development is a lifelong process of self-improvement and growth. It encompasses various aspects of an individual's life, including mental, physical, emotional, and social well-being. The goal of personal development is to enhance one's quality of life, achieve personal goals, and realize one's full potential.
 

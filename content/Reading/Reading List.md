@@ -7,7 +7,9 @@ tags:
   - learning
 ---
 
-# My Reading Journey
+---
+title: My Reading Journey
+---
 
 This is where I track my reading progress, reflect on books that have impacted me, and plan my future reads. I use this space to capture insights and maintain momentum in my reading practice.
 

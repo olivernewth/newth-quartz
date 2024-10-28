@@ -1,4 +1,6 @@
-# Knowledge Management
+---
+title: Knowledge Management
+---
 
 A knowledge management system is a framework for organizing, storing, and sharing information within an organization or for personal use. An effective KMS helps capture, develop, and utilize knowledge efficiently.
 

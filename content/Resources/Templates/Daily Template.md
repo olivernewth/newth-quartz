@@ -2,7 +2,9 @@
 title:
 ---
 
-# Morning Review
+---
+title: Morning Review
+---
 
 ### How am I feeling? (1-10)
 

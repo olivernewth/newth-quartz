@@ -1,4 +1,6 @@
-# Zettelkasten Method
+---
+title: Zettelkasten Method
+---
 
 The Zettelkasten Method is a personal knowledge management system developed by German sociologist Niklas Luhmann. It's designed to enhance learning, creativity, and productivity through the creation and connection of [[Zettels/Atomic Notes|Atomic Notes]].
 

@@ -1,4 +1,6 @@
-# Atomic Notes
+---
+title: Atomic Notes
+---
 
 Atomic notes are the fundamental building blocks of the [[zettels/zettelkasten method]]. They are:
 

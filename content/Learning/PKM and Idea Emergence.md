@@ -1,1 +1,3 @@
-# PKM and Idea Emergence
+---
+title: PKM and Idea Emergence
+---

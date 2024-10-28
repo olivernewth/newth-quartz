@@ -1,4 +1,6 @@
-# Behavior Change
+---
+title: Behavior Change
+---
 
 Behavior change is the process of modifying or transforming one's actions, habits, or patterns of conduct. It is a fundamental aspect of [[Personal Development]] and often involves conscious effort and strategic approaches to achieve lasting improvements in one's life.
 

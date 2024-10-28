@@ -2,7 +2,9 @@
 title: Book Library
 ---
 
-# Book Library
+---
+title: Book Library
+---
 
 ## Currently Reading
 

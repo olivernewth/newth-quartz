@@ -1,4 +1,6 @@
-# non-comedogenic
+---
+title: non-comedogenic
+---
 
 Non-comedogenic refers to products or ingredients that are formulated to not clog pores or cause acne. This term is commonly used in skincare and cosmetics.
 

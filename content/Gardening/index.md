@@ -16,11 +16,17 @@ A personal collection of gardening knowledge and experiences.
 
 ## Growth Stages
 
-# Seedling - Early experiments and first plantings
+---
+title: Seedling - Early experiments and first plantings
+---
 
-# Budding - Growing knowledge and developing techniques
+---
+title: Budding - Growing knowledge and developing techniques
+---
 
-# Evergreen - Proven methods and reliable plants
+---
+title: Evergreen - Proven methods and reliable plants
+---
 
 ## Related Areas
 

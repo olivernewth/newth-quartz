@@ -1,4 +1,6 @@
-# Note Linking
+---
+title: Note Linking
+---
 
 Note linking is a fundamental concept in the [[Zettelkasten Method]] and other knowledge management systems. It involves creating explicit connections between different pieces of information, typically represented as [[Zettels/Atomic Notes|atomic notes]].
 

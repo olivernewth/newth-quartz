@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Directory containing markdown files
-DIRECTORY="content"
+DIRECTORY="../content"
 
-# Loop through all markdown files in the specified directory
-for file in "$DIRECTORY"/*.md; do
+# Loop through all markdown files recursively in the specified directory
+find "$DIRECTORY" -type f -name "*.md" | while read -r file; do
     # Create a temporary file to store modified content
     temp_file=$(mktemp)
 
