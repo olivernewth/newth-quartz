@@ -1,5 +1,5 @@
 ---
-title: Career Journey
+title: Career
 description: Documenting my path in tech and leadership
 icon: 💼
 tags: [career, development, leadership]
