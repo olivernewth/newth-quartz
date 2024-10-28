@@ -148,3 +148,17 @@ a.internal {
 .graph>.graph-outer {
   border: 0;
 }
+
+.search>.search-button {
+  background-color: var(--lightgray);
+  
+  p {
+    color: var(--secondary);
+  }
+
+  svg {
+    .search-path {
+      stroke: var(--secondary);
+    }
+  }
+}
