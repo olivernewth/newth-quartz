@@ -1,8 +1,7 @@
 ---
 title: Maps of Content
 description: Navigation hub for connected knowledge areas
-icon: 🗺️
-tags: [MOC, navigation, knowledge-management]
+tags: [knowledge-management]
 ---
 
 A central hub for navigating interconnected knowledge domains and building a personal knowledge graph.
@@ -12,7 +11,7 @@ A central hub for navigating interconnected knowledge domains and building a per
 - [[Health/index|Health]] - Wellness, fitness, and physical wellbeing
 - [[Learning/index|Learning]] - Growth, skills development, and education
 - [[Career/index|Career]] - Professional development and work life
-- [[Projects-index|Projects]] - Active initiatives and ongoing work
+- [[Projects/index|Projects]] - Active initiatives and ongoing work
 
 ## Navigation & Organization
 

@@ -54,7 +54,9 @@ Leverage your [[Professional Network]] through:
 
 ### Application Management
 
-Use the [[Application Tracking System]] to monitor:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eFzdGfjvxo?si=DmgRdbLdLj4HH8Jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Use software like Teal:
 
 - Application status
 - Follow-up timing
