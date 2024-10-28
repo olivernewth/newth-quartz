@@ -26,15 +26,16 @@
 
 /* Base tag styles */
 .tag-link {
-  order-radius: 27px !important;
+  border-radius: 27px !important;
   padding: 4px 8px !important;
   font-size: 0.875em !important;
-  transition: opacity 0.2s ease !important;
   text-decoration: none !important;
   color: var(--tag-text) !important;
+  transition: all 0.2s ease !important;
 
   &:hover {
-    opacity: 0.9;
+    filter: brightness(0.85);
+    color: var(--tag-text) !important;
   }
 }
 

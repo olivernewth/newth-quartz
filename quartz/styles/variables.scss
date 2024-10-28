@@ -18,8 +18,8 @@ $desktop: "(min-width: #{map.get($breakpoints, "desktop")})";
 $pageWidth: #{map.get($breakpoints, "mobile")};
 $sidePanelWidth: 320px; //380px;
 $topSpacing: 2rem;
-$boldWeight: 700;
-$semiBoldWeight: 600;
+$boldWeight: 600;
+$semiBoldWeight: 500;
 $normalWeight: 400;
 
 $mobileGrid: (
@@ -57,8 +57,8 @@ $desktopGrid: (
 );
 
 // Monokai Pro Accent Colors
-$pink: #FF6188;
-$green: #A9DC76;
-$yellow: #FFD866;
-$blue: #78DCE8;
-$purple: #AB9DF2;
+$pink: #ff6188;
+$green: #a9dc76;
+$yellow: #ffd866;
+$blue: #78dce8;
+$purple: #ab9df2;
