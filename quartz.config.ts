@@ -45,11 +45,11 @@ const config: QuartzConfig = {
           dark: "#221f22", // Monokai Pro dark
           secondary: "#696769", // Subtle but visible links
           tertiary: "#939293", // Muted text
-          highlight: "rgba(34, 31, 34, 0.08)", // Subtle highlight
+          highlight: "rgba(34, 31, 34, 0.05)", // Subtle highlight
           textHighlight: "rgba(34, 31, 34, 0.15)",
         },
         darkMode: {
-          light: "#2d2a2e", // Monokai Pro background
+          light: "#282A3A", // Monokai Pro background
           lightgray: "#403e41", // Monokai Pro border
           gray: "#939293", // Monokai muted
           darkgray: "#e5e5e5", // Light text

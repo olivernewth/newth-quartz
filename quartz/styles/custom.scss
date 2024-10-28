@@ -26,7 +26,7 @@
     // Add these properties to prevent mid-word breaks
     word-break: normal;
     overflow-wrap: break-word;
-    hyphens: auto;
+    hyphens: none;
     
     .page-title {
       font-size: 1.3rem;
@@ -134,4 +134,8 @@ p, li, h1, h2, h3, h4, h5, h6 {
     margin-right: 0;
     border-right: none;
   }
+}
+
+a.internal {
+  border-radius: 0;
 }
