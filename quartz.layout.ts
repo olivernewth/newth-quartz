@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
         depth: 2,
       },
       globalGraph: {
-        depth: 5,
+        depth: 3,
       },
     }),
     Component.Backlinks(),
