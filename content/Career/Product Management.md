@@ -10,18 +10,21 @@ tags:
 ## Core Responsibilities
 
 ### Strategy & Vision
+
 - Product vision development
 - Market opportunity analysis
 - Competitive positioning
 - Business strategy alignment
 
 ### Execution & Delivery
+
 - Feature prioritization
 - Roadmap planning
 - Sprint management
 - Release coordination
 
 ### Stakeholder Management
+
 - Customer engagement
 - Team leadership
 - Executive communication
@@ -30,18 +33,21 @@ tags:
 ## Key Skills
 
 ### Technical Skills
+
 - Data analysis
 - Technical architecture
 - Agile methodologies
 - Product analytics
 
 ### Business Skills
+
 - Market research
 - Financial modeling
 - Strategic planning
 - Business operations
 
 ### Soft Skills
+
 - Leadership
 - Communication
 - Problem-solving
@@ -50,6 +56,7 @@ tags:
 ## Career Growth
 
 ### Career Levels
+
 - Associate PM
 - Product Manager
 - Senior PM
@@ -58,12 +65,14 @@ tags:
 - VP of Product
 
 ### Development Areas
+
 - [[Product Frameworks]]
 - [[Technical Skills]]
 - [[Leadership Development]]
 - [[Business Acumen]]
 
 ## Resources
+
 - [[PM Interview Prep]]
 - [[Product Strategy]]
 - [[User Research]]

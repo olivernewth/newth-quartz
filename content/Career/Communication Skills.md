@@ -12,16 +12,19 @@ Communication Skills are essential for effective interaction and collaboration i
 ## Core Components
 
 ### Verbal Communication
+
 - Clarity and conciseness
 - Active listening
 - Tone and pace
 
 ### Non-Verbal Communication
+
 - Body language
 - Eye contact
 - Facial expressions
 
 ### Written Communication
+
 - Grammar and style
 - Email etiquette
 - Report writing
@@ -29,6 +32,7 @@ Communication Skills are essential for effective interaction and collaboration i
 ## Application
 
 1. **Professional Settings**
+
    - Team collaboration
    - Client interactions
    - Presentation delivery
@@ -39,6 +43,7 @@ Communication Skills are essential for effective interaction and collaboration i
    - Self-expression
 
 ## Best Practices
+
 - Practice active listening
 - Be clear and concise
 - Adapt to your audience

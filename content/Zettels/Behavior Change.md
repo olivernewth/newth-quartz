@@ -14,6 +14,7 @@ Key components of effective behavior change:
 8. **Resilience**: Overcoming setbacks and maintaining long-term commitment
 
 Strategies for successful behavior change:
+
 - Start small with [[Atomic Notes|atomic]] changes
 - Use positive reinforcement and reward systems
 - Practice mindfulness and self-reflection
@@ -24,6 +25,7 @@ Strategies for successful behavior change:
 > [!quote] "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
 
 Related concepts:
+
 - [[Habit Formation]]
 - [[Self-Improvement]]
 - [[Growth Mindset]]

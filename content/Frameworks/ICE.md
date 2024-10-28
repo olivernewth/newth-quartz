@@ -12,26 +12,31 @@ ICE Scoring is a simple framework used to prioritize ideas and projects based on
 ## Components
 
 ### Impact
+
 - Potential effect on goals
 - Value creation
 - User benefit
 
 ### Confidence
+
 - Certainty in estimates
 - Data support
 - Past experience
 
 ### Ease
+
 - Implementation simplicity
 - Resource requirements
 - Time to execute
 
 ## Calculation
+
 ICE Score = (Impact × Confidence × Ease) / 3
 
 ## Application
 
 1. **Idea Prioritization**
+
    - Feature development
    - Project selection
    - Resource allocation
@@ -42,6 +47,7 @@ ICE Score = (Impact × Confidence × Ease) / 3
    - Opportunity evaluation
 
 ## Best Practices
+
 - Use consistent criteria
 - Regularly review scores
 - Adjust based on feedback

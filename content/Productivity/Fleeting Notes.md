@@ -12,16 +12,19 @@ Fleeting Notes are quick, temporary notes used to capture ideas and thoughts for
 ## Core Components
 
 ### Capture
+
 - Write down immediately
 - Use simple language
 - Focus on key points
 
 ### Organization
+
 - Review regularly
 - Categorize by themes
 - Transfer to permanent storage
 
 ### Reflection
+
 - Analyze for insights
 - Connect related ideas
 - Decide on next steps
@@ -29,6 +32,7 @@ Fleeting Notes are quick, temporary notes used to capture ideas and thoughts for
 ## Application
 
 1. **Idea Generation**
+
    - Capture inspiration
    - Explore new concepts
    - Develop creativity
@@ -39,6 +43,7 @@ Fleeting Notes are quick, temporary notes used to capture ideas and thoughts for
    - Track progress
 
 ## Best Practices
+
 - Keep it simple
 - Review frequently
 - Integrate with other systems

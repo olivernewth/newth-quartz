@@ -12,16 +12,19 @@ Environmental Design involves creating spaces that promote health, well-being, a
 ## Core Components
 
 ### Space Layout
+
 - Optimize for functionality
 - Ensure accessibility
 - Enhance aesthetics
 
 ### Lighting and Color
+
 - Use natural light
 - Choose calming colors
 - Adjust for mood
 
 ### Air Quality
+
 - Ensure proper ventilation
 - Use air purifiers
 - Incorporate plants
@@ -29,6 +32,7 @@ Environmental Design involves creating spaces that promote health, well-being, a
 ## Application
 
 1. **Workspaces**
+
    - Boost productivity
    - Reduce stress
    - Improve focus
@@ -39,6 +43,7 @@ Environmental Design involves creating spaces that promote health, well-being, a
    - Foster well-being
 
 ## Best Practices
+
 - Prioritize user needs
 - Incorporate nature
 - Adapt to changing requirements

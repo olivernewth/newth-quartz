@@ -1,10 +1,12 @@
 ---
-title: "Short Term Disability Insurance"
+title: Short Term Disability Insurance
+slug: short-term-disability-insurance
 ---
 
 Short term disability (STD) insurance provides income protection if you become temporarily unable to work due to injury, illness, or pregnancy. You typically pay premiums through payroll deductions.
 
 ## Key Points
+
 - Replaces a portion of your income (usually 60-70%) for a limited time period (typically 3-6 months)
 - Has a waiting/elimination period before benefits begin (often 7-14 days)
 - Benefit amount based on severity of disability and inability to perform job duties
@@ -12,6 +14,7 @@ Short term disability (STD) insurance provides income protection if you become t
 For more information specific to California, you can visit the [California State Disability Insurance (SDI) page](https://www.edd.ca.gov/disability/).
 
 ## Required Documentation
+
 - [ ] Medical documentation from healthcare provider detailing:
   - [ ] Nature and severity of condition
   - [ ] Expected duration of disability
@@ -21,7 +24,9 @@ For more information specific to California, you can visit the [California State
 - [ ] Authorization for release of medical information
 
 ## Benefit Determination
+
 Insurance providers assess:
+
 - Physical limitations and restrictions
 - Job requirements and essential duties
 - Medical evidence and physician statements

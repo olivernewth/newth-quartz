@@ -12,21 +12,25 @@ The Bullet Journal is a customizable organization system that helps track the pa
 ## Core Components
 
 ### Index
+
 - Overview of content
 - Quick navigation
 - Reference guide
 
 ### Future Log
+
 - Long-term planning
 - Key events
 - Major goals
 
 ### Monthly Log
+
 - Monthly calendar
 - Task list
 - Event tracking
 
 ### Daily Log
+
 - Daily tasks
 - Notes
 - Reflections
@@ -34,6 +38,7 @@ The Bullet Journal is a customizable organization system that helps track the pa
 ## Application
 
 1. **Personal Organization**
+
    - Task management
    - Goal setting
    - Habit tracking
@@ -44,6 +49,7 @@ The Bullet Journal is a customizable organization system that helps track the pa
    - Personalization
 
 ## Best Practices
+
 - Keep it simple
 - Regularly update
 - Adapt to needs

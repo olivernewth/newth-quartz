@@ -1,1 +1,1 @@
-You can use an electric toothbrush to vibrate the pollen into the ovary. 
+You can use an electric toothbrush to vibrate the pollen into the ovary.

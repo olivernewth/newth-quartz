@@ -12,20 +12,24 @@ The Hook Model is a framework for creating products that encourage user habits t
 ## Components
 
 ### Trigger
+
 - External: Notifications, emails
 - Internal: Emotions, routines
 
 ### Action
+
 - Simplest behavior in anticipation of reward
 - User motivation
 - Ability to perform action
 
 ### Reward
+
 - Variable rewards
 - Satisfaction and relief
 - Fulfillment of user needs
 
 ### Investment
+
 - User effort
 - Data input
 - Social capital
@@ -33,6 +37,7 @@ The Hook Model is a framework for creating products that encourage user habits t
 ## Application
 
 1. **Product Design**
+
    - User engagement
    - Habit formation
    - Retention strategies
@@ -43,6 +48,7 @@ The Hook Model is a framework for creating products that encourage user habits t
    - Feedback loops
 
 ## Best Practices
+
 - Focus on user needs
 - Ensure ethical use
 - Regularly iterate

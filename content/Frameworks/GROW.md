@@ -12,21 +12,25 @@ The GROW Framework is a coaching model used for goal setting and problem solving
 ## Core Components
 
 ### Goals
+
 - Define what you want
 - Set clear objectives
 - Align with values
 
 ### Reality
+
 - Assess current situation
 - Identify obstacles
 - Understand context
 
 ### Options
+
 - Explore possibilities
 - Brainstorm solutions
 - Evaluate alternatives
 
 ### Will
+
 - Decide on actions
 - Commit to steps
 - Plan next moves
@@ -34,6 +38,7 @@ The GROW Framework is a coaching model used for goal setting and problem solving
 ## Application
 
 1. **Coaching**
+
    - Personal development
    - Career planning
    - Performance improvement
@@ -44,6 +49,7 @@ The GROW Framework is a coaching model used for goal setting and problem solving
    - Conflict resolution
 
 ## Best Practices
+
 - Encourage open dialogue
 - Focus on solutions
 - Regularly review progress

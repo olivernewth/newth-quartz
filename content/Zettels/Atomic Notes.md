@@ -9,12 +9,14 @@ Atomic notes are the fundamental building blocks of the [[zettels/zettelkasten m
 5. **Evergreen**: Designed to be relevant and re-visitable over time
 
 Key benefits of atomic notes:
+
 - Facilitate non-linear thinking
 - Encourage deeper understanding through synthesis
 - Support flexible knowledge organization
 - Aid in discovering new connections between ideas
 
 To create effective atomic notes:
+
 1. Capture ideas as they come
 2. Refine and break down complex thoughts
 3. Establish meaningful links between notes
@@ -24,9 +26,7 @@ To create effective atomic notes:
 > The power of atomic notes lies not just in their individual content, but in the network of connections they form.
 
 Related concepts:
+
 - [[Note Linking]]
 - [[Permanent Notes]]
 - [[Knowledge Management Systems]]
-
-
-

@@ -12,16 +12,19 @@ The Company Research Template provides a structured approach to gathering inform
 ## Core Components
 
 ### Company Overview
+
 - Mission and values
 - Industry and market position
 - Key products and services
 
 ### Financial Health
+
 - Revenue and profitability
 - Recent financial reports
 - Market trends
 
 ### Culture and Environment
+
 - Work-life balance
 - Employee reviews
 - Diversity and inclusion
@@ -29,6 +32,7 @@ The Company Research Template provides a structured approach to gathering inform
 ## Application
 
 1. **Job Search**
+
    - Identifying suitable employers
    - Tailoring applications
    - Preparing for interviews
@@ -39,6 +43,7 @@ The Company Research Template provides a structured approach to gathering inform
    - Evaluating growth opportunities
 
 ## Best Practices
+
 - Use multiple sources
 - Verify information
 - Update regularly

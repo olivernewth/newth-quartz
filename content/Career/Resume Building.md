@@ -10,6 +10,7 @@ tags:
 ## Resume Structure
 
 ### Core Sections
+
 - Professional summary
 - Work experience
 - Skills and expertise
@@ -17,6 +18,7 @@ tags:
 - Achievements
 
 ### Optional Elements
+
 - Projects portfolio
 - Publications
 - Speaking engagements
@@ -26,6 +28,7 @@ tags:
 ## Content Development
 
 ### Experience Description
+
 - Achievement focus
 - Quantifiable results
 - Action verbs
@@ -33,6 +36,7 @@ tags:
 - Impact demonstration
 
 ### Skills Presentation
+
 - Technical skills
 - Soft skills
 - Industry knowledge
@@ -42,6 +46,7 @@ tags:
 ## Formatting Guidelines
 
 ### Visual Design
+
 - Clean layout
 - Consistent formatting
 - White space usage
@@ -49,6 +54,7 @@ tags:
 - Section hierarchy
 
 ### Technical Specs
+
 - File formats
 - ATS optimization
 - Length guidelines
@@ -58,6 +64,7 @@ tags:
 ## Customization
 
 ### Role Targeting
+
 - Job description alignment
 - Keyword optimization
 - Industry focus
@@ -65,6 +72,7 @@ tags:
 - Position requirements
 
 ### Versions Management
+
 - Master resume
 - Role-specific versions
 - Industry variants
@@ -72,6 +80,7 @@ tags:
 - Update tracking
 
 ## Resources
+
 - [[Cover Letter Writing]]
 - [[Portfolio Development]]
 - [[Job Application Strategy]]

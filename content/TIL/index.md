@@ -9,21 +9,23 @@ tags:
   - daily
 ---
 
-
 Daily captures of learning moments and insights.
 
 ## Categories
+
 - [[Technical TILs]]
 - [[Product TILs]]
 - [[Life TILs]]
 - [[Garden TILs]]
 
 ## Growth Stages
+
 #Seedling - Fresh learnings
 #Budding - Developing understanding
 #Evergreen - Proven knowledge
 
 ## Related Areas
+
 - [[Learning]]
 - [[Knowledge Management Systems]]
 - [[Digital Garden]]

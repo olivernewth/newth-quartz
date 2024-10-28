@@ -12,16 +12,19 @@ Cover Letter Templates provide structured formats for creating personalized cove
 ## Core Components
 
 ### Introduction
+
 - Address the hiring manager
 - State the position applied for
 - Briefly introduce yourself
 
 ### Body
+
 - Highlight relevant experience
 - Showcase skills and achievements
 - Align with company values
 
 ### Conclusion
+
 - Express enthusiasm
 - Request an interview
 - Provide contact information
@@ -29,6 +32,7 @@ Cover Letter Templates provide structured formats for creating personalized cove
 ## Application
 
 1. **Job Applications**
+
    - Tailor to each role
    - Highlight unique value
    - Demonstrate fit
@@ -39,6 +43,7 @@ Cover Letter Templates provide structured formats for creating personalized cove
    - Be concise
 
 ## Best Practices
+
 - Personalize each letter
 - Proofread carefully
 - Follow submission guidelines

@@ -12,16 +12,19 @@ Acne Prevention involves practices and treatments aimed at reducing the occurren
 ## Core Strategies
 
 ### Skincare Routine
+
 - Gentle cleansing
 - Non-comedogenic products
 - Regular exfoliation
 
 ### Diet and Lifestyle
+
 - Balanced diet
 - Hydration
 - Stress management
 
 ### Medical Treatments
+
 - Topical treatments
 - Oral medications
 - Professional consultations
@@ -29,6 +32,7 @@ Acne Prevention involves practices and treatments aimed at reducing the occurren
 ## Application
 
 1. **Daily Routine**
+
    - Consistent skincare
    - Healthy habits
    - Stress reduction
@@ -39,6 +43,7 @@ Acne Prevention involves practices and treatments aimed at reducing the occurren
    - Regular monitoring
 
 ## Best Practices
+
 - Avoid harsh products
 - Maintain consistency
 - Seek professional advice

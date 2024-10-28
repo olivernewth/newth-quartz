@@ -5,16 +5,17 @@ icon: ⭐
 tags: [reviews, analysis, recommendations]
 ---
 
-
 Personal reviews and analyses.
 
 ## Categories
+
 - [[Book Reviews]]
 - [[Product Reviews]]
 - [[Course Reviews]]
 - [[Tool Reviews]]
 
 ## Review Framework
+
 - [[Review Template]]
 - [[Rating System]]
 - [[Review Guidelines]]

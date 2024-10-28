@@ -12,16 +12,19 @@ The Compensation Calculator is a tool for calculating total compensation package
 ## Core Components
 
 ### Base Salary
+
 - Annual or hourly rate
 - Overtime considerations
 - Pay frequency
 
 ### Benefits
+
 - Health insurance
 - Retirement contributions
 - Paid time off
 
 ### Incentives
+
 - Bonuses
 - Stock options
 - Profit sharing
@@ -29,6 +32,7 @@ The Compensation Calculator is a tool for calculating total compensation package
 ## Application
 
 1. **Job Offers**
+
    - Evaluating total value
    - Comparing opportunities
    - Making informed decisions
@@ -39,6 +43,7 @@ The Compensation Calculator is a tool for calculating total compensation package
    - Employee satisfaction
 
 ## Best Practices
+
 - Include all components
 - Use accurate data
 - Regularly review calculations

@@ -12,16 +12,19 @@ Nutrition is the process of providing or obtaining the food necessary for health
 ## Core Principles
 
 ### Balanced Diet
+
 - Variety of foods
 - Adequate nutrients
 - Portion control
 
 ### Macronutrients
+
 - Carbohydrates
 - Proteins
 - Fats
 
 ### Micronutrients
+
 - Vitamins
 - Minerals
 - Trace elements
@@ -29,6 +32,7 @@ Nutrition is the process of providing or obtaining the food necessary for health
 ## Application
 
 1. **Diet Planning**
+
    - Meal preparation
    - Nutrient tracking
    - Dietary adjustments
@@ -39,6 +43,7 @@ Nutrition is the process of providing or obtaining the food necessary for health
    - Disease prevention
 
 ## Best Practices
+
 - Focus on whole foods
 - Limit processed foods
 - Stay hydrated

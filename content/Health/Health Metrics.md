@@ -12,18 +12,21 @@ Health Metrics are key indicators used to monitor and improve physical and menta
 ## Core Metrics
 
 ### Physical Health
+
 - Body Mass Index (BMI)
 - Blood pressure
 - Heart rate
 - Physical activity levels
 
 ### Mental Health
+
 - Stress levels
 - Sleep quality
 - Mood tracking
 - Cognitive function
 
 ### Nutrition
+
 - Caloric intake
 - Macronutrient balance
 - Hydration levels
@@ -32,6 +35,7 @@ Health Metrics are key indicators used to monitor and improve physical and menta
 ## Application
 
 1. **Health Monitoring**
+
    - Regular check-ups
    - Personal health tracking
    - Fitness assessments
@@ -42,6 +46,7 @@ Health Metrics are key indicators used to monitor and improve physical and menta
    - Preventive care
 
 ## Best Practices
+
 - Use reliable tools
 - Track consistently
 - Adjust based on data

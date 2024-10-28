@@ -12,16 +12,19 @@ The Career Direction Framework helps individuals define their career goals and c
 ## Core Components
 
 ### Self-Assessment
+
 - Strengths and weaknesses
 - Interests and values
 - Skills and competencies
 
 ### Goal Definition
+
 - Short-term targets
 - Long-term aspirations
 - Alignment with personal values
 
 ### Action Planning
+
 - Steps to achieve goals
 - Resource identification
 - Timeline creation
@@ -29,6 +32,7 @@ The Career Direction Framework helps individuals define their career goals and c
 ## Application
 
 1. **Career Transition**
+
    - Role changes
    - Industry shifts
    - Skill development
@@ -39,6 +43,7 @@ The Career Direction Framework helps individuals define their career goals and c
    - Mentorship
 
 ## Best Practices
+
 - Regularly review goals
 - Be flexible
 - Seek guidance

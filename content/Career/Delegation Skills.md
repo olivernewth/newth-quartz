@@ -12,16 +12,19 @@ Delegation Skills involve assigning tasks and responsibilities to team members t
 ## Core Components
 
 ### Task Identification
+
 - Determine what to delegate
 - Assess task complexity
 - Prioritize based on impact
 
 ### Team Assessment
+
 - Evaluate team strengths
 - Match tasks to skills
 - Consider workload
 
 ### Communication
+
 - Clearly define expectations
 - Provide necessary resources
 - Set deadlines
@@ -29,6 +32,7 @@ Delegation Skills involve assigning tasks and responsibilities to team members t
 ## Application
 
 1. **Team Management**
+
    - Enhance productivity
    - Foster collaboration
    - Develop team skills
@@ -39,6 +43,7 @@ Delegation Skills involve assigning tasks and responsibilities to team members t
    - Focus on strategic tasks
 
 ## Best Practices
+
 - Monitor progress
 - Provide feedback
 - Adjust as needed

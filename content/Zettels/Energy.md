@@ -1,1 +1,1 @@
-Areas I can spend time without it taking away energy 
+Areas I can spend time without it taking away energy

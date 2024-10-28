@@ -12,6 +12,7 @@ Salary negotiation is a critical skill that can significantly impact your career
 ## Research & Preparation
 
 ### Market Research
+
 Understanding the market is crucial for successful negotiations. Use resources like [levels.fyi](https://www.levels.fyi) and [[Compensation Benchmarks]] to gather data on:
 
 - Industry standards
@@ -20,6 +21,7 @@ Understanding the market is crucial for successful negotiations. Use resources l
 - Company-specific data
 
 ### Value Proposition
+
 Your negotiating position strengthens with clear evidence of your value. Document your [[Career Achievements]] and align them with company needs:
 
 - Quantifiable impacts
@@ -30,12 +32,14 @@ Your negotiating position strengthens with clear evidence of your value. Documen
 ## Negotiation Strategy
 
 The [[GROW]] provides a structured approach to negotiation:
+
 - **G**oals - Define your targets
 - **R**eality - Assess current situation
 - **O**ptions - Explore possibilities
 - **W**ay Forward - Plan next steps
 
 ### Timing Considerations
+
 Timing can significantly impact negotiation success. See [[Negotiation Timing]] for detailed strategies on when to:
 
 - Discuss compensation
@@ -48,12 +52,14 @@ Timing can significantly impact negotiation success. See [[Negotiation Timing]] 
 Beyond base salary, consider the total compensation package as outlined in [[Total Compensation]]:
 
 ### Financial Elements
+
 - Base salary
 - Equity/stock options
 - Bonuses (signing, performance)
 - 401(k) matching
 
 ### Benefits Package
+
 - Healthcare coverage
 - Vacation time
 - Professional development
@@ -64,18 +70,21 @@ Beyond base salary, consider the total compensation package as outlined in [[Tot
 Effective negotiation relies heavily on communication skills. Reference [[Negotiation Communication]] for detailed approaches:
 
 ### Key Phrases
+
 - "Based on my research..."
 - "Given my experience..."
 - "The market rate for this role..."
 - "I'm excited about this opportunity..."
 
 ### Response Strategies
+
 - Handling pushback
 - Managing silence
 - Addressing concerns
 - Building rapport
 
 ## Resources
+
 - [[Negotiation Scripts]]
 - [[Compensation Calculator]]
 - [[Benefits Analysis]]

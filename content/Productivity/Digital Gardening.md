@@ -12,16 +12,19 @@ Digital Gardening is a method for cultivating and organizing digital knowledge i
 ## Core Components
 
 ### Content Curation
+
 - Collect valuable information
 - Organize by themes
 - Update regularly
 
 ### Knowledge Sharing
+
 - Publish insights
 - Connect related ideas
 - Engage with community
 
 ### Personalization
+
 - Tailor to interests
 - Reflect personal growth
 - Adapt to changing needs
@@ -29,6 +32,7 @@ Digital Gardening is a method for cultivating and organizing digital knowledge i
 ## Application
 
 1. **Knowledge Management**
+
    - Build a personal knowledge base
    - Enhance learning
    - Foster creativity
@@ -39,6 +43,7 @@ Digital Gardening is a method for cultivating and organizing digital knowledge i
    - Inspire collaboration
 
 ## Best Practices
+
 - Keep it dynamic
 - Encourage exploration
 - Balance structure and flexibility

@@ -12,17 +12,20 @@ Behavioral Interviews assess a candidate's past experiences to predict future be
 ## Core Components
 
 ### STAR Method
+
 - Situation: Context of the experience
 - Task: Responsibilities involved
 - Action: Steps taken
 - Result: Outcome achieved
 
 ### Common Questions
+
 - Conflict resolution
 - Team collaboration
 - Leadership examples
 
 ### Evaluation Criteria
+
 - Communication skills
 - Problem-solving ability
 - Cultural fit
@@ -30,6 +33,7 @@ Behavioral Interviews assess a candidate's past experiences to predict future be
 ## Application
 
 1. **Interview Preparation**
+
    - Reflect on past experiences
    - Practice STAR responses
    - Align with job requirements
@@ -40,6 +44,7 @@ Behavioral Interviews assess a candidate's past experiences to predict future be
    - Comprehensive understanding
 
 ## Best Practices
+
 - Use structured questions
 - Focus on relevant experiences
 - Provide clear feedback

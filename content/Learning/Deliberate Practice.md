@@ -12,16 +12,19 @@ Deliberate Practice is a focused and structured approach to improving skills thr
 ## Core Components
 
 ### Goal Setting
+
 - Define specific objectives
 - Break down into manageable tasks
 - Align with long-term goals
 
 ### Focused Practice
+
 - Concentrate on weaknesses
 - Use repetition and variation
 - Maintain high intensity
 
 ### Feedback and Reflection
+
 - Seek expert guidance
 - Analyze performance
 - Adjust strategies
@@ -29,6 +32,7 @@ Deliberate Practice is a focused and structured approach to improving skills thr
 ## Application
 
 1. **Skill Development**
+
    - Enhance proficiency
    - Achieve mastery
    - Overcome challenges
@@ -39,6 +43,7 @@ Deliberate Practice is a focused and structured approach to improving skills thr
    - Track progress
 
 ## Best Practices
+
 - Stay consistent
 - Embrace challenges
 - Reflect regularly

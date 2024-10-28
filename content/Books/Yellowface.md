@@ -12,16 +12,19 @@ tags:
 ## Key Themes
 
 ### Race
+
 - Racial identity
 - Cultural appropriation
 - Systemic issues
 
 ### Identity
+
 - Self-perception
 - Societal expectations
 - Personal growth
 
 ### Conflict
+
 - Racial tensions
 - Identity crisis
 - Resolution
@@ -29,6 +32,7 @@ tags:
 ## Application
 
 1. **Discussion Points**
+
    - Racial dynamics
    - Character arcs
    - Plot development
@@ -39,6 +43,7 @@ tags:
    - Reader's response
 
 ## Best Practices
+
 - Explore diverse narratives
 - Reflect on societal issues
 - Engage in discussions

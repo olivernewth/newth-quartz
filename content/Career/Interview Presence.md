@@ -10,24 +10,28 @@ tags:
 ## Core Elements
 
 ### Physical Presence
+
 - Professional appearance
 - Body language
 - Eye contact
 - Voice projection
 
 ### Mental Preparation
+
 - Confidence building
 - Stress management
 - Focus techniques
 - Energy management
 
 ### Communication Style
+
 - Clear articulation
 - Active listening
 - Thoughtful responses
 - Engaging dialogue
 
 ## Resources
+
 - [[Communication Skills]]
 - [[Presentation Skills]]
 - [[Interview Preparation]]

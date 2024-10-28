@@ -12,16 +12,19 @@ The Career Goals Framework provides a structured approach to setting and achievi
 ## Core Components
 
 ### Vision Setting
+
 - Define long-term aspirations
 - Align with personal values
 - Create a compelling vision
 
 ### Goal Breakdown
+
 - Short-term objectives
 - Medium-term milestones
 - Long-term targets
 
 ### Action Steps
+
 - Specific tasks
 - Resource allocation
 - Timeline development
@@ -29,6 +32,7 @@ The Career Goals Framework provides a structured approach to setting and achievi
 ## Application
 
 1. **Career Planning**
+
    - Mapping career paths
    - Identifying opportunities
    - Setting priorities
@@ -39,6 +43,7 @@ The Career Goals Framework provides a structured approach to setting and achievi
    - Celebrating achievements
 
 ## Best Practices
+
 - Be specific
 - Stay flexible
 - Regularly review

@@ -1,13 +1,16 @@
 ## Morning Review
+
 ### How am I feeling? (1-10)
-- Physical: 
-- Mental: 
-- Emotional: 
+
+- Physical:
+- Mental:
+- Emotional:
 
 ### Three things I'm grateful for
-1. 
-2. 
-3. 
+
+1.
+2.
+3.
 
 ### Today's Primary Goals
 
@@ -16,47 +19,50 @@
 3. [ ] Third priority:
 
 ### Today's Schedule
+
 - [ ] 🗓️ Appointments
-	- 
+  -
 
 ## Notes & Thoughts
-### Quick Capture
 
+### Quick Capture
 
 ### Meeting Notes
 
-
 ### Habits
+
 - [ ] 💧 Drink 8 glasses of water
 - [ ] 🏃‍♂️ Exercise
 - [ ] 📚 Read for 30 minutes
 - [ ] 🧘‍♂️ Meditate for 10 minutes
 
 ## 📈 Daily Metrics
-- Sleep hours: 
-- Steps: 
-- Focus time: 
-- Energy level (1-10): 
+
+- Sleep hours:
+- Steps:
+- Focus time:
+- Energy level (1-10):
 
 ## 🌙 Evening Review
+
 ### Wins for the day
-1. 
-2. 
-3. 
+
+1.
+2.
+3.
 
 ### What did I learn today?
 
-
 ### What could I have done better?
-
 
 ### Tomorrow's Top 3 Priorities
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ---
+
 ## References
 
 - [[Reviews/Monthly/{{date:MMM YYYY}} Review]]

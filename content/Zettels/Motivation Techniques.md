@@ -19,6 +19,7 @@ Motivation techniques are strategies and methods used to inspire and encourage i
 Implementing these techniques can help overcome procrastination, maintain focus, and achieve long-term success in personal and professional endeavors.
 
 Related concepts:
+
 - [[Behavior Change]]
 - [[Personal Development]]
 - [[Goal Setting]]

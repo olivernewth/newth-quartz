@@ -5,32 +5,36 @@ icon: 🏋️
 tags: [health, fitness, wellness]
 ---
 
-
 A key component of overall health and wellness.
 
 ## Types of Exercise
+
 - Cardiovascular
 - Strength Training
 - Flexibility
 - Balance
 
 ## Benefits
+
 - Improved cardiovascular health
 - Increased muscle strength and endurance
 - Better mental health
 - Weight management
 
 ## Exercise Planning
+
 - [[Health/FITT|FITT Principle]]
 - [[RPE|Rate of Perceived Exertion]]
 - [[Progressive Overload]]
 
 ## Tracking
+
 - [[Workout Log]]
 - [[Fitness Apps]]
 - [[Health Metrics]]
 
 ## Related Areas
+
 - [[Nutrition]]
 - [[Sleep]]
 - [[Stress]]

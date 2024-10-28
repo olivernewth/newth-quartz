@@ -10,12 +10,14 @@ tags:
 ## Career Vision
 
 ### Long-term Goals
+
 - 3-5 year objectives
 - Industry position
 - Skills development
 - Leadership aspirations
 
 ### Values Alignment
+
 - Work-life balance
 - Impact goals
 - Cultural fit
@@ -24,12 +26,14 @@ tags:
 ## Career Strategy
 
 ### Current Position
+
 - Skills assessment
 - Market position
 - Network strength
 - Growth opportunities
 
 ### Target State
+
 - Role definition
 - Industry focus
 - Company type
@@ -38,12 +42,14 @@ tags:
 ## Development Plan
 
 ### Skills Gap Analysis
+
 - Technical skills
 - Soft skills
 - Leadership abilities
 - Industry knowledge
 
 ### Action Items
+
 - Training needs
 - Certification goals
 - Network building
@@ -52,18 +58,21 @@ tags:
 ## Milestone Planning
 
 ### Short-term (0-12 months)
+
 - Immediate skill development
 - Project opportunities
 - Network expansion
 - Quick wins
 
 ### Medium-term (1-3 years)
+
 - Role transitions
 - Industry positioning
 - Leadership development
 - Expertise building
 
 ### Long-term (3-5 years)
+
 - Career pivots
 - Industry influence
 - Leadership roles
@@ -72,18 +81,21 @@ tags:
 ## Implementation
 
 ### Regular Review
+
 - Monthly progress check
 - Quarterly goal adjustment
 - Annual plan revision
 - Feedback incorporation
 
 ### Success Metrics
+
 - Skill acquisition
 - Role progression
 - Compensation growth
 - Impact measurement
 
 ## Resources
+
 - [[Career Frameworks]]
 - [[Skills Matrix]]
 - [[Mentorship]]

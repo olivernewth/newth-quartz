@@ -12,16 +12,19 @@ Change Management involves guiding and supporting individuals and organizations 
 ## Core Components
 
 ### Communication
+
 - Clear messaging
 - Stakeholder engagement
 - Feedback channels
 
 ### Training and Support
+
 - Skill development
 - Resource provision
 - Ongoing assistance
 
 ### Monitoring and Evaluation
+
 - Progress tracking
 - Impact assessment
 - Continuous improvement
@@ -29,6 +32,7 @@ Change Management involves guiding and supporting individuals and organizations 
 ## Application
 
 1. **Organizational Change**
+
    - Process redesign
    - Cultural shifts
    - Technology adoption
@@ -39,6 +43,7 @@ Change Management involves guiding and supporting individuals and organizations 
    - Conflict resolution
 
 ## Best Practices
+
 - Be transparent
 - Involve stakeholders
 - Adapt to feedback

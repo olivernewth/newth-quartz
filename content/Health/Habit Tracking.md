@@ -5,20 +5,22 @@ icon: 📊
 tags: [health, habits, productivity]
 ---
 
-
 Monitoring and improving health-related habits.
 
 ## Habit Formation
+
 - [[Cue-Routine-Reward]]
 - [[Habit Stacking]]
 - [[Implementation Intentions]]
 
 ## Tracking Methods
+
 - [[Habit Tracker Apps]]
 - [[Bullet Journal]]
 - [[Habit Scorecard]]
 
 ## Common Health Habits to Track
+
 - Daily steps
 - Water intake
 - Sleep duration
@@ -26,11 +28,13 @@ Monitoring and improving health-related habits.
 - Workout consistency
 
 ## Analysis
+
 - [[Habit Review]]
 - [[Trend Analysis]]
 - [[Habit Experiments]]
 
 ## Related Areas
+
 - [[Atomic Habits|Atomic Habits]]
 - [[Frameworks/SCQA|SCQA]] - For analyzing habit patterns
 - [[GTD|GTD]]

@@ -10,12 +10,14 @@ tags:
 ## Network Building
 
 ### Online Presence
+
 - LinkedIn profile optimization
 - Professional social media
 - Industry forums
 - Digital communities
 
 ### In-Person Networking
+
 - Industry events
 - Professional meetups
 - Conferences
@@ -24,6 +26,7 @@ tags:
 ## Relationship Management
 
 ### Connection Types
+
 - Industry peers
 - Mentors/mentees
 - Former colleagues
@@ -31,6 +34,7 @@ tags:
 - Subject matter experts
 
 ### Engagement Strategies
+
 - Regular check-ins
 - Value exchange
 - Knowledge sharing
@@ -39,12 +43,14 @@ tags:
 ## Networking Platforms
 
 ### Professional Networks
+
 - LinkedIn
 - Industry-specific platforms
 - Alumni networks
 - Professional associations
 
 ### Community Engagement
+
 - Online forums
 - Slack communities
 - Discord servers
@@ -53,12 +59,14 @@ tags:
 ## Value Creation
 
 ### Contribution Methods
+
 - Knowledge sharing
 - Resource provision
 - Introduction facilitation
 - Opportunity sharing
 
 ### Personal Brand
+
 - Expertise demonstration
 - Content creation
 - Public speaking
@@ -67,18 +75,21 @@ tags:
 ## Network Maintenance
 
 ### Regular Activities
+
 - Monthly connection reviews
 - Quarterly reach-outs
 - Annual networking goals
 - Event participation
 
 ### Follow-up System
+
 - Contact organization
 - Meeting notes
 - Action items
 - Relationship milestones
 
 ## Resources
+
 - [[Personal Brand]]
 - [[Career Development]]
 - [[Networking Events]]

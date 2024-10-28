@@ -8,23 +8,27 @@ tags: [habits, behavior-change, psychology]
 The Cue-Routine-Reward cycle, also known as the "habit loop", is a fundamental framework for understanding and changing habits.
 
 ## Components
+
 - **Cue**: The trigger that initiates the habit
 - **Routine**: The actual behavior or action
 - **Reward**: The benefit gained from the behavior
 
 ## Identifying Your Habit Loop
+
 1. Notice the cues that trigger habits
 2. Observe the routine that follows
 3. Identify the reward you receive
 4. Document patterns over time
 
 ## Changing Habits
+
 - Keep the same cue and reward
 - Replace the routine with a new behavior
 - Start with small, manageable changes
 - Track progress using [[Habit Tracking]]
 
 ## Common Applications
+
 - Exercise habits
 - Eating patterns
 - Sleep routines
@@ -32,6 +36,7 @@ The Cue-Routine-Reward cycle, also known as the "habit loop", is a fundamental f
 - Stress management
 
 ## Related Concepts
+
 - [[Habit Stacking]]
 - [[Implementation Intentions]]
 - [[Habit Scorecard]]

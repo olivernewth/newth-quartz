@@ -12,6 +12,7 @@ A successful job search requires a well-planned strategy combining multiple appr
 ## Search Foundation
 
 ### Target Definition
+
 Before beginning your search, clearly define your parameters using the [[Career Goals Framework]]:
 
 - Role requirements
@@ -21,6 +22,7 @@ Before beginning your search, clearly define your parameters using the [[Career 
 - Compensation expectations
 
 ### Market Research
+
 Understanding the job market helps focus your efforts. Use [[Industry Analysis]] tools to research:
 
 - Growth sectors
@@ -33,13 +35,16 @@ Understanding the job market helps focus your efforts. Use [[Industry Analysis]]
 Modern job searching requires a multi-channel approach. The [[Job Search Funnel]] helps track progress across:
 
 ### Online Platforms
+
 - LinkedIn Jobs
 - Industry job boards
 - Company careers pages
 - [AngelList](https://angel.co) for startups
 
 ### Network Activation
+
 Leverage your [[Professional Network]] through:
+
 - Alumni associations
 - Industry groups
 - Former colleagues
@@ -48,6 +53,7 @@ Leverage your [[Professional Network]] through:
 ## Application Strategy
 
 ### Application Management
+
 Use the [[Application Tracking System]] to monitor:
 
 - Application status
@@ -56,6 +62,7 @@ Use the [[Application Tracking System]] to monitor:
 - Offer management
 
 ### Documentation
+
 Maintain updated versions of your application materials:
 
 - [[Resume Versions]]
@@ -68,18 +75,21 @@ Maintain updated versions of your application materials:
 Comprehensive interview preparation increases success rates. Follow the [[Interview Success Framework]] for:
 
 ### Research Phase
+
 - Company background
 - Role requirements
 - Industry trends
 - Interviewer profiles
 
 ### Practice Phase
+
 - Mock interviews
 - Technical preparation
 - Behavioral examples
 - Case study practice
 
 ## Resources
+
 - [[Job Search Toolkit]]
 - [[Interview Question Bank]]
 - [[Company Research Template]]

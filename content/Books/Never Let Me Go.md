@@ -4,9 +4,10 @@ author: Kazuo Ishiguro
 status: reading
 ---
 
-A masterful exploration of humanity, memory, and what it means to truly live. 
+A masterful exploration of humanity, memory, and what it means to truly live.
 
 ## Key Themes
+
 - Identity and purpose
 - Memory and nostalgia
 - Human nature
@@ -14,6 +15,7 @@ A masterful exploration of humanity, memory, and what it means to truly live.
 - Friendship and love
 
 ## Notable Elements
+
 - Subtle sci-fi elements
 - Unreliable narrator
 - Emotional depth

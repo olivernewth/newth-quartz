@@ -3,12 +3,14 @@ title: Favorite Blogs
 ---
 
 ## Content Creation & Writing
+
 - **[Every.to](https://every.to)**
-  - Known for concise, atomic writing style 
+  - Known for concise, atomic writing style
   - Focus on [[productivity]] and [[knowledge management]]
   - Notable series: [Building a Second Brain](https://every.to/praxis/building-a-second-brain-the-illustrated-notes), [Writing Online](https://www.perell.com/write-online)
 
-## Tech & Programming  
+## Tech & Programming
+
 - **[Joel on Software](https://www.joelonsoftware.com/)**
   - Software development insights
   - Tech leadership perspectives
@@ -16,6 +18,7 @@ title: Favorite Blogs
   - Classic post: [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 ## Knowledge Management
+
 - **[Andy Matuschak's Notes](https://notes.andymatuschak.org/)**
   - [[evergreen notes]]
   - Research on learning and note-taking
@@ -23,6 +26,7 @@ title: Favorite Blogs
   - Key concept: [Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
 
 ## Digital Gardens
+
 - **[Maggie Appleton](https://maggieappleton.com/)**
   - Visual explanations
   - [[digital gardening]]
@@ -30,6 +34,7 @@ title: Favorite Blogs
   - Featured: [Digital Garden Guide](https://maggieappleton.com/garden-history)
 
 ## Business & Strategy
+
 - **[Stratechery](https://stratechery.com/)**
   - Tech industry analysis
   - Business strategy

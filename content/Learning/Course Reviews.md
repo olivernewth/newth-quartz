@@ -12,16 +12,19 @@ Course Reviews provide evaluations and feedback on educational courses, helping 
 ## Core Components
 
 ### Course Content
+
 - Relevance and depth
 - Structure and organization
 - Material quality
 
 ### Instructor Effectiveness
+
 - Teaching style
 - Engagement level
 - Expertise
 
 ### Learning Outcomes
+
 - Skill acquisition
 - Knowledge retention
 - Practical application
@@ -29,6 +32,7 @@ Course Reviews provide evaluations and feedback on educational courses, helping 
 ## Application
 
 1. **Course Selection**
+
    - Informed choices
    - Diverse options
    - Personal goals
@@ -39,6 +43,7 @@ Course Reviews provide evaluations and feedback on educational courses, helping 
    - Learner satisfaction
 
 ## Best Practices
+
 - Be objective
 - Provide examples
 - Focus on outcomes

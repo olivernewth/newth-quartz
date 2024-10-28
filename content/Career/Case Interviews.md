@@ -12,16 +12,19 @@ Case Interviews assess a candidate's ability to solve business problems through 
 ## Core Components
 
 ### Problem Structuring
+
 - Define the problem
 - Break down into components
 - Develop a framework
 
 ### Analysis
+
 - Quantitative assessment
 - Qualitative insights
 - Data interpretation
 
 ### Recommendation
+
 - Solution proposal
 - Justification
 - Implementation plan
@@ -29,6 +32,7 @@ Case Interviews assess a candidate's ability to solve business problems through 
 ## Application
 
 1. **Interview Preparation**
+
    - Practice cases
    - Framework development
    - Feedback loops
@@ -39,6 +43,7 @@ Case Interviews assess a candidate's ability to solve business problems through 
    - Decision making
 
 ## Best Practices
+
 - Stay structured
 - Think aloud
 - Be concise

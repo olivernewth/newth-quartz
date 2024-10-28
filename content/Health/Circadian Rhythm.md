@@ -12,16 +12,19 @@ Circadian Rhythm refers to the body's natural 24-hour cycle that regulates sleep
 ## Core Components
 
 ### Sleep-Wake Cycle
+
 - Sleep timing
 - Wakefulness periods
 - Light exposure
 
 ### Biological Processes
+
 - Hormone regulation
 - Body temperature
 - Metabolic functions
 
 ### Environmental Influences
+
 - Light and darkness
 - Meal timing
 - Activity levels
@@ -29,6 +32,7 @@ Circadian Rhythm refers to the body's natural 24-hour cycle that regulates sleep
 ## Application
 
 1. **Sleep Optimization**
+
    - Consistent sleep schedule
    - Light management
    - Relaxation techniques
@@ -39,6 +43,7 @@ Circadian Rhythm refers to the body's natural 24-hour cycle that regulates sleep
    - Cognitive function
 
 ## Best Practices
+
 - Maintain regularity
 - Limit screen time
 - Prioritize sleep

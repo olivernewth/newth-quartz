@@ -10,23 +10,27 @@ Key principles of the Zettelkasten Method:
 4. **Emergence**: New insights arise from the connections between notes
 
 Types of notes in a Zettelkasten:
+
 - [[fleeting]]: Quick, temporary capture of ideas #fleeting
 - [[tags/literature]]: Summaries and key points from external sources
 - [[tags/permanent]]: Refined, original thoughts integrated into your knowledge network
 
 Benefits of using Zettelkasten:
+
 - Improves retention and understanding
 - Facilitates non-linear thinking and creativity
 - Supports long-term knowledge accumulation
 - Aids in writing and project development
 
 To implement Zettelkasten:
+
 1. Capture ideas as they come ([[Fleeting Notes]])
 2. Process and refine notes regularly
 3. Create meaningful connections between notes
 4. Review and update your note network
 
 Related concepts:
+
 - [[Note Linking]]
 - [[Knowledge Management Systems]]
 - [[Digital Garden]]
@@ -34,6 +38,3 @@ Related concepts:
 
 > [!tip] Remember
 > The true power of Zettelkasten lies not in collecting information, but in creating connections and generating new insights.
-
-
-

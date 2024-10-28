@@ -12,16 +12,19 @@ Career Development involves planning and taking actions to achieve professional 
 ## Core Components
 
 ### Goal Setting
+
 - Short-term objectives
 - Long-term vision
 - Alignment with values
 
 ### Skill Enhancement
+
 - Continuous learning
 - Training programs
 - Mentorship
 
 ### Networking
+
 - Building connections
 - Industry events
 - Professional groups
@@ -29,6 +32,7 @@ Career Development involves planning and taking actions to achieve professional 
 ## Application
 
 1. **Career Planning**
+
    - Identifying opportunities
    - Mapping career paths
    - Setting milestones
@@ -39,6 +43,7 @@ Career Development involves planning and taking actions to achieve professional 
    - Skill application
 
 ## Best Practices
+
 - Be proactive
 - Seek feedback
 - Adapt to change

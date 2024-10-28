@@ -12,16 +12,19 @@ Cosmetic Ingredients are the components used in skincare and beauty products, ea
 ## Core Categories
 
 ### Emollients
+
 - Moisturizing agents
 - Skin softening
 - Barrier protection
 
 ### Preservatives
+
 - Product stability
 - Microbial prevention
 - Shelf life extension
 
 ### Active Ingredients
+
 - Targeted treatments
 - Anti-aging
 - Acne control
@@ -29,6 +32,7 @@ Cosmetic Ingredients are the components used in skincare and beauty products, ea
 ## Application
 
 1. **Product Selection**
+
    - Ingredient awareness
    - Skin compatibility
    - Desired effects
@@ -39,6 +43,7 @@ Cosmetic Ingredients are the components used in skincare and beauty products, ea
    - Consistent use
 
 ## Best Practices
+
 - Read labels
 - Patch test new products
 - Consult professionals

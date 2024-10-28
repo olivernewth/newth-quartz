@@ -12,16 +12,19 @@ Book Reviews provide critical evaluations and analyses of books, offering insigh
 ## Core Components
 
 ### Summary
+
 - Overview of content
 - Key themes
 - Author's intent
 
 ### Analysis
+
 - Strengths and weaknesses
 - Writing style
 - Character development
 
 ### Recommendation
+
 - Target audience
 - Overall rating
 - Personal insights
@@ -29,6 +32,7 @@ Book Reviews provide critical evaluations and analyses of books, offering insigh
 ## Application
 
 1. **Reading Selection**
+
    - Informed choices
    - Diverse genres
    - Personal interests
@@ -39,6 +43,7 @@ Book Reviews provide critical evaluations and analyses of books, offering insigh
    - Discussion facilitation
 
 ## Best Practices
+
 - Be objective
 - Provide evidence
 - Engage with the text

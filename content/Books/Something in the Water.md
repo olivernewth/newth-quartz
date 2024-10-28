@@ -7,6 +7,7 @@ rating: 4
 A compelling moral thriller that explores how one decision can spiral into life-changing consequences.
 
 ## Key Themes
+
 - Moral choices
 - Consequences of greed
 - Relationship dynamics
@@ -14,6 +15,7 @@ A compelling moral thriller that explores how one decision can spiral into life-
 - Psychological suspense
 
 ## Notable Elements
+
 - Fast-paced narrative
 - Ethical dilemmas
 - Character development

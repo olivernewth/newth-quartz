@@ -12,16 +12,19 @@ Business Acumen is the ability to understand and apply business knowledge to mak
 ## Core Components
 
 ### Financial Literacy
+
 - Understanding financial statements
 - Budgeting and forecasting
 - Cost management
 
 ### Strategic Thinking
+
 - Market analysis
 - Competitive positioning
 - Long-term planning
 
 ### Operational Efficiency
+
 - Process optimization
 - Resource allocation
 - Performance metrics
@@ -29,6 +32,7 @@ Business Acumen is the ability to understand and apply business knowledge to mak
 ## Application
 
 1. **Decision Making**
+
    - Data-driven insights
    - Risk assessment
    - Strategic alignment
@@ -39,6 +43,7 @@ Business Acumen is the ability to understand and apply business knowledge to mak
    - Change management
 
 ## Best Practices
+
 - Stay informed
 - Seek mentorship
 - Continuous learning

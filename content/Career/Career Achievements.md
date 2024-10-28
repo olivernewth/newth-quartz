@@ -12,16 +12,19 @@ Career Achievements are significant accomplishments in one's professional life t
 ## Core Components
 
 ### Key Projects
+
 - Successful initiatives
 - Major contributions
 - Project outcomes
 
 ### Awards and Recognition
+
 - Industry accolades
 - Company awards
 - Peer recognition
 
 ### Skills Development
+
 - New competencies
 - Certifications
 - Training programs
@@ -29,6 +32,7 @@ Career Achievements are significant accomplishments in one's professional life t
 ## Application
 
 1. **Resume Building**
+
    - Highlighting achievements
    - Quantifying impact
    - Tailoring to roles
@@ -39,6 +43,7 @@ Career Achievements are significant accomplishments in one's professional life t
    - Seeking promotions
 
 ## Best Practices
+
 - Keep records
 - Use metrics
 - Update regularly

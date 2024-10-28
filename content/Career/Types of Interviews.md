@@ -10,12 +10,14 @@ tags:
 ## Core Principles
 
 ### Preparation Framework
+
 1. **Research** - Company, role, industry, interviewer
 2. **Practice** - Mock interviews, behavioral stories, technical skills
 3. **Present** - Communication, body language, professional presence
 4. **Follow-up** - Thank you notes, next steps, feedback
 
 ### Interview Mindset
+
 - **Be authentic** - Show your genuine self while maintaining professionalism
 - **Stay curious** - Ask thoughtful questions throughout
 - **Think aloud** - Share your reasoning process
@@ -24,6 +26,7 @@ tags:
 ## Interview Formats
 
 ### Behavioral Interviews (45-60 min)
+
 - Questions about past experiences
 - Focus on specific situations and outcomes
 - Uses [[STAR Method]]
@@ -35,6 +38,7 @@ tags:
   - Success stories
 
 ### Technical Interviews (45-60 min)
+
 - Coding problems
 - System design
 - Architecture discussions
@@ -47,6 +51,7 @@ tags:
   - Technical communication
 
 ### Product Design Interviews (45-60 min)
+
 - Product improvement
 - New feature design
 - User experience analysis
@@ -58,6 +63,7 @@ tags:
   - [[JTBD]]
 
 ### Case Interviews (30-45 min)
+
 - Business problem solving
 - Market sizing
 - Strategy development
@@ -68,6 +74,7 @@ tags:
   - Recommendation development
 
 ### System Design Interviews (45-60 min)
+
 - Architecture design
 - Scalability discussion
 - Trade-off analysis
@@ -78,6 +85,7 @@ tags:
   - Performance optimization
 
 ## Resources
+
 - [[Interview Prep Checklist]]
 - [[Mock Interview Guide]]
 - [[Interview Question Bank]]

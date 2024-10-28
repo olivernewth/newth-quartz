@@ -5,6 +5,7 @@ title: The Housemaid's Secret
 A gripping psychological thriller by Freida McFadden that explores themes of deception, power dynamics, and moral ambiguity. The story follows a housemaid who discovers dark secrets while working for a wealthy family, leading to a complex web of lies and manipulation.
 
 ## Key Themes
+
 - Trust and betrayal
 - Class dynamics
 - [[Learning/Autism|Social communication]] challenges
@@ -12,6 +13,7 @@ A gripping psychological thriller by Freida McFadden that explores themes of dec
 - Power imbalances
 
 ## Notable Elements
+
 - Fast-paced narrative
 - Unreliable narrator
 - Complex character relationships
