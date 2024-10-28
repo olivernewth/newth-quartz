@@ -1,5 +1,5 @@
 ---
-title: Ollie's Digital Garden 🌱
+title: Oliver's Digital Garden
 description: A growing collection of notes on tech, learning, and life
 ---
 
@@ -7,19 +7,19 @@ Welcome! This is my personal knowledge garden - a space where I cultivate ideas 
 
 ## What I'm Excited About
 
-### 🧠 Current Deep Dives
+### Current Deep Dives
 
 - Building a better [[Learning Systems|learning system]] (my notes are a mess!)
 - Getting smarter about [[System Design]] (especially distributed systems)
 - Finally reading [[Books/Atomic Habits|Atomic Habits]] (and actually implementing it)
 
-### 💻 Tech Adventures
+### Tech Adventures
 
 - [[Tech/index|My Tech Notes]] - Trying to document everything I learn
 - [[System Design/index|System Design]] - Because I keep having to relearn this
 - [[Code Patterns/index|Code Patterns]] - Stuff I wish I knew earlier
 
-### 📈 Growing My Career
+### Growing My Career
 
 - [[Career/index|Career Notes]] - The good, the bad, and the awkward
 - [[Skills Matrix|What I Know]] - And what I need to learn
