@@ -64,6 +64,8 @@ See detailed [[Interview Prep Checklist]]
 - Poor question preparation
 - Weak follow-up
 
+> [!callout] If out of work due to a non-work related injury, remember to look into [[Short Term Disability]].
+
 ## Resources
 - [[Interview Question Bank]]
 - [[Company Research Template]]
