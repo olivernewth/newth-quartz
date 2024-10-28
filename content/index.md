@@ -50,4 +50,4 @@ Welcome! This is my personal knowledge garden - a space where I cultivate ideas 
 Explore whatever interests you. That's how the best discoveries happen.
 
 > [!tip] Want to know more?
-> Check out my [[Zettels/Gardening Principles|gardening principles]] or [[Living document]] philosophy.
+> I'm putting together a guide about [[Digital Gardening]] and the philosophy behind creating [[Living documents]].
