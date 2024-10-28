@@ -54,7 +54,7 @@ const config: QuartzConfig = {
           gray: "#939293",
           darkgray: "#EAF2F1",
           dark: "#EAF2F1",
-          secondary: "#FF6188", // Pink for links
+          secondary: "#EAF2F1", // Pink for links
           tertiary: "#78DCE8", // Blue for subtle elements
           highlight: "rgba(169, 220, 118, 0.15)", // Green tint for highlights
           textHighlight: "rgba(255, 216, 102, 0.15)", // Yellow tint for text selection
