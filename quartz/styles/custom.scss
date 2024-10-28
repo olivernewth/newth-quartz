@@ -136,6 +136,12 @@ p, li, h1, h2, h3, h4, h5, h6 {
   }
 }
 
+a {
+  color: var(--dark);
+  font-weight: 500;
+}
+
 a.internal {
   border-radius: 0;
 }
+
