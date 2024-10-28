@@ -1,6 +1,6 @@
-# Knowledge Management Systems
+# Knowledge Management
 
-A knowledge management system (KMS) is a framework for organizing, storing, and sharing information within an organization or for personal use. An effective KMS helps capture, develop, and utilize knowledge efficiently.
+A knowledge management system is a framework for organizing, storing, and sharing information within an organization or for personal use. An effective KMS helps capture, develop, and utilize knowledge efficiently.
 
 ## Key Components
 
@@ -43,4 +43,4 @@ A knowledge management system (KMS) is a framework for organizing, storing, and 
 3. Make connections liberally
 4. Review and update regularly
 
-Remember: The best system is one you'll actually use consistently.
+Remember: The best system is one you'll :star: _actually use consistently_.
