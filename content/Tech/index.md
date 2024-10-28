@@ -1,5 +1,5 @@
 ---
-title: Tech Brain Dump 🤖
+title: Tech
 description: Everything I'm learning about technology
 ---
 
