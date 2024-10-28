@@ -46,6 +46,8 @@ To build and deploy this Quartz site, use the following commands:
    ```
 5. Sync your content: `npx quartz sync --no-pull`
 
+Note that `npx quartz sync` will also sync to GitHub Pages if set up.
+
 ### Deployment
 For production deployment, refer to the Quartz documentation on hosting options.
 
