@@ -46,7 +46,3 @@ title: Book Library
 1. Deep Work
 2. Project Hail Mary
 3. Staff Engineer
-
-## Tags
-
-#reading #books #fiction #non-fiction #career #psychology #leadership
