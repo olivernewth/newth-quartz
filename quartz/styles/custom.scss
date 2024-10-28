@@ -10,9 +10,13 @@
 // Any additional custom styles that don't fit in components
 
 .page-title {
+  font-size: 1.25rem;
+  margin: 0;
+
   .garden {
     // Add your custom styles for .garden here
     color: var(--secondary);
+    font-size: 1.25rem;
     font-weight: normal;
   }
 }
