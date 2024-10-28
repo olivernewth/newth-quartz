@@ -20,6 +20,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "newth.garden",
     ignorePatterns: [
+      "**/*draft.md",
       "private",
       "Private",
       "templates",
