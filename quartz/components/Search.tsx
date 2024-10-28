@@ -48,6 +48,12 @@ export default ((userOpts?: Partial<SearchOptions>) => {
 
   Search.afterDOMLoaded = script
   Search.css = style
+  // Add this CSS to hide the original search button
+  Search.css += `
+.search > .search-button {
+  display: none;
+}
+`
 
   return Search
 }) satisfies QuartzComponentConstructor

@@ -38,7 +38,7 @@
     }
     height: auto;
     @media all and not ($desktop) {
-      height: 250px;
+      height: auto;
     }
   }
 }

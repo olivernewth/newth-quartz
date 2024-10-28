@@ -38,26 +38,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#FAF4F2", // Monokai Pro Light background
-          lightgray: "#e5e5e5", // Light border color
-          gray: "#939293", // Monokai muted
-          darkgray: "#403e41", // Monokai Pro medium
-          dark: "#221f22", // Monokai Pro dark
-          secondary: "#696769", // Subtle but visible links
-          tertiary: "#939293", // Muted text
-          highlight: "rgba(34, 31, 34, 0.05)", // Subtle highlight
-          textHighlight: "rgba(34, 31, 34, 0.15)",
+          light: "#ffffff", // Background
+          lightgray: "#e5e5e5",
+          gray: "#939293",
+          darkgray: "#403e41",
+          dark: "#221f22",
+          secondary: "#000000", // Pink for links
+          tertiary: "#6851A2", // Blue for subtle elements
+          highlight: "rgba(169, 220, 118, 0.15)", // Green tint for highlights
+          textHighlight: "rgba(255, 216, 102, 0.15)", // Yellow tint for text selection
         },
         darkMode: {
-          light: "#282A3A", // Monokai Pro background
-          lightgray: "#161821", // Monokai Pro border
-          gray: "#939293", // Monokai muted
-          darkgray: "#EAF2F1", // Light text
-          dark: "#EAF2F1", // Brightest text
-          secondary: "#898D95", // Visible but gentle links
-          tertiary: "#535763", // Muted text
-          highlight: "rgba(253, 253, 246, 0.08)", // Subtle highlight
-          textHighlight: "rgba(253, 253, 246, 0.15)",
+          light: "#282A3A",
+          lightgray: "#161821",
+          gray: "#939293",
+          darkgray: "#EAF2F1",
+          dark: "#EAF2F1",
+          secondary: "#FF6188", // Pink for links
+          tertiary: "#78DCE8", // Blue for subtle elements
+          highlight: "rgba(169, 220, 118, 0.15)", // Green tint for highlights
+          textHighlight: "rgba(255, 216, 102, 0.15)", // Yellow tint for text selection
         },
       },
       cdnCaching: false,
