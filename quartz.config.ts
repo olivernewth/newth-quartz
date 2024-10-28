@@ -50,12 +50,12 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#282A3A", // Monokai Pro background
-          lightgray: "#403e41", // Monokai Pro border
+          lightgray: "#161821", // Monokai Pro border
           gray: "#939293", // Monokai muted
-          darkgray: "#e5e5e5", // Light text
-          dark: "#fdfdf6", // Brightest text
-          secondary: "#c1c0c0", // Visible but gentle links
-          tertiary: "#939293", // Muted text
+          darkgray: "#EAF2F1", // Light text
+          dark: "#EAF2F1", // Brightest text
+          secondary: "#898D95", // Visible but gentle links
+          tertiary: "#535763", // Muted text
           highlight: "rgba(253, 253, 246, 0.08)", // Subtle highlight
           textHighlight: "rgba(253, 253, 246, 0.15)",
         },
