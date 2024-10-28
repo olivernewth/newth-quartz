@@ -19,7 +19,7 @@
 // Modern, clean typography
 .page-title {
   font-size: 1.25rem;
-  font-weight: 600;
+  font-weight: 400;
   letter-spacing: -0.02em;
   padding: 1.5rem 1rem;
   color: #000;
@@ -51,8 +51,14 @@ a {
   }
 }
 
+h1 {
+  font-family: "Cormorant", serif;
+  font-size: 3rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
 // Modern headings
-h1,
 h2,
 h3,
 h4,
@@ -228,4 +234,18 @@ code {
 // Remove default link styling from tags
 a.tag {
   background-image: none !important;
+}
+
+@font-face {
+  font-family: "Cormorant";
+  src:
+    local("Cormorant"),
+    url("/static/fonts/cormorant-infant-500.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
