@@ -1,0 +1,15 @@
+// Variables
+$sidebar-padding-desktop: 2rem;
+$sidebar-padding-mobile: 1rem;
+$title-font-size: 1.3rem;
+$border-radius: 0;
+$transition-speed: 0.2s;
+
+// Export everything
+@export {
+  sidebar-padding-desktop: $sidebar-padding-desktop;
+  sidebar-padding-mobile: $sidebar-padding-mobile;
+  title-font-size: $title-font-size;
+  border-radius: $border-radius;
+  transition-speed: $transition-speed;
+}

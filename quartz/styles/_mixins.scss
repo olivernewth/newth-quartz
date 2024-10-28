@@ -1,0 +1,35 @@
+@mixin prevent-word-breaks {
+  word-break: normal;
+  overflow-wrap: break-word;
+  hyphens: none;
+}
+
+@mixin mobile {
+  @media (max-width: 800px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (max-width: 960px) {
+    @content;
+  }
+}
+
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin transition($property: all) {
+  transition: $property $transition-speed ease-in-out;
+}
+
+@mixin elevation($level: 1) {
+  @if $level == 1 {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+  } @else if $level == 2 {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+  }
+}

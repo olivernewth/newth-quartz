@@ -1,0 +1,24 @@
+@use '../index' as *;
+@use '../mixins' as *;
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+  @include prevent-word-breaks;
+}
+
+p, li {
+  @include prevent-word-breaks;
+}
+
+a {
+  color: var(--dark);
+  font-weight: 500;
+
+  &.internal {
+    border-radius: $border-radius;
+  }
+
+  &:active {
+    color: var(--darkgray);
+  }
+}

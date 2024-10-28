@@ -1,0 +1,24 @@
+// Define the variables module
+$sidebar-padding-desktop: 2rem !default;
+$sidebar-padding-mobile: 1rem !default;
+$title-font-size: 1.3rem !default;
+$border-radius: 0 !default;
+$transition-speed: 0.2s !default;
+
+// Add some semantic color variables
+$primary-color: #4a4a4a !default;
+$background-color: #ffffff !default;
+$text-color: #2d2d2d !default;
+$link-color: #5183f5 !default;
+
+// Add spacing system
+$spacing-unit: 1rem !default;
+$spacing-small: $spacing-unit * 0.5 !default;
+$spacing-large: $spacing-unit * 2 !default;
+
+// Typography
+$base-font-size: 16px !default;
+$line-height: 1.5 !default;
+
+// Export all variables
+@forward './_variables';

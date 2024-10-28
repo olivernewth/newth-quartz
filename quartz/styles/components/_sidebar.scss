@@ -1,0 +1,56 @@
+@use "../index" as *;
+@use "../mixins" as *;
+
+.page > #quartz-body {
+  .sidebar {
+    gap: 1.5rem;
+  }
+
+  .sidebar.left {
+    background-color: var(--light);
+    border-right: 1px solid var(--lightgray);
+    gap: 2rem;
+    top: 0;
+    box-sizing: border-box;
+    padding: $sidebar-padding-desktop $sidebar-padding-desktop 0 $sidebar-padding-desktop;
+    margin-right: 2rem;
+    display: flex;
+    height: 100vh;
+    position: sticky;
+    z-index: 1;
+    grid-area: grid-sidebar-left;
+    flex-direction: column;
+    @include prevent-word-breaks;
+
+    .title {
+      font-size: $title-font-size;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+
+      &::after {
+        content: ".garden";
+        color: var(--tertiary);
+        font-weight: 400;
+      }
+
+      &::before {
+        content: "";
+        display: inline-block;
+        width: 1.2em;
+        height: 1.2em;
+        margin-left: 0.3rem;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 3c0 0-6.186 5.34-9.643 8.232C2.154 11.416 2 11.684 2 12c0 .553.447 1 1 1h2v7c0 .553.447 1 1 1h4c.553 0 1-.447 1-1v-4h4v4c0 .553.447 1 1 1h4c.553 0 1-.447 1-1v-7h2c.553 0 1-.447 1-1 0-.316-.154-.584-.357-.768C20.186 8.34 14 3 14 3h-2z' fill='currentColor'/%3E%3C/svg%3E");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+    }
+  }
+}
+
+[saved-theme="dark"] .page > #quartz-body .sidebar.left {
+  background-color: var(--light);
+  border-right: 1px solid var(--lightgray);
+}

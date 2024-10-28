@@ -1,0 +1,36 @@
+@use '../index' as *;
+@use '../mixins' as *;
+
+.article-title {
+  margin-bottom: 1rem;
+}
+
+button#explorer {
+  display: none;
+}
+
+.graph {
+  h3 {
+    display: none;
+  }
+
+  > .graph-outer {
+    border: 0;
+  }
+}
+
+.tags {
+  justify-self: start;
+}
+
+.search > .search-button {
+  background-color: var(--lightgray);
+
+  p {
+    color: var(--secondary);
+  }
+
+  svg .search-path {
+    stroke: var(--secondary);
+  }
+}
