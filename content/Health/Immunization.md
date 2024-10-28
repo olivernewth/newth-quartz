@@ -1,21 +1,22 @@
 ---
 title: Immunization
-description: Recommended vaccinations for adults based on age and risk factors
 icon: 💉
 tags: [health, prevention, vaccines]
 ---
 
-A guide to recommended vaccinations for adults.
+My personal vaccination tracking and notes. While this reflects my situation, the information may be helpful for others.
 
-## Key Vaccinations
-- Influenza (Flu): Annually
-- Tdap (Tetanus, Diphtheria, Pertussis): Every 10 years
-- Shingles: Two doses for adults 50+
-- Pneumococcal: One or two doses for adults 65+
+## My Vaccination Schedule
+- **Flu shot**: Get annually in October
+- **Tdap**: Last dose 2019, next due 2029
+- **Shingles**: Not yet eligible (under 50)
+- **Pneumococcal**: Not yet eligible (under 65)
 
-## Risk-Based Vaccinations
-- HPV: Up to age 26, or 27-45 based on risk factors
-- Hepatitis A and B: Based on risk factors or travel
+## Future Considerations
+- **HPV**: Completed 3-dose series in 2015
+- **Hepatitis**: 
+  - A: Completed for international travel
+  - B: Series completed in childhood
 
-## Consult Your Healthcare Provider
-Always consult with your doctor to determine the most appropriate vaccination schedule based on your individual health status and risk factors.
+## Personal Notes
+I track my vaccinations in my healthcare provider's portal and keep a photo backup of my vaccination card. For travel vaccines, I consult the [CDC travel vaccination page](https://wwwnc.cdc.gov/travel/destinations/list).
