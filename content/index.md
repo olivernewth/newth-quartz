@@ -12,7 +12,7 @@ Hey there! This is my personal knowledge space - a digital garden where I grow a
 - Documenting my [[Learning/Learning Atlas|Learning Journey]]
 
 ### Recent Thoughts
-- [[Daily Notes|Daily musings]]
+- [[Daily-index|Daily Notes]]
 - [[TIL/index|Things I've Learned]]
 - [[Questions]] I'm wrestling with
 
