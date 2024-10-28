@@ -52,9 +52,9 @@ a {
 }
 
 h1 {
-  font-family: "Cormorant", serif;
-  font-size: 3rem;
+  font-optical-sizing: auto;
   font-weight: 500;
+  font-style: normal;
   letter-spacing: -0.02em;
 }
 
@@ -234,18 +234,4 @@ code {
 // Remove default link styling from tags
 a.tag {
   background-image: none !important;
-}
-
-@font-face {
-  font-family: "Cormorant";
-  src:
-    local("Cormorant"),
-    url("/static/fonts/cormorant-infant-500.ttf") format("truetype");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
