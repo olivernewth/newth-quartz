@@ -1,5 +1,5 @@
 ---
-title: Learning Journey
+title: Learning
 description: My approach to continuous learning and growth
 icon: 🧠
 tags: [learning, knowledge-management, growth]
