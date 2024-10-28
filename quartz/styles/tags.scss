@@ -1,0 +1,117 @@
+/* Tag base variables - Monokai Pro inspired palette */
+:root {
+  --tag-red: #ff6188;
+  --tag-orange: #fc9867;
+  --tag-yellow: #ffd866;
+  --tag-green: #a9dc76;
+  --tag-blue: #78dce8;
+  --tag-purple: #ab9df2;
+  --tag-pink: #ff75a0;
+}
+
+[saved-theme="light"] {
+  --tag-text: #ffffff;
+}
+
+[saved-theme="dark"] {
+  --tag-red: #ff8ca7;
+  --tag-orange: #ffb088;
+  --tag-yellow: #ffe488;
+  --tag-green: #c8ed9c;
+  --tag-blue: #a2e8f1;
+  --tag-purple: #c7bdf6;
+  --tag-pink: #ffacc7;
+  --tag-text: #2d2a2e;
+}
+
+/* Base tag styles */
+.tag-link {
+  border-radius: 2px !important;
+  padding: 2px 8px !important;
+  font-size: 0.875em !important;
+  transition: opacity 0.2s ease !important;
+  text-decoration: none !important;
+  color: var(--tag-text) !important;
+
+  &:hover {
+    opacity: 0.9;
+  }
+}
+
+/* Common tag categories */
+.tag-development,
+.tag-programming {
+  background: var(--tag-red) !important;
+}
+.tag-design,
+.tag-navigation {
+  background: var(--tag-orange) !important;
+}
+.tag-learning,
+.tag-guide {
+  background: var(--tag-yellow) !important;
+}
+.tag-career,
+.tag-wellness,
+.tag-health {
+  background: var(--tag-green) !important;
+}
+.tag-skills,
+.tag-frameworks {
+  background: var(--tag-blue) !important;
+}
+.tag-leadership,
+.tag-product-management {
+  background: var(--tag-purple) !important;
+}
+.tag-growth {
+  background: var(--tag-pink) !important;
+}
+
+/* Alphabetical fallbacks */
+.tag-link[class*="tag-a"],
+.tag-link[class*="tag-b"],
+.tag-link[class*="tag-c"] {
+  background: var(--tag-red) !important;
+}
+
+.tag-link[class*="tag-d"],
+.tag-link[class*="tag-e"],
+.tag-link[class*="tag-f"] {
+  background: var(--tag-orange) !important;
+}
+
+.tag-link[class*="tag-g"],
+.tag-link[class*="tag-h"],
+.tag-link[class*="tag-i"] {
+  background: var(--tag-yellow) !important;
+}
+
+.tag-link[class*="tag-j"],
+.tag-link[class*="tag-k"],
+.tag-link[class*="tag-l"] {
+  background: var(--tag-green) !important;
+}
+
+.tag-link[class*="tag-m"],
+.tag-link[class*="tag-n"],
+.tag-link[class*="tag-o"] {
+  background: var(--tag-blue) !important;
+}
+
+.tag-link[class*="tag-p"],
+.tag-link[class*="tag-q"],
+.tag-link[class*="tag-r"] {
+  background: var(--tag-purple) !important;
+}
+
+.tag-link[class*="tag-s"],
+.tag-link[class*="tag-t"],
+.tag-link[class*="tag-u"],
+.tag-link[class*="tag-v"],
+.tag-link[class*="tag-w"],
+.tag-link[class*="tag-x"],
+.tag-link[class*="tag-y"],
+.tag-link[class*="tag-z"] {
+  background: var(--tag-pink) !important;
+}

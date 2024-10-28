@@ -12,7 +12,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
           const linkDest = baseDir + `/tags/${slugTag(tag)}`
           return (
             <li>
-              <a href={linkDest} class="internal tag-link">
+              <a href={linkDest} class={`internal tag-link tag-${tag.toLowerCase()}`}>
                 {tag}
               </a>
             </li>
@@ -31,8 +31,21 @@ TagList.css = `
   display: flex;
   padding-left: 0;
   gap: 0.4rem;
-  margin: 1rem 0;
+  margin: 0;
   justify-self: end;
+}
+
+/* Style for tags in the page header */
+.page-header .tags {
+  display: inline-flex;
+  margin-left: 0.5rem;
+}
+
+.page-header .content-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
 }
 
 .section-li > .section > .tags {
@@ -46,11 +59,9 @@ TagList.css = `
   overflow-wrap: normal;
 }
 
-a.internal.tag-link {
-  border-radius: 8px;
-  background-color: var(--highlight);
-  padding: 0.2rem 0.4rem;
-  margin: 0 0.1rem;
+/* Remove comma from last content-meta span when followed by tags */
+.content-meta span:last-of-type {
+  margin-right: 8px;
 }
 `
 

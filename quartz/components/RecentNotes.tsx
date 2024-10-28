@@ -63,7 +63,7 @@ export default ((userOpts?: Partial<Options>) => {
                       {tags.map((tag) => (
                         <li>
                           <a
-                            class="internal tag-link"
+                            class={`internal tag-link tag-${tag.toLowerCase()}`}
                             href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
                           >
                             {tag}

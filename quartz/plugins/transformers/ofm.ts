@@ -340,7 +340,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   url: base + `/tags/${tag}`,
                   data: {
                     hProperties: {
-                      className: ["tag-link"],
+                      className: ["tag-link", `tag-${tag.toLowerCase()}`],
                     },
                   },
                   children: [

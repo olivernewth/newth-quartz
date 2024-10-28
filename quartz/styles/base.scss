@@ -1,6 +1,7 @@
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
+@use "./tags.scss";
 @use "sass:map" as map;
 
 html {
@@ -76,25 +77,6 @@ a {
 
   &:hover {
     color: var(--tertiary) !important;
-  }
-
-  &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
-    line-height: 1.4rem;
-
-    &:has(> img) {
-      background-color: none;
-      border-radius: 0;
-      padding: 0;
-    }
-    &.tag-link {
-      &::before {
-        content: "#";
-      }
-    }
   }
 
   &.external .external-icon {
