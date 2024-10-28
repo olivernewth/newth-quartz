@@ -1,11 +1,11 @@
 @use "./base.scss";
 
-.page>#quartz-body .sidebar {
-    gap: 1.5rem;
+.page > #quartz-body .sidebar {
+  gap: 1.5rem;
 }
 // put your custom CSS here!
 .darkmode {
-    margin:0;
+  margin: 0;
 }
 
 .page > #quartz-body {
@@ -27,7 +27,7 @@
     word-break: normal;
     overflow-wrap: break-word;
     hyphens: none;
-    
+
     .page-title {
       font-size: 1.3rem;
       font-weight: 600;
@@ -46,14 +46,13 @@
     a {
       color: var(--secondary);
       font-weight: 400;
-      
+
       &:hover {
         color: var(--dark);
       }
     }
 
     .search {
-      
       .search-button {
       }
     }
@@ -62,15 +61,13 @@
     }
 
     .explorer {
-
       button {
       }
 
       .folder-outer {
-        
         ul {
         }
-        
+
         a {
         }
       }
@@ -79,11 +76,11 @@
     @media all and (max-width: 960px) {
       gap: 1rem;
       padding: 1rem;
-      
+
       .page-title {
         margin-bottom: 0;
       }
-      
+
       .search {
         margin: 0 1rem;
       }
@@ -97,36 +94,43 @@
 }
 
 .article-title {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 button#explorer {
-    display: none;
+  display: none;
 }
 
 .graph h3 {
-    display: none;
+  display: none;
 }
 
 .tags {
-    justify-self: start;
+  justify-self: start;
 }
 
 // Add global rules to prevent mid-word breaks
-p, li, h1, h2, h3, h4, h5, h6 {
+p,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   word-break: normal;
   overflow-wrap: break-word;
   hyphens: auto;
 }
 
 @media (max-width: 960px) {
-    .page>#quartz-body .sidebar.left .search {
-        margin: 0;
-    }
+  .page > #quartz-body .sidebar.left .search {
+    margin: 0;
+  }
 }
 
 @media (max-width: 800px) {
-  .page>#quartz-body .sidebar.left {
+  .page > #quartz-body .sidebar.left {
     height: auto;
     flex-direction: row;
     padding-left: 0;
@@ -145,13 +149,13 @@ a.internal {
   border-radius: 0;
 }
 
-.graph>.graph-outer {
+.graph > .graph-outer {
   border: 0;
 }
 
-.search>.search-button {
+.search > .search-button {
   background-color: var(--lightgray);
-  
+
   p {
     color: var(--secondary);
   }
@@ -165,4 +169,13 @@ a.internal {
 
 a:active {
   color: var(--darkgray);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
 }
