@@ -32,10 +32,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.Graph({
       localGraph: {
-        depth: 1,
+        depth: 2,
       },
       globalGraph: {
-        depth: 3,
+        depth: 5,
       },
     }),
     Component.Backlinks(),
